@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-297C7570-86F6-481F-9D80-F89BF9453000,1,41:12.5,21:42.3,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2011-11-12 00:11:04.570,Female,45:10.7,African American,Divorced,English,12.22

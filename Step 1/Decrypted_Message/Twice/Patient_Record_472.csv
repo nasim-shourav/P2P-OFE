@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7AACB236-3ED2-4D30-B1EA-884DBD52AD9E,1,01:32.1,04:08.0,1.0,CBC: HEMOGLOBIN,14.1,gm/dl,1979-05-13 01:27:29.353,Female,29:56.9,White,Single,English,9.68
-7AACB236-3ED2-4D30-B1EA-884DBD52AD9E,2,35:48.2,09:02.3,1.0,CBC: HEMOGLOBIN,14.1,gm/dl,1979-05-13 01:27:29.353,Female,29:56.9,White,Single,English,9.68
-7AACB236-3ED2-4D30-B1EA-884DBD52AD9E,3,55:35.4,23:28.8,1.0,CBC: HEMOGLOBIN,14.1,gm/dl,1979-05-13 01:27:29.353,Female,29:56.9,White,Single,English,9.68

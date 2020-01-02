@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-55D96A19-7DDA-4214-B741-38426B32203E,1,10:10.6,48:10.3,1.0,METABOLIC: BUN,12.2,mg/dL,1987-02-22 17:32:57.840,Female,41:54.9,Asian,Married,Spanish,19.79
-55D96A19-7DDA-4214-B741-38426B32203E,2,15:01.8,21:07.0,1.0,METABOLIC: BUN,12.2,mg/dL,1987-02-22 17:32:57.840,Female,41:54.9,Asian,Married,Spanish,19.79

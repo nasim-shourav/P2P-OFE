@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E116CE88-D15D-4E3E-B7D3-9BC7E573D724,1,54:33.8,08:02.0,1.0,CBC: HEMATOCRIT,40.7,%,1976-08-11 17:22:25.680,Female,00:53.3,African American,Unknown,Icelandic,11.8
-E116CE88-D15D-4E3E-B7D3-9BC7E573D724,2,36:08.2,39:38.6,1.0,CBC: HEMATOCRIT,40.7,%,1976-08-11 17:22:25.680,Female,00:53.3,African American,Unknown,Icelandic,11.8
-E116CE88-D15D-4E3E-B7D3-9BC7E573D724,3,31:56.5,24:47.3,1.0,CBC: HEMATOCRIT,40.7,%,1976-08-11 17:22:25.680,Female,00:53.3,African American,Unknown,Icelandic,11.8

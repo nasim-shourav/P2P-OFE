@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-04EDA034-79DE-4A53-A4CE-D6D57072525E,1,28:22.8,40:54.0,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1991-12-28 02:33:26.857,Female,10:35.1,White,Divorced,English,8.73
-04EDA034-79DE-4A53-A4CE-D6D57072525E,2,12:04.0,22:47.0,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1991-12-28 02:33:26.857,Female,10:35.1,White,Divorced,English,8.73

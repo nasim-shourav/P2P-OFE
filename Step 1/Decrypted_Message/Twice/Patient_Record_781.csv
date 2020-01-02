@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-CD7B7EC7-E458-4A31-9426-7A42E1D44499,1,59:29.8,36:49.3,1.0,CBC: EOSINOPHILS,0.1,k/cumm,2002-06-27 18:29:23.950,Male,30:28.4,White,Single,Spanish,11.36
-CD7B7EC7-E458-4A31-9426-7A42E1D44499,2,20:10.8,36:27.9,1.0,CBC: EOSINOPHILS,0.1,k/cumm,2002-06-27 18:29:23.950,Male,30:28.4,White,Single,Spanish,11.36

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E9FEAFE3-7310-463A-A503-A86C4B143377,1,20:14.4,13:26.9,1.0,CBC: HEMOGLOBIN,14.3,gm/dl,1977-09-15 01:29:38.647,Male,53:47.8,White,Married,English,11.79
-E9FEAFE3-7310-463A-A503-A86C4B143377,2,03:02.6,49:23.7,1.0,CBC: HEMOGLOBIN,14.3,gm/dl,1977-09-15 01:29:38.647,Male,53:47.8,White,Married,English,11.79

@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C7EF7CCD-70FE-474E-9304-A3D43CE58582,1,46:32.6,50:13.0,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1968-03-19 11:29:45.963,Female,26:58.1,Asian,Married,English,15.2
-C7EF7CCD-70FE-474E-9304-A3D43CE58582,2,53:42.3,39:28.9,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1968-03-19 11:29:45.963,Female,26:58.1,Asian,Married,English,15.2
-C7EF7CCD-70FE-474E-9304-A3D43CE58582,3,45:54.7,26:21.9,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1968-03-19 11:29:45.963,Female,26:58.1,Asian,Married,English,15.2
-C7EF7CCD-70FE-474E-9304-A3D43CE58582,4,49:05.5,57:36.4,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1968-03-19 11:29:45.963,Female,26:58.1,Asian,Married,English,15.2

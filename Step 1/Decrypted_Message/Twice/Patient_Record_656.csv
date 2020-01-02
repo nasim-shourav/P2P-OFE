@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-ABE11AD2-6AFE-40D9-A6EC-959CE05C3ECA,1,37:04.9,04:18.3,1.0,CBC: MCHC,28.8,g/dl,1941-09-03 21:19:56.623,Female,00:27.5,Unknown,Divorced,Icelandic,80.96
-ABE11AD2-6AFE-40D9-A6EC-959CE05C3ECA,2,48:54.5,33:29.0,1.0,CBC: MCHC,28.8,g/dl,1941-09-03 21:19:56.623,Female,00:27.5,Unknown,Divorced,Icelandic,80.96
-ABE11AD2-6AFE-40D9-A6EC-959CE05C3ECA,3,43:59.5,49:32.6,1.0,CBC: MCHC,28.8,g/dl,1941-09-03 21:19:56.623,Female,00:27.5,Unknown,Divorced,Icelandic,80.96

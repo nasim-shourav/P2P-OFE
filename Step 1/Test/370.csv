@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-5DA8AA33-8379-4A87-82F6-5594EC860835,1,08:37.3,17:52.2,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1975-04-07 11:21:47.100,Male,53:06.6,African American,Married,English,19.06
-5DA8AA33-8379-4A87-82F6-5594EC860835,2,29:16.5,46:25.9,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1975-04-07 11:21:47.100,Male,53:06.6,African American,Married,English,19.06
-5DA8AA33-8379-4A87-82F6-5594EC860835,3,46:57.2,07:53.4,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1975-04-07 11:21:47.100,Male,53:06.6,African American,Married,English,19.06

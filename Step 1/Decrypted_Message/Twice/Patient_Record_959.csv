@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F624F98D-FB99-4321-8080-5BB1555DD7D6,1,36:02.1,33:16.1,1.0,METABOLIC: GLUCOSE,127.2,mg/dL,1969-09-12 18:35:09.997,Male,51:10.9,Asian,Married,English,17.55
-F624F98D-FB99-4321-8080-5BB1555DD7D6,2,25:23.9,38:30.0,1.0,METABOLIC: GLUCOSE,127.2,mg/dL,1969-09-12 18:35:09.997,Male,51:10.9,Asian,Married,English,17.55

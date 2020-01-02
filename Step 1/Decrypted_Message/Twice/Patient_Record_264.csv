@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-439EF89C-2468-4891-94E0-ED44C25C4F71,1,41:34.6,30:04.5,1.0,METABOLIC: POTASSIUM,6.0,mmol/L,1978-05-18 20:04:53.723,Female,08:29.5,Asian,Married,Icelandic,14.07
-439EF89C-2468-4891-94E0-ED44C25C4F71,2,21:48.3,39:23.6,1.0,METABOLIC: POTASSIUM,6.0,mmol/L,1978-05-18 20:04:53.723,Female,08:29.5,Asian,Married,Icelandic,14.07
-439EF89C-2468-4891-94E0-ED44C25C4F71,3,50:23.3,19:11.6,1.0,METABOLIC: POTASSIUM,6.0,mmol/L,1978-05-18 20:04:53.723,Female,08:29.5,Asian,Married,Icelandic,14.07
-439EF89C-2468-4891-94E0-ED44C25C4F71,4,01:02.2,47:53.7,1.0,METABOLIC: POTASSIUM,6.0,mmol/L,1978-05-18 20:04:53.723,Female,08:29.5,Asian,Married,Icelandic,14.07
-439EF89C-2468-4891-94E0-ED44C25C4F71,5,28:26.5,42:21.9,1.0,METABOLIC: POTASSIUM,6.0,mmol/L,1978-05-18 20:04:53.723,Female,08:29.5,Asian,Married,Icelandic,14.07

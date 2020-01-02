@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F86D3B78-79C3-4638-B071-ABDC9C069E4C,1,58:08.6,26:52.2,1.0,METABOLIC: ALBUMIN,3.5,gm/dL,1989-03-23 21:06:16.383,Female,19:55.3,African American,Single,English,17.0
-F86D3B78-79C3-4638-B071-ABDC9C069E4C,2,58:46.1,37:32.8,1.0,METABOLIC: ALBUMIN,3.5,gm/dL,1989-03-23 21:06:16.383,Female,19:55.3,African American,Single,English,17.0
-F86D3B78-79C3-4638-B071-ABDC9C069E4C,3,00:47.1,18:30.7,1.0,METABOLIC: ALBUMIN,3.5,gm/dL,1989-03-23 21:06:16.383,Female,19:55.3,African American,Single,English,17.0
-F86D3B78-79C3-4638-B071-ABDC9C069E4C,4,24:05.9,45:38.9,1.0,METABOLIC: ALBUMIN,3.5,gm/dL,1989-03-23 21:06:16.383,Female,19:55.3,African American,Single,English,17.0

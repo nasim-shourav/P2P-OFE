@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FCBCF4D9-0BCE-4B49-AA0E-3C9671CA6769,1,41:01.5,16:59.2,1.0,CBC: MCHC,39.0,g/dl,1993-01-17 08:28:52.623,Female,25:27.4,White,Single,English,14.68
-FCBCF4D9-0BCE-4B49-AA0E-3C9671CA6769,2,09:20.1,58:14.6,1.0,CBC: MCHC,39.0,g/dl,1993-01-17 08:28:52.623,Female,25:27.4,White,Single,English,14.68
-FCBCF4D9-0BCE-4B49-AA0E-3C9671CA6769,3,37:17.5,10:14.2,1.0,CBC: MCHC,39.0,g/dl,1993-01-17 08:28:52.623,Female,25:27.4,White,Single,English,14.68

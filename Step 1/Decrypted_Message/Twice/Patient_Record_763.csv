@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C9C801C6-4C21-48FD-ADD3-672F41C3140F,1,41:43.9,48:37.7,1.0,URINALYSIS: PH,6.6,no unit,2004-04-12 11:09:59.040,Male,09:03.7,Asian,Divorced,Icelandic,14.9
-C9C801C6-4C21-48FD-ADD3-672F41C3140F,2,01:08.5,57:47.5,1.0,URINALYSIS: PH,6.6,no unit,2004-04-12 11:09:59.040,Male,09:03.7,Asian,Divorced,Icelandic,14.9

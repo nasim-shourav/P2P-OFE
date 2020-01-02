@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-79CF5348-B133-4AD7-82E0-1A64B5142C3A,1,06:11.7,27:55.4,1.0,CBC: MCHC,32.5,g/dl,1981-07-31 21:52:17.557,Female,46:27.2,White,Separated,English,19.67
-79CF5348-B133-4AD7-82E0-1A64B5142C3A,2,26:15.9,43:11.8,1.0,CBC: MCHC,32.5,g/dl,1981-07-31 21:52:17.557,Female,46:27.2,White,Separated,English,19.67
-79CF5348-B133-4AD7-82E0-1A64B5142C3A,3,04:39.2,16:57.2,1.0,CBC: MCHC,32.5,g/dl,1981-07-31 21:52:17.557,Female,46:27.2,White,Separated,English,19.67
-79CF5348-B133-4AD7-82E0-1A64B5142C3A,4,32:15.4,05:41.6,1.0,CBC: MCHC,32.5,g/dl,1981-07-31 21:52:17.557,Female,46:27.2,White,Separated,English,19.67
-79CF5348-B133-4AD7-82E0-1A64B5142C3A,5,23:12.3,06:52.8,1.0,CBC: MCHC,32.5,g/dl,1981-07-31 21:52:17.557,Female,46:27.2,White,Separated,English,19.67

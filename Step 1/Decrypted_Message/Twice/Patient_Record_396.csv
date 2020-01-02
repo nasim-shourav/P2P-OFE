@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-62CA9E8A-B795-4E6C-A6A8-3F188EDDFCDE,1,43:05.0,26:39.1,1.0,METABOLIC: SODIUM,126.8,mmol/L,1996-03-08 08:25:10.940,Female,44:38.9,White,Unknown,English,0.63
-62CA9E8A-B795-4E6C-A6A8-3F188EDDFCDE,2,00:14.7,55:56.8,1.0,METABOLIC: SODIUM,126.8,mmol/L,1996-03-08 08:25:10.940,Female,44:38.9,White,Unknown,English,0.63

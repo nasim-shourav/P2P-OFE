@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-2D1E3ADA-C125-4FE5-B62B-E423CFB1963E,1,00:14.8,37:01.8,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1954-10-23 11:14:36.427,Female,51:55.1,African American,Married,Spanish,16.43
-2D1E3ADA-C125-4FE5-B62B-E423CFB1963E,2,48:31.4,40:20.7,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1954-10-23 11:14:36.427,Female,51:55.1,African American,Married,Spanish,16.43
-2D1E3ADA-C125-4FE5-B62B-E423CFB1963E,3,10:25.3,42:56.1,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1954-10-23 11:14:36.427,Female,51:55.1,African American,Married,Spanish,16.43
-2D1E3ADA-C125-4FE5-B62B-E423CFB1963E,4,46:28.4,34:31.9,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1954-10-23 11:14:36.427,Female,51:55.1,African American,Married,Spanish,16.43
-2D1E3ADA-C125-4FE5-B62B-E423CFB1963E,5,33:43.7,55:08.6,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1954-10-23 11:14:36.427,Female,51:55.1,African American,Married,Spanish,16.43

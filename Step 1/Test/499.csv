@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-81DB7079-CCF2-4A3C-A90D-CB2D3B385AB0,1,20:22.7,36:14.0,1.0,URINALYSIS: PH,5.4,no unit,1988-02-11 03:16:27.333,Female,14:32.3,Asian,Single,English,13.86
-81DB7079-CCF2-4A3C-A90D-CB2D3B385AB0,2,48:29.1,58:11.7,1.0,URINALYSIS: PH,5.4,no unit,1988-02-11 03:16:27.333,Female,14:32.3,Asian,Single,English,13.86
-81DB7079-CCF2-4A3C-A90D-CB2D3B385AB0,3,14:30.4,41:59.6,1.0,URINALYSIS: PH,5.4,no unit,1988-02-11 03:16:27.333,Female,14:32.3,Asian,Single,English,13.86
-81DB7079-CCF2-4A3C-A90D-CB2D3B385AB0,4,50:10.5,11:23.3,1.0,URINALYSIS: PH,5.4,no unit,1988-02-11 03:16:27.333,Female,14:32.3,Asian,Single,English,13.86
-81DB7079-CCF2-4A3C-A90D-CB2D3B385AB0,5,07:56.8,49:55.5,1.0,URINALYSIS: PH,5.4,no unit,1988-02-11 03:16:27.333,Female,14:32.3,Asian,Single,English,13.86

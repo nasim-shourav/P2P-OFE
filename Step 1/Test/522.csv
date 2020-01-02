@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-87DE3391-784E-4888-9553-22C095A35C81,1,19:00.5,23:19.4,1.0,METABOLIC: ALBUMIN,3.4,gm/dL,2002-05-31 19:07:49.093,Male,22:25.2,Unknown,Single,English,16.2
-87DE3391-784E-4888-9553-22C095A35C81,2,57:27.6,20:53.9,1.0,METABOLIC: ALBUMIN,3.4,gm/dL,2002-05-31 19:07:49.093,Male,22:25.2,Unknown,Single,English,16.2

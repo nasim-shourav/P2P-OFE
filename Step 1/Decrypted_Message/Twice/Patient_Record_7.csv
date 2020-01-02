@@ -1,7 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,1,57:55.3,02:58.3,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,2,15:51.4,03:19.4,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,3,11:27.2,01:07.4,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,4,01:31.3,16:28.2,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,5,32:59.0,57:18.7,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02
-012C05DD-C00F-40DA-9055-46C1C0B80EA3,6,39:11.6,38:24.3,1.0,CBC: MCH,35.6,pg,1964-02-09 13:28:31.820,Male,32:06.5,White,Married,Unknown,17.02

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-987B4FCD-0541-4607-8C69-DF92D46B6A52,1,50:14.0,59:08.4,1.0,CBC: ABSOLUTE LYMPHOCYTES,19.6,%,1962-06-29 03:32:39.780,Female,25:09.5,Asian,Single,English,16.54
-987B4FCD-0541-4607-8C69-DF92D46B6A52,2,34:38.2,33:28.1,1.0,CBC: ABSOLUTE LYMPHOCYTES,19.6,%,1962-06-29 03:32:39.780,Female,25:09.5,Asian,Single,English,16.54

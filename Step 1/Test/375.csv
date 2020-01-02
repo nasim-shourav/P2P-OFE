@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-5F429DBF-B0FF-46FD-AB5E-402B91D154FD,1,49:09.0,10:59.8,1.0,METABOLIC: TOTAL PROTEIN,9.7,gm/dL,1965-09-20 16:29:21.373,Male,44:42.1,White,Single,English,10.31
-5F429DBF-B0FF-46FD-AB5E-402B91D154FD,2,55:57.3,07:30.4,1.0,METABOLIC: TOTAL PROTEIN,9.7,gm/dL,1965-09-20 16:29:21.373,Male,44:42.1,White,Single,English,10.31

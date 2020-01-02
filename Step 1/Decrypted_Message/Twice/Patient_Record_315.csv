@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-4F29F78C-811F-4907-B302-4FF6EE15BF68,1,38:51.0,15:38.8,1.0,METABOLIC: CARBON DIOXIDE,21.3,mmol/L,1969-02-13 19:07:40.353,Male,25:41.5,African American,Married,English,5.0
-4F29F78C-811F-4907-B302-4FF6EE15BF68,2,56:50.7,05:28.4,1.0,METABOLIC: CARBON DIOXIDE,21.3,mmol/L,1969-02-13 19:07:40.353,Male,25:41.5,African American,Married,English,5.0
-4F29F78C-811F-4907-B302-4FF6EE15BF68,3,03:48.9,07:09.0,1.0,METABOLIC: CARBON DIOXIDE,21.3,mmol/L,1969-02-13 19:07:40.353,Male,25:41.5,African American,Married,English,5.0
-4F29F78C-811F-4907-B302-4FF6EE15BF68,4,04:17.6,14:10.2,1.0,METABOLIC: CARBON DIOXIDE,21.3,mmol/L,1969-02-13 19:07:40.353,Male,25:41.5,African American,Married,English,5.0

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D4C09345-2E27-4310-9AB0-8E818D2A9D96,1,53:14.7,12:48.3,1.0,CBC: MEAN CORPUSCULAR VOLUME,86.7,fl,1972-06-19 00:14:35.673,Male,38:54.0,Unknown,Married,English,15.23
-D4C09345-2E27-4310-9AB0-8E818D2A9D96,2,06:05.6,04:16.2,1.0,CBC: MEAN CORPUSCULAR VOLUME,86.7,fl,1972-06-19 00:14:35.673,Male,38:54.0,Unknown,Married,English,15.23
-D4C09345-2E27-4310-9AB0-8E818D2A9D96,3,33:44.2,27:58.3,1.0,CBC: MEAN CORPUSCULAR VOLUME,86.7,fl,1972-06-19 00:14:35.673,Male,38:54.0,Unknown,Married,English,15.23

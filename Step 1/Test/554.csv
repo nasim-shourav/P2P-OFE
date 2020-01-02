@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-8FADCCDD-138D-491A-B06E-90BAC6B6E79B,1,33:33.4,51:45.0,1.0,URINALYSIS: WHITE BLOOD CELLS,1.5,wbc/hpf,2003-07-05 17:05:03.310,Female,53:59.7,Unknown,Single,English,12.79
-8FADCCDD-138D-491A-B06E-90BAC6B6E79B,2,32:22.7,39:28.4,1.0,URINALYSIS: WHITE BLOOD CELLS,1.5,wbc/hpf,2003-07-05 17:05:03.310,Female,53:59.7,Unknown,Single,English,12.79
-8FADCCDD-138D-491A-B06E-90BAC6B6E79B,3,08:34.0,12:55.4,1.0,URINALYSIS: WHITE BLOOD CELLS,1.5,wbc/hpf,2003-07-05 17:05:03.310,Female,53:59.7,Unknown,Single,English,12.79
-8FADCCDD-138D-491A-B06E-90BAC6B6E79B,4,26:25.0,40:47.4,1.0,URINALYSIS: WHITE BLOOD CELLS,1.5,wbc/hpf,2003-07-05 17:05:03.310,Female,53:59.7,Unknown,Single,English,12.79

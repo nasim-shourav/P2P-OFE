@@ -1,7 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,1,24:43.1,08:22.3,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,2,04:53.8,23:37.3,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,3,29:08.7,59:31.1,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,4,25:39.0,57:36.1,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,5,14:59.1,06:40.6,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37
-8266F9CE-F613-46E2-8518-C0F6AE64DF51,6,28:19.4,58:17.2,1.0,CBC: RDW,16.5,%,1967-03-02 15:54:12.897,Male,05:06.0,White,Single,Icelandic,11.37

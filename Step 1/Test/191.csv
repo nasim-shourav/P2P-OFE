@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-2E888F81-6E1B-48A2-B782-3092409A40F7,1,20:02.9,31:03.4,1.0,URINALYSIS: WHITE BLOOD CELLS,5.4,wbc/hpf,1982-03-20 05:06:46.737,Female,34:45.5,Asian,Married,English,15.1
-2E888F81-6E1B-48A2-B782-3092409A40F7,2,32:11.9,39:24.4,1.0,URINALYSIS: WHITE BLOOD CELLS,5.4,wbc/hpf,1982-03-20 05:06:46.737,Female,34:45.5,Asian,Married,English,15.1

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B31067CE-FA99-444F-AB91-E73BAF8654BC,1,43:33.1,03:48.4,1.0,METABOLIC: BUN,25.7,mg/dL,1984-07-27 10:40:02.170,Male,17:10.5,Unknown,Married,Spanish,19.28
-B31067CE-FA99-444F-AB91-E73BAF8654BC,2,23:06.0,09:18.6,1.0,METABOLIC: BUN,25.7,mg/dL,1984-07-27 10:40:02.170,Male,17:10.5,Unknown,Married,Spanish,19.28
-B31067CE-FA99-444F-AB91-E73BAF8654BC,3,50:39.5,02:20.1,1.0,METABOLIC: BUN,25.7,mg/dL,1984-07-27 10:40:02.170,Male,17:10.5,Unknown,Married,Spanish,19.28

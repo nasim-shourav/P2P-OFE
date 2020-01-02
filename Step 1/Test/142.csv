@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-23DEA821-F839-40AA-82AA-90710E494CFC,1,37:01.0,29:32.8,1.0,METABOLIC: SODIUM,137.1,mmol/L,1977-06-21 12:06:47.643,Male,44:33.8,White,Single,Icelandic,6.34
-23DEA821-F839-40AA-82AA-90710E494CFC,2,20:47.8,38:40.6,1.0,METABOLIC: SODIUM,137.1,mmol/L,1977-06-21 12:06:47.643,Male,44:33.8,White,Single,Icelandic,6.34

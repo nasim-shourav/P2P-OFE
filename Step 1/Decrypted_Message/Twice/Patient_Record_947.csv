@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F34ADED9-312D-46D8-9B9A-D3AF22AC528A,1,26:30.2,15:18.0,1.0,URINALYSIS: RED BLOOD CELLS,1.5,rbc/hpf,2003-02-15 20:19:52.907,Male,59:27.9,White,Divorced,English,13.4
-F34ADED9-312D-46D8-9B9A-D3AF22AC528A,2,54:49.4,00:57.3,1.0,URINALYSIS: RED BLOOD CELLS,1.5,rbc/hpf,2003-02-15 20:19:52.907,Male,59:27.9,White,Divorced,English,13.4

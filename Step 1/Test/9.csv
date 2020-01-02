@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-016A4267-593F-4520-968E-FD8F97FC4E42,1,32:00.6,28:20.5,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1952-07-19 11:13:10.150,Male,58:23.8,Asian,Single,English,11.96
-016A4267-593F-4520-968E-FD8F97FC4E42,2,15:05.4,54:04.1,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1952-07-19 11:13:10.150,Male,58:23.8,Asian,Single,English,11.96
-016A4267-593F-4520-968E-FD8F97FC4E42,3,29:25.2,34:03.9,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1952-07-19 11:13:10.150,Male,58:23.8,Asian,Single,English,11.96
-016A4267-593F-4520-968E-FD8F97FC4E42,4,07:45.4,01:55.3,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1952-07-19 11:13:10.150,Male,58:23.8,Asian,Single,English,11.96

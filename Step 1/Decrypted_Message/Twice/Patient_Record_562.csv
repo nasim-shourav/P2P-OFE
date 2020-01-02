@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-92D777EF-F277-4587-829C-B99925B8BD07,1,31:01.8,46:31.0,1.0,METABOLIC: TOTAL PROTEIN,8.0,gm/dL,1987-12-08 11:55:30.903,Female,13:09.5,Asian,Widowed,Spanish,18.18
-92D777EF-F277-4587-829C-B99925B8BD07,2,38:36.9,37:16.4,1.0,METABOLIC: TOTAL PROTEIN,8.0,gm/dL,1987-12-08 11:55:30.903,Female,13:09.5,Asian,Widowed,Spanish,18.18

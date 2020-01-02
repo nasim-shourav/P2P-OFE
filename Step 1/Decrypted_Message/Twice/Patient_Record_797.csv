@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D096246E-8200-48D8-A26C-0BBEE60CD743,1,28:56.0,58:02.4,1.0,METABOLIC: CARBON DIOXIDE,24.2,mmol/L,1955-08-31 05:15:30.367,Female,52:22.9,White,Divorced,English,7.75
-D096246E-8200-48D8-A26C-0BBEE60CD743,2,00:46.3,51:26.8,1.0,METABOLIC: CARBON DIOXIDE,24.2,mmol/L,1955-08-31 05:15:30.367,Female,52:22.9,White,Divorced,English,7.75

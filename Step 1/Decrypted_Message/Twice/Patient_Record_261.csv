@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-428EB673-6860-4542-BE35-02A913AEF9BC,1,39:04.9,02:41.0,1.0,CBC: ABSOLUTE LYMPHOCYTES,19.0,%,1980-11-02 07:44:26.920,Female,32:52.4,White,Single,Icelandic,12.81
-428EB673-6860-4542-BE35-02A913AEF9BC,2,34:09.3,02:57.6,1.0,CBC: ABSOLUTE LYMPHOCYTES,19.0,%,1980-11-02 07:44:26.920,Female,32:52.4,White,Single,Icelandic,12.81

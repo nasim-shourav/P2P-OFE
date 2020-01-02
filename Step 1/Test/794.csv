@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D040B750-0DE8-4714-8431-3B3DBC5B3DCA,1,16:43.5,57:03.5,1.0,METABOLIC: CARBON DIOXIDE,23.7,mmol/L,1981-10-23 00:51:28.840,Male,56:05.3,Unknown,Single,Spanish,0.7
-D040B750-0DE8-4714-8431-3B3DBC5B3DCA,2,22:49.9,31:49.3,1.0,METABOLIC: CARBON DIOXIDE,23.7,mmol/L,1981-10-23 00:51:28.840,Male,56:05.3,Unknown,Single,Spanish,0.7
-D040B750-0DE8-4714-8431-3B3DBC5B3DCA,3,07:39.8,13:44.9,1.0,METABOLIC: CARBON DIOXIDE,23.7,mmol/L,1981-10-23 00:51:28.840,Male,56:05.3,Unknown,Single,Spanish,0.7

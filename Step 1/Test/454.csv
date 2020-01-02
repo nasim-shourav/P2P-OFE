@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-76591580-75D3-419F-ABA6-87FCA3E9064F,1,22:41.1,38:05.1,1.0,URINALYSIS: RED BLOOD CELLS,2.4,rbc/hpf,1968-05-29 07:04:04.107,Male,38:32.9,White,Married,English,15.09
-76591580-75D3-419F-ABA6-87FCA3E9064F,2,25:28.0,16:39.4,1.0,URINALYSIS: RED BLOOD CELLS,2.4,rbc/hpf,1968-05-29 07:04:04.107,Male,38:32.9,White,Married,English,15.09
-76591580-75D3-419F-ABA6-87FCA3E9064F,3,29:17.3,35:55.0,1.0,URINALYSIS: RED BLOOD CELLS,2.4,rbc/hpf,1968-05-29 07:04:04.107,Male,38:32.9,White,Married,English,15.09
-76591580-75D3-419F-ABA6-87FCA3E9064F,4,59:40.6,54:57.1,1.0,URINALYSIS: RED BLOOD CELLS,2.4,rbc/hpf,1968-05-29 07:04:04.107,Male,38:32.9,White,Married,English,15.09

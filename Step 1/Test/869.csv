@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E1958A46-21A3-41DA-AB3B-E1410DEAD25C,1,48:46.4,46:21.5,1.0,CBC: RED BLOOD CELL COUNT,5.3,m/cumm,1989-04-03 07:16:55.927,Male,45:12.9,African American,Married,Icelandic,0.15
-E1958A46-21A3-41DA-AB3B-E1410DEAD25C,2,33:27.4,15:18.7,1.0,CBC: RED BLOOD CELL COUNT,5.3,m/cumm,1989-04-03 07:16:55.927,Male,45:12.9,African American,Married,Icelandic,0.15
-E1958A46-21A3-41DA-AB3B-E1410DEAD25C,3,26:24.7,51:44.8,1.0,CBC: RED BLOOD CELL COUNT,5.3,m/cumm,1989-04-03 07:16:55.927,Male,45:12.9,African American,Married,Icelandic,0.15

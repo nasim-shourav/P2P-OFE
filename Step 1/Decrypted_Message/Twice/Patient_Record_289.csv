@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-47EED389-17CE-4A72-BACA-F9B861F8257E,1,52:49.9,33:42.8,1.0,CBC: RDW,16.4,%,1954-01-20 09:03:31.687,Male,14:32.8,White,Divorced,English,18.73
-47EED389-17CE-4A72-BACA-F9B861F8257E,2,21:38.3,32:01.2,1.0,CBC: RDW,16.4,%,1954-01-20 09:03:31.687,Male,14:32.8,White,Divorced,English,18.73

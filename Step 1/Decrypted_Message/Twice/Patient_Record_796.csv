@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D0834DA4-1042-4EF0-BFE6-79EF73E6881F,1,36:54.2,12:31.0,1.0,URINALYSIS: PH,7.1,no unit,1954-11-20 15:50:55.863,Female,24:18.7,Asian,Unknown,Icelandic,10.77
-D0834DA4-1042-4EF0-BFE6-79EF73E6881F,2,39:19.7,30:38.2,1.0,URINALYSIS: PH,7.1,no unit,1954-11-20 15:50:55.863,Female,24:18.7,Asian,Unknown,Icelandic,10.77
-D0834DA4-1042-4EF0-BFE6-79EF73E6881F,3,06:41.9,42:45.4,1.0,URINALYSIS: PH,7.1,no unit,1954-11-20 15:50:55.863,Female,24:18.7,Asian,Unknown,Icelandic,10.77
-D0834DA4-1042-4EF0-BFE6-79EF73E6881F,4,51:59.8,17:07.9,1.0,URINALYSIS: PH,7.1,no unit,1954-11-20 15:50:55.863,Female,24:18.7,Asian,Unknown,Icelandic,10.77
-D0834DA4-1042-4EF0-BFE6-79EF73E6881F,5,27:22.2,00:56.5,1.0,URINALYSIS: PH,7.1,no unit,1954-11-20 15:50:55.863,Female,24:18.7,Asian,Unknown,Icelandic,10.77

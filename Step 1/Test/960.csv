@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F6E3F2B6-545F-4D4E-A16B-1FB89936E567,1,09:21.4,29:27.4,1.0,URINALYSIS: PH,7.4,no unit,1980-10-04 07:11:50.170,Female,34:17.6,White,Divorced,English,11.17
-F6E3F2B6-545F-4D4E-A16B-1FB89936E567,2,29:45.9,00:04.9,1.0,URINALYSIS: PH,7.4,no unit,1980-10-04 07:11:50.170,Female,34:17.6,White,Divorced,English,11.17
-F6E3F2B6-545F-4D4E-A16B-1FB89936E567,3,50:29.3,02:34.5,1.0,URINALYSIS: PH,7.4,no unit,1980-10-04 07:11:50.170,Female,34:17.6,White,Divorced,English,11.17
-F6E3F2B6-545F-4D4E-A16B-1FB89936E567,4,22:20.5,39:19.0,1.0,URINALYSIS: PH,7.4,no unit,1980-10-04 07:11:50.170,Female,34:17.6,White,Divorced,English,11.17

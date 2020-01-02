@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-AF2F20A0-EE1F-42F9-A012-6C70651CB8D3,1,57:53.0,08:47.2,1.0,METABOLIC: CARBON DIOXIDE,27.2,mmol/L,1985-10-12 07:59:36.803,Female,43:20.2,White,Single,English,81.84
-AF2F20A0-EE1F-42F9-A012-6C70651CB8D3,2,12:32.4,45:11.9,1.0,METABOLIC: CARBON DIOXIDE,27.2,mmol/L,1985-10-12 07:59:36.803,Female,43:20.2,White,Single,English,81.84
-AF2F20A0-EE1F-42F9-A012-6C70651CB8D3,3,50:16.1,06:53.4,1.0,METABOLIC: CARBON DIOXIDE,27.2,mmol/L,1985-10-12 07:59:36.803,Female,43:20.2,White,Single,English,81.84
-AF2F20A0-EE1F-42F9-A012-6C70651CB8D3,4,54:29.7,39:02.6,1.0,METABOLIC: CARBON DIOXIDE,27.2,mmol/L,1985-10-12 07:59:36.803,Female,43:20.2,White,Single,English,81.84

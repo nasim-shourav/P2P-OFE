@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-A19974E2-AAFA-4ADB-A366-C0DAEB526ACE,1,30:43.9,53:03.9,1.0,CBC: ABSOLUTE LYMPHOCYTES,16.7,%,1994-09-06 01:49:23.213,Male,12:44.7,African American,Single,Icelandic,13.72
-A19974E2-AAFA-4ADB-A366-C0DAEB526ACE,2,27:38.8,12:00.8,1.0,CBC: ABSOLUTE LYMPHOCYTES,16.7,%,1994-09-06 01:49:23.213,Male,12:44.7,African American,Single,Icelandic,13.72
-A19974E2-AAFA-4ADB-A366-C0DAEB526ACE,3,51:43.1,13:33.3,1.0,CBC: ABSOLUTE LYMPHOCYTES,16.7,%,1994-09-06 01:49:23.213,Male,12:44.7,African American,Single,Icelandic,13.72
-A19974E2-AAFA-4ADB-A366-C0DAEB526ACE,4,15:06.3,23:42.6,1.0,CBC: ABSOLUTE LYMPHOCYTES,16.7,%,1994-09-06 01:49:23.213,Male,12:44.7,African American,Single,Icelandic,13.72

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-9BEF2670-8DB7-4C4B-B2B7-188DE242A85B,1,25:46.1,00:41.9,1.0,CBC: MEAN CORPUSCULAR VOLUME,83.7,fl,1960-10-10 14:43:31.433,Male,30:48.8,African American,Unknown,English,16.82
-9BEF2670-8DB7-4C4B-B2B7-188DE242A85B,2,39:32.9,40:17.6,1.0,CBC: MEAN CORPUSCULAR VOLUME,83.7,fl,1960-10-10 14:43:31.433,Male,30:48.8,African American,Unknown,English,16.82

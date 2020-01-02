@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-443BA6ED-71CC-4644-B28A-B9969B3F08C4,1,26:11.4,37:47.2,1.0,METABOLIC: ALK PHOS,62.2,U/L,1963-02-05 09:16:32.583,Male,48:35.5,White,Unknown,English,11.11
-443BA6ED-71CC-4644-B28A-B9969B3F08C4,2,17:43.5,13:27.6,1.0,METABOLIC: ALK PHOS,62.2,U/L,1963-02-05 09:16:32.583,Male,48:35.5,White,Unknown,English,11.11
-443BA6ED-71CC-4644-B28A-B9969B3F08C4,3,52:13.0,23:42.3,1.0,METABOLIC: ALK PHOS,62.2,U/L,1963-02-05 09:16:32.583,Male,48:35.5,White,Unknown,English,11.11
-443BA6ED-71CC-4644-B28A-B9969B3F08C4,4,47:29.9,32:54.4,1.0,METABOLIC: ALK PHOS,62.2,U/L,1963-02-05 09:16:32.583,Male,48:35.5,White,Unknown,English,11.11

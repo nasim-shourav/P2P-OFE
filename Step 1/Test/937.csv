@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-EF790975-B16C-406E-96AF-A4AF96A1AD38,1,52:22.0,55:54.7,1.0,CBC: ABSOLUTE NEUTROPHILS,80.0,%,1981-11-06 22:46:34.880,Male,13:53.5,African American,Separated,English,12.0
-EF790975-B16C-406E-96AF-A4AF96A1AD38,2,31:59.1,18:27.0,1.0,CBC: ABSOLUTE NEUTROPHILS,80.0,%,1981-11-06 22:46:34.880,Male,13:53.5,African American,Separated,English,12.0

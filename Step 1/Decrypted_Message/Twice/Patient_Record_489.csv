@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7F41065D-E39D-4241-93D2-CC17D794C334,1,28:09.5,11:20.0,1.0,URINALYSIS: RED BLOOD CELLS,1.0,rbc/hpf,1984-09-24 22:06:09.957,Male,22:55.6,Asian,Single,Spanish,18.29
-7F41065D-E39D-4241-93D2-CC17D794C334,2,14:58.7,09:37.4,1.0,URINALYSIS: RED BLOOD CELLS,1.0,rbc/hpf,1984-09-24 22:06:09.957,Male,22:55.6,Asian,Single,Spanish,18.29
-7F41065D-E39D-4241-93D2-CC17D794C334,3,29:08.3,04:44.1,1.0,URINALYSIS: RED BLOOD CELLS,1.0,rbc/hpf,1984-09-24 22:06:09.957,Male,22:55.6,Asian,Single,Spanish,18.29

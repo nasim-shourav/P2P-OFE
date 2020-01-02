@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-29833620-DDEC-4FC5-ABF2-F44A0F2EB234,1,22:39.4,02:08.8,1.0,METABOLIC: SODIUM,134.2,mmol/L,1987-05-30 00:42:07.203,Male,03:22.5,Asian,Separated,Spanish,14.21
-29833620-DDEC-4FC5-ABF2-F44A0F2EB234,2,59:49.6,00:00.8,1.0,METABOLIC: SODIUM,134.2,mmol/L,1987-05-30 00:42:07.203,Male,03:22.5,Asian,Separated,Spanish,14.21
-29833620-DDEC-4FC5-ABF2-F44A0F2EB234,3,40:02.8,39:13.6,1.0,METABOLIC: SODIUM,134.2,mmol/L,1987-05-30 00:42:07.203,Male,03:22.5,Asian,Separated,Spanish,14.21
-29833620-DDEC-4FC5-ABF2-F44A0F2EB234,4,27:36.7,48:14.0,1.0,METABOLIC: SODIUM,134.2,mmol/L,1987-05-30 00:42:07.203,Male,03:22.5,Asian,Separated,Spanish,14.21

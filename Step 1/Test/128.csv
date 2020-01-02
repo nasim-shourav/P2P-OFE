@@ -1,7 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,1,43:29.4,43:07.8,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,2,17:49.6,39:43.9,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,3,44:18.3,05:01.1,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,4,01:38.8,57:53.5,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,5,19:43.8,03:35.8,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3
-203BBA3F-CC81-40CA-A1D9-EAFC610F25FB,6,58:35.1,36:48.5,1.0,CBC: MCH,39.1,pg,1972-03-27 22:48:04.873,Female,23:38.7,White,Single,English,13.3

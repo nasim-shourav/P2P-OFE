@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C19ED1B8-8837-4B70-B752-CDADE2121107,1,29:43.4,05:13.3,1.0,URINALYSIS: PH,7.3,no unit,1965-01-19 11:12:39.103,Female,34:42.1,Asian,Married,English,18.27
-C19ED1B8-8837-4B70-B752-CDADE2121107,2,35:52.0,33:03.0,1.0,URINALYSIS: PH,7.3,no unit,1965-01-19 11:12:39.103,Female,34:42.1,Asian,Married,English,18.27
-C19ED1B8-8837-4B70-B752-CDADE2121107,3,00:45.9,26:15.8,1.0,URINALYSIS: PH,7.3,no unit,1965-01-19 11:12:39.103,Female,34:42.1,Asian,Married,English,18.27
-C19ED1B8-8837-4B70-B752-CDADE2121107,4,54:10.4,54:37.6,1.0,URINALYSIS: PH,7.3,no unit,1965-01-19 11:12:39.103,Female,34:42.1,Asian,Married,English,18.27
-C19ED1B8-8837-4B70-B752-CDADE2121107,5,17:14.1,38:39.3,1.0,URINALYSIS: PH,7.3,no unit,1965-01-19 11:12:39.103,Female,34:42.1,Asian,Married,English,18.27

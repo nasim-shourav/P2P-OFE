@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FAEDFCF7-432B-44B5-BB7F-46F95A140212,1,57:24.6,50:02.1,1.0,CBC: RDW,10.2,%,1977-08-26 02:51:25.907,Female,08:36.4,White,Separated,Spanish,13.34
-FAEDFCF7-432B-44B5-BB7F-46F95A140212,2,30:59.3,19:23.3,1.0,CBC: RDW,10.2,%,1977-08-26 02:51:25.907,Female,08:36.4,White,Separated,Spanish,13.34
-FAEDFCF7-432B-44B5-BB7F-46F95A140212,3,08:11.6,19:48.7,1.0,CBC: RDW,10.2,%,1977-08-26 02:51:25.907,Female,08:36.4,White,Separated,Spanish,13.34
-FAEDFCF7-432B-44B5-BB7F-46F95A140212,4,18:39.2,39:35.1,1.0,CBC: RDW,10.2,%,1977-08-26 02:51:25.907,Female,08:36.4,White,Separated,Spanish,13.34

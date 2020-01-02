@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-03E004E4-39F0-4322-B84E-5D88969FAD79,1,16:32.1,58:19.9,1.0,CBC: HEMOGLOBIN,17.5,gm/dl,1975-07-03 00:57:10.727,Male,37:25.1,White,Married,English,15.83
-03E004E4-39F0-4322-B84E-5D88969FAD79,2,13:38.9,20:04.3,1.0,CBC: HEMOGLOBIN,17.5,gm/dl,1975-07-03 00:57:10.727,Male,37:25.1,White,Married,English,15.83
-03E004E4-39F0-4322-B84E-5D88969FAD79,3,41:31.7,23:25.9,1.0,CBC: HEMOGLOBIN,17.5,gm/dl,1975-07-03 00:57:10.727,Male,37:25.1,White,Married,English,15.83
-03E004E4-39F0-4322-B84E-5D88969FAD79,4,48:29.9,43:25.6,1.0,CBC: HEMOGLOBIN,17.5,gm/dl,1975-07-03 00:57:10.727,Male,37:25.1,White,Married,English,15.83
-03E004E4-39F0-4322-B84E-5D88969FAD79,5,23:31.3,58:11.5,1.0,CBC: HEMOGLOBIN,17.5,gm/dl,1975-07-03 00:57:10.727,Male,37:25.1,White,Married,English,15.83

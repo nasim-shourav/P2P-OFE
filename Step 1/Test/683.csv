@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B301D405-C730-43DB-91B9-4861D329AF5A,1,10:42.7,09:24.6,1.0,METABOLIC: TOTAL PROTEIN,7.2,gm/dL,1962-04-21 14:39:36.573,Male,18:08.0,Unknown,Married,English,18.04
-B301D405-C730-43DB-91B9-4861D329AF5A,2,21:29.8,17:43.4,1.0,METABOLIC: TOTAL PROTEIN,7.2,gm/dL,1962-04-21 14:39:36.573,Male,18:08.0,Unknown,Married,English,18.04
-B301D405-C730-43DB-91B9-4861D329AF5A,3,23:57.2,44:58.3,1.0,METABOLIC: TOTAL PROTEIN,7.2,gm/dL,1962-04-21 14:39:36.573,Male,18:08.0,Unknown,Married,English,18.04

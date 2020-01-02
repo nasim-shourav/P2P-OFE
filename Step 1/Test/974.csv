@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FA4EE10A-B1A0-4038-A69E-964C93798405,1,20:22.0,20:29.2,1.0,METABOLIC: TOTAL PROTEIN,6.0,gm/dL,1945-03-30 12:40:38.210,Female,58:40.9,Asian,Married,Unknown,98.77
-FA4EE10A-B1A0-4038-A69E-964C93798405,2,15:58.2,24:59.1,1.0,METABOLIC: TOTAL PROTEIN,6.0,gm/dL,1945-03-30 12:40:38.210,Female,58:40.9,Asian,Married,Unknown,98.77
-FA4EE10A-B1A0-4038-A69E-964C93798405,3,56:41.3,47:21.0,1.0,METABOLIC: TOTAL PROTEIN,6.0,gm/dL,1945-03-30 12:40:38.210,Female,58:40.9,Asian,Married,Unknown,98.77
-FA4EE10A-B1A0-4038-A69E-964C93798405,4,07:24.9,10:22.7,1.0,METABOLIC: TOTAL PROTEIN,6.0,gm/dL,1945-03-30 12:40:38.210,Female,58:40.9,Asian,Married,Unknown,98.77

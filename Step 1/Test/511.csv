@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-849C1C39-D282-49D8-A82A-1E678D014883,1,26:21.1,40:05.0,1.0,URINALYSIS: WHITE BLOOD CELLS,4.1,wbc/hpf,1966-04-05 13:28:28.570,Male,32:29.4,Asian,Married,Spanish,95.57
-849C1C39-D282-49D8-A82A-1E678D014883,2,23:48.0,10:18.0,1.0,URINALYSIS: WHITE BLOOD CELLS,4.1,wbc/hpf,1966-04-05 13:28:28.570,Male,32:29.4,Asian,Married,Spanish,95.57
-849C1C39-D282-49D8-A82A-1E678D014883,3,02:04.1,43:47.3,1.0,URINALYSIS: WHITE BLOOD CELLS,4.1,wbc/hpf,1966-04-05 13:28:28.570,Male,32:29.4,Asian,Married,Spanish,95.57
-849C1C39-D282-49D8-A82A-1E678D014883,4,54:41.3,58:17.8,1.0,URINALYSIS: WHITE BLOOD CELLS,4.1,wbc/hpf,1966-04-05 13:28:28.570,Male,32:29.4,Asian,Married,Spanish,95.57

@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7B900AC3-B974-4805-BE3D-E7237B1DBA30,1,36:06.9,05:51.3,1.0,CBC: HEMOGLOBIN,12.4,gm/dl,1963-07-01 17:56:10.263,Male,39:53.5,White,Divorced,English,13.88
-7B900AC3-B974-4805-BE3D-E7237B1DBA30,2,59:42.7,54:27.1,1.0,CBC: HEMOGLOBIN,12.4,gm/dl,1963-07-01 17:56:10.263,Male,39:53.5,White,Divorced,English,13.88
-7B900AC3-B974-4805-BE3D-E7237B1DBA30,3,40:41.2,44:45.8,1.0,CBC: HEMOGLOBIN,12.4,gm/dl,1963-07-01 17:56:10.263,Male,39:53.5,White,Divorced,English,13.88
-7B900AC3-B974-4805-BE3D-E7237B1DBA30,4,34:29.7,16:37.7,1.0,CBC: HEMOGLOBIN,12.4,gm/dl,1963-07-01 17:56:10.263,Male,39:53.5,White,Divorced,English,13.88
-7B900AC3-B974-4805-BE3D-E7237B1DBA30,5,03:56.3,06:23.2,1.0,CBC: HEMOGLOBIN,12.4,gm/dl,1963-07-01 17:56:10.263,Male,39:53.5,White,Divorced,English,13.88

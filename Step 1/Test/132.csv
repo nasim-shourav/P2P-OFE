@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-21DEE582-B772-4235-9135-BA16027EDC28,1,23:57.5,52:19.9,1.0,METABOLIC: BUN,6.6,mg/dL,1988-09-22 18:40:19.757,Male,12:27.1,Asian,Married,English,18.76
-21DEE582-B772-4235-9135-BA16027EDC28,2,33:57.7,37:49.4,1.0,METABOLIC: BUN,6.6,mg/dL,1988-09-22 18:40:19.757,Male,12:27.1,Asian,Married,English,18.76

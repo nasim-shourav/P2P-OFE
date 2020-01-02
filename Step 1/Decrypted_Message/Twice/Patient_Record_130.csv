@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-20968F20-CE43-440E-B78A-620036615CFF,1,39:13.9,19:53.6,1.0,METABOLIC: POTASSIUM,5.1,mmol/L,2009-05-11 16:23:28.473,Female,16:25.9,African American,Divorced,English,8.42

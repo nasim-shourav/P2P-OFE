@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-806213FF-08C7-4869-BACF-AA2EE60EC832,1,22:16.3,54:39.4,1.0,CBC: NEUTROPHILS,2.5,k/cumm,2001-08-07 03:54:23.750,Male,49:31.9,White,Single,Icelandic,14.67
-806213FF-08C7-4869-BACF-AA2EE60EC832,2,51:56.5,42:07.0,1.0,CBC: NEUTROPHILS,2.5,k/cumm,2001-08-07 03:54:23.750,Male,49:31.9,White,Single,Icelandic,14.67

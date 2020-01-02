@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-04439FA9-94D9-45D9-B362-A87E4E49F745,1,19:18.7,54:04.6,1.0,CBC: HEMATOCRIT,46.0,%,1954-11-24 01:24:37.323,Male,37:12.1,Unknown,Single,English,16.17
-04439FA9-94D9-45D9-B362-A87E4E49F745,2,38:40.6,59:31.2,1.0,CBC: HEMATOCRIT,46.0,%,1954-11-24 01:24:37.323,Male,37:12.1,Unknown,Single,English,16.17
-04439FA9-94D9-45D9-B362-A87E4E49F745,3,50:32.2,19:51.2,1.0,CBC: HEMATOCRIT,46.0,%,1954-11-24 01:24:37.323,Male,37:12.1,Unknown,Single,English,16.17

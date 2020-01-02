@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D7E21DD5-2278-42DE-9D25-975540F4928D,1,24:31.6,20:57.9,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1939-11-01 13:33:03.967,Female,07:26.5,African American,Single,English,13.94
-D7E21DD5-2278-42DE-9D25-975540F4928D,2,08:20.2,16:01.3,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1939-11-01 13:33:03.967,Female,07:26.5,African American,Single,English,13.94
-D7E21DD5-2278-42DE-9D25-975540F4928D,3,32:10.2,58:58.7,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1939-11-01 13:33:03.967,Female,07:26.5,African American,Single,English,13.94
-D7E21DD5-2278-42DE-9D25-975540F4928D,4,58:23.0,41:14.0,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1939-11-01 13:33:03.967,Female,07:26.5,African American,Single,English,13.94

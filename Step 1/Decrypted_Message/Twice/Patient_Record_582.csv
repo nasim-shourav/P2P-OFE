@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-9892BD59-3F45-4190-99AF-1927A9FC308B,1,23:57.7,08:10.8,1.0,METABOLIC: BUN,29.8,mg/dL,1974-12-20 07:30:11.670,Male,12:33.9,African American,Divorced,English,11.91
-9892BD59-3F45-4190-99AF-1927A9FC308B,2,25:12.7,17:10.5,1.0,METABOLIC: BUN,29.8,mg/dL,1974-12-20 07:30:11.670,Male,12:33.9,African American,Divorced,English,11.91
-9892BD59-3F45-4190-99AF-1927A9FC308B,3,49:19.8,10:19.9,1.0,METABOLIC: BUN,29.8,mg/dL,1974-12-20 07:30:11.670,Male,12:33.9,African American,Divorced,English,11.91
-9892BD59-3F45-4190-99AF-1927A9FC308B,4,26:47.8,50:30.6,1.0,METABOLIC: BUN,29.8,mg/dL,1974-12-20 07:30:11.670,Male,12:33.9,African American,Divorced,English,11.91
-9892BD59-3F45-4190-99AF-1927A9FC308B,5,52:56.4,58:22.2,1.0,METABOLIC: BUN,29.8,mg/dL,1974-12-20 07:30:11.670,Male,12:33.9,African American,Divorced,English,11.91

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-5DB03D5E-0F60-4007-A94E-59A79AA7F50B,1,22:49.3,46:29.4,1.0,CBC: BASOPHILS,0.2,k/cumm,2007-08-05 23:00:56.897,Male,20:33.5,White,Unknown,English,16.63
-5DB03D5E-0F60-4007-A94E-59A79AA7F50B,2,16:58.5,05:42.9,1.0,CBC: BASOPHILS,0.2,k/cumm,2007-08-05 23:00:56.897,Male,20:33.5,White,Unknown,English,16.63

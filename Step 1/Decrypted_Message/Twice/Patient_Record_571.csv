@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-95E078AD-D8FB-4993-8E5D-DB6FE52671D1,1,50:25.5,41:59.8,1.0,METABOLIC: BILI TOTAL,0.7,mg/dL,1975-04-18 03:21:39.357,Male,28:58.6,African American,Married,Spanish,19.58
-95E078AD-D8FB-4993-8E5D-DB6FE52671D1,2,21:04.9,55:29.8,1.0,METABOLIC: BILI TOTAL,0.7,mg/dL,1975-04-18 03:21:39.357,Male,28:58.6,African American,Married,Spanish,19.58
-95E078AD-D8FB-4993-8E5D-DB6FE52671D1,3,10:41.4,35:16.2,1.0,METABOLIC: BILI TOTAL,0.7,mg/dL,1975-04-18 03:21:39.357,Male,28:58.6,African American,Married,Spanish,19.58
-95E078AD-D8FB-4993-8E5D-DB6FE52671D1,4,36:53.0,18:31.3,1.0,METABOLIC: BILI TOTAL,0.7,mg/dL,1975-04-18 03:21:39.357,Male,28:58.6,African American,Married,Spanish,19.58
-95E078AD-D8FB-4993-8E5D-DB6FE52671D1,5,54:13.6,45:40.3,1.0,METABOLIC: BILI TOTAL,0.7,mg/dL,1975-04-18 03:21:39.357,Male,28:58.6,African American,Married,Spanish,19.58

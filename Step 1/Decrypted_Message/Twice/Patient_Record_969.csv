@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F8A98185-CC79-443D-ABD0-14000F76CDA9,1,22:37.1,03:35.0,1.0,URINALYSIS: WHITE BLOOD CELLS,0.2,wbc/hpf,1971-04-04 05:40:51.150,Male,59:08.8,Unknown,Single,Spanish,80.81
-F8A98185-CC79-443D-ABD0-14000F76CDA9,2,22:13.5,36:10.3,1.0,URINALYSIS: WHITE BLOOD CELLS,0.2,wbc/hpf,1971-04-04 05:40:51.150,Male,59:08.8,Unknown,Single,Spanish,80.81

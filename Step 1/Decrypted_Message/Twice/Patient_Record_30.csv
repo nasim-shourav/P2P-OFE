@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-067ED11B-70F0-4EE5-AB0C-AA7AFED39953,1,40:08.8,47:05.6,1.0,METABOLIC: POTASSIUM,5.4,mmol/L,1985-06-24 22:05:09.583,Male,42:29.9,African American,Married,English,19.96
-067ED11B-70F0-4EE5-AB0C-AA7AFED39953,2,08:59.4,39:09.6,1.0,METABOLIC: POTASSIUM,5.4,mmol/L,1985-06-24 22:05:09.583,Male,42:29.9,African American,Married,English,19.96
-067ED11B-70F0-4EE5-AB0C-AA7AFED39953,3,27:17.6,12:49.3,1.0,METABOLIC: POTASSIUM,5.4,mmol/L,1985-06-24 22:05:09.583,Male,42:29.9,African American,Married,English,19.96

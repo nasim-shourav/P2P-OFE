@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-4CAC140D-F137-4BD6-8C7C-6763A966017A,1,10:09.3,14:33.2,1.0,URINALYSIS: PH,5.0,no unit,1963-04-02 16:06:16.817,Female,15:55.6,African American,Single,English,13.66
-4CAC140D-F137-4BD6-8C7C-6763A966017A,2,39:44.1,39:19.9,1.0,URINALYSIS: PH,5.0,no unit,1963-04-02 16:06:16.817,Female,15:55.6,African American,Single,English,13.66
-4CAC140D-F137-4BD6-8C7C-6763A966017A,3,59:28.2,18:14.6,1.0,URINALYSIS: PH,5.0,no unit,1963-04-02 16:06:16.817,Female,15:55.6,African American,Single,English,13.66

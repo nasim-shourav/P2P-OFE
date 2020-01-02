@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-9C3D2300-0AC0-4B36-8EA0-EE51A0A985EF,1,03:00.7,10:10.8,1.0,CBC: MCH,23.8,pg,2009-12-04 00:49:49.240,Female,40:36.3,Asian,Single,English,82.78

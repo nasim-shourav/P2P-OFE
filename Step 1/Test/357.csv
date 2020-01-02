@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-599C51E7-B450-4C60-BC0A-20D256C8F79D,1,52:53.4,22:53.1,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,2010-01-16 06:29:59.737,Male,02:23.0,White,Single,Spanish,90.69

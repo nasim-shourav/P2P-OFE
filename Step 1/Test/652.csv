@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-AA580814-5566-4504-91B7-6190CDD5764F,2,55:48.9,58:16.5,1.0,METABOLIC: BUN,11.6,mg/dL,1999-02-18 23:12:25.093,Female,00:30.4,African American,Single,English,10.62
-AA580814-5566-4504-91B7-6190CDD5764F,3,23:54.3,28:16.0,1.0,METABOLIC: BUN,11.6,mg/dL,1999-02-18 23:12:25.093,Female,00:30.4,African American,Single,English,10.62
-AA580814-5566-4504-91B7-6190CDD5764F,1,37:23.1,33:05.2,1.0,METABOLIC: BUN,11.6,mg/dL,1999-02-18 23:12:25.093,Female,00:30.4,African American,Single,English,10.62

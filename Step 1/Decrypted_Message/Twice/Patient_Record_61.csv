@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-0FBEA55A-4D91-4F60-8DC9-C1275CCFA8B8,1,00:04.6,04:18.7,1.0,METABOLIC: CREATININE,0.8,mg/dL,1992-11-17 04:51:02.367,Female,54:09.1,Asian,Single,English,14.65
-0FBEA55A-4D91-4F60-8DC9-C1275CCFA8B8,2,52:08.3,36:11.0,1.0,METABOLIC: CREATININE,0.8,mg/dL,1992-11-17 04:51:02.367,Female,54:09.1,Asian,Single,English,14.65

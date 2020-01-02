@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D2702F6A-4BED-49C9-B548-01FD574A03D6,1,22:14.5,21:52.1,1.0,METABOLIC: TOTAL PROTEIN,8.8,gm/dL,1978-02-27 04:21:10.020,Female,33:07.8,Unknown,Married,Spanish,17.19
-D2702F6A-4BED-49C9-B548-01FD574A03D6,2,34:10.0,33:35.7,1.0,METABOLIC: TOTAL PROTEIN,8.8,gm/dL,1978-02-27 04:21:10.020,Female,33:07.8,Unknown,Married,Spanish,17.19
-D2702F6A-4BED-49C9-B548-01FD574A03D6,3,16:58.7,59:10.7,1.0,METABOLIC: TOTAL PROTEIN,8.8,gm/dL,1978-02-27 04:21:10.020,Female,33:07.8,Unknown,Married,Spanish,17.19

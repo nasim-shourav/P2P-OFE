@@ -1,8 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,1,27:52.5,32:30.3,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,2,04:32.8,23:32.5,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,3,17:09.5,37:50.7,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,4,40:35.6,46:23.8,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,5,56:05.8,55:41.8,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,6,47:20.5,46:50.6,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42
-BAE564C9-F2B9-48B7-B3C2-BDFE919864D1,7,20:29.4,53:16.6,1.0,CBC: NEUTROPHILS,10.5,k/cumm,1988-03-14 14:08:49.620,Female,48:36.5,African American,Single,English,13.42

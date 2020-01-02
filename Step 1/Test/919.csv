@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-EAF26BA6-2351-4A71-A2A2-26A67BFE894C,1,37:40.6,17:33.6,1.0,CBC: RDW,10.7,%,1993-10-30 00:30:04.963,Male,06:02.2,White,Married,Unknown,13.0
-EAF26BA6-2351-4A71-A2A2-26A67BFE894C,2,41:08.5,51:54.1,1.0,CBC: RDW,10.7,%,1993-10-30 00:30:04.963,Male,06:02.2,White,Married,Unknown,13.0

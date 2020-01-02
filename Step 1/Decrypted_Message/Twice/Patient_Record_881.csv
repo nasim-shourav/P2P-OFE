@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E4B3B10C-A7A2-4D76-90D2-6EEB8BB30F3C,1,51:43.8,00:21.1,1.0,CBC: HEMOGLOBIN,13.4,gm/dl,1994-12-25 23:27:40.733,Female,24:05.1,Unknown,Single,English,16.83
-E4B3B10C-A7A2-4D76-90D2-6EEB8BB30F3C,2,24:39.4,55:12.4,1.0,CBC: HEMOGLOBIN,13.4,gm/dl,1994-12-25 23:27:40.733,Female,24:05.1,Unknown,Single,English,16.83
-E4B3B10C-A7A2-4D76-90D2-6EEB8BB30F3C,3,53:30.3,21:17.8,1.0,CBC: HEMOGLOBIN,13.4,gm/dl,1994-12-25 23:27:40.733,Female,24:05.1,Unknown,Single,English,16.83
-E4B3B10C-A7A2-4D76-90D2-6EEB8BB30F3C,4,33:09.5,58:30.9,1.0,CBC: HEMOGLOBIN,13.4,gm/dl,1994-12-25 23:27:40.733,Female,24:05.1,Unknown,Single,English,16.83

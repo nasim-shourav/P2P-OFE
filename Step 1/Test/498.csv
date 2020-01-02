@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-81D9930E-F7A5-4F95-962B-F7301B0E600D,1,28:41.8,59:06.1,1.0,METABOLIC: TOTAL PROTEIN,7.7,gm/dL,1987-02-23 08:52:23.233,Male,09:51.4,African American,Single,English,86.72
-81D9930E-F7A5-4F95-962B-F7301B0E600D,2,49:41.2,41:32.0,1.0,METABOLIC: TOTAL PROTEIN,7.7,gm/dL,1987-02-23 08:52:23.233,Male,09:51.4,African American,Single,English,86.72
-81D9930E-F7A5-4F95-962B-F7301B0E600D,3,58:19.6,16:18.9,1.0,METABOLIC: TOTAL PROTEIN,7.7,gm/dL,1987-02-23 08:52:23.233,Male,09:51.4,African American,Single,English,86.72
-81D9930E-F7A5-4F95-962B-F7301B0E600D,4,48:55.2,26:42.1,1.0,METABOLIC: TOTAL PROTEIN,7.7,gm/dL,1987-02-23 08:52:23.233,Male,09:51.4,African American,Single,English,86.72
-81D9930E-F7A5-4F95-962B-F7301B0E600D,5,33:45.4,36:58.4,1.0,METABOLIC: TOTAL PROTEIN,7.7,gm/dL,1987-02-23 08:52:23.233,Male,09:51.4,African American,Single,English,86.72

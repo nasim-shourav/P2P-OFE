@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-45921597-F318-45DC-9655-4F36301CA6B0,1,08:41.9,44:43.6,1.0,URINALYSIS: RED BLOOD CELLS,2.3,rbc/hpf,1984-01-30 14:07:03.813,Female,52:16.4,Unknown,Divorced,English,14.95
-45921597-F318-45DC-9655-4F36301CA6B0,2,44:01.3,05:52.7,1.0,URINALYSIS: RED BLOOD CELLS,2.3,rbc/hpf,1984-01-30 14:07:03.813,Female,52:16.4,Unknown,Divorced,English,14.95
-45921597-F318-45DC-9655-4F36301CA6B0,3,13:52.2,09:59.1,1.0,URINALYSIS: RED BLOOD CELLS,2.3,rbc/hpf,1984-01-30 14:07:03.813,Female,52:16.4,Unknown,Divorced,English,14.95
-45921597-F318-45DC-9655-4F36301CA6B0,4,58:28.6,19:36.9,1.0,URINALYSIS: RED BLOOD CELLS,2.3,rbc/hpf,1984-01-30 14:07:03.813,Female,52:16.4,Unknown,Divorced,English,14.95

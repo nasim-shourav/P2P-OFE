@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D95E1529-57A4-4336-B640-EAA3FD83AEFD,1,14:32.5,00:20.1,1.0,METABOLIC: CHLORIDE,92.4,mmol/L,1973-04-14 03:48:14.267,Male,42:09.5,White,Unknown,Spanish,11.85
-D95E1529-57A4-4336-B640-EAA3FD83AEFD,2,03:56.0,09:39.5,1.0,METABOLIC: CHLORIDE,92.4,mmol/L,1973-04-14 03:48:14.267,Male,42:09.5,White,Unknown,Spanish,11.85

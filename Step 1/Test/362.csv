@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-5B570E82-19C3-4D35-A0FD-C7435CD29F1B,1,09:44.5,39:48.2,1.0,CBC: BASOPHILS,0.1,k/cumm,2000-10-25 04:35:46.800,Female,22:09.5,Asian,Married,English,8.83
-5B570E82-19C3-4D35-A0FD-C7435CD29F1B,2,33:58.5,31:45.6,1.0,CBC: BASOPHILS,0.1,k/cumm,2000-10-25 04:35:46.800,Female,22:09.5,Asian,Married,English,8.83
-5B570E82-19C3-4D35-A0FD-C7435CD29F1B,3,25:13.1,38:20.7,1.0,CBC: BASOPHILS,0.1,k/cumm,2000-10-25 04:35:46.800,Female,22:09.5,Asian,Married,English,8.83
-5B570E82-19C3-4D35-A0FD-C7435CD29F1B,4,00:59.1,28:08.9,1.0,CBC: BASOPHILS,0.1,k/cumm,2000-10-25 04:35:46.800,Female,22:09.5,Asian,Married,English,8.83

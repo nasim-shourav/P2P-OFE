@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FFB1B318-DC71-40DA-9228-0AA6E37CD8D9,1,28:45.1,11:48.1,1.0,METABOLIC: ANION GAP,4.6,mmol/L,2000-05-03 12:56:41.477,Male,59:19.0,White,Single,Icelandic,11.59
-FFB1B318-DC71-40DA-9228-0AA6E37CD8D9,2,28:55.4,37:27.9,1.0,METABOLIC: ANION GAP,4.6,mmol/L,2000-05-03 12:56:41.477,Male,59:19.0,White,Single,Icelandic,11.59
-FFB1B318-DC71-40DA-9228-0AA6E37CD8D9,3,33:38.9,46:16.0,1.0,METABOLIC: ANION GAP,4.6,mmol/L,2000-05-03 12:56:41.477,Male,59:19.0,White,Single,Icelandic,11.59

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-6A89A617-BE4B-40C3-BFE9-728DE865106A,1,29:10.1,02:55.9,1.0,METABOLIC: CREATININE,1.0,mg/dL,1948-10-27 05:37:39.173,Male,02:13.3,Asian,Married,Spanish,17.13
-6A89A617-BE4B-40C3-BFE9-728DE865106A,2,17:33.1,58:32.9,1.0,METABOLIC: CREATININE,1.0,mg/dL,1948-10-27 05:37:39.173,Male,02:13.3,Asian,Married,Spanish,17.13
-6A89A617-BE4B-40C3-BFE9-728DE865106A,3,20:06.7,16:34.2,1.0,METABOLIC: CREATININE,1.0,mg/dL,1948-10-27 05:37:39.173,Male,02:13.3,Asian,Married,Spanish,17.13

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D9F24CE5-D969-461D-BEEA-04BD7AC20D78,1,45:55.3,11:55.1,1.0,METABOLIC: SODIUM,126.2,mmol/L,1962-06-02 21:20:38.203,Female,23:45.3,White,Single,Icelandic,19.66
-D9F24CE5-D969-461D-BEEA-04BD7AC20D78,2,55:15.3,56:45.9,1.0,METABOLIC: SODIUM,126.2,mmol/L,1962-06-02 21:20:38.203,Female,23:45.3,White,Single,Icelandic,19.66

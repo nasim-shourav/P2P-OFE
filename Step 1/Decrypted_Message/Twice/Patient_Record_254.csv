@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-40C6AB68-D9C3-4C28-BE06-EE5BAF508830,1,34:30.1,12:50.5,1.0,CBC: MONOCYTES,1.0,k/cumm,1996-08-05 13:57:21.997,Female,47:30.0,African American,Single,English,17.98
-40C6AB68-D9C3-4C28-BE06-EE5BAF508830,2,32:36.3,01:59.1,1.0,CBC: MONOCYTES,1.0,k/cumm,1996-08-05 13:57:21.997,Female,47:30.0,African American,Single,English,17.98
-40C6AB68-D9C3-4C28-BE06-EE5BAF508830,3,26:41.4,49:42.7,1.0,CBC: MONOCYTES,1.0,k/cumm,1996-08-05 13:57:21.997,Female,47:30.0,African American,Single,English,17.98

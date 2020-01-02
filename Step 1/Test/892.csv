@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E6C6C80A-DB18-4A45-B513-1E416C252496,1,17:12.1,24:38.0,1.0,METABOLIC: ALT/SGPT,19.0,U/L,1976-01-22 19:31:21.113,Female,51:27.9,White,Married,English,10.62
-E6C6C80A-DB18-4A45-B513-1E416C252496,2,06:05.7,58:42.4,1.0,METABOLIC: ALT/SGPT,19.0,U/L,1976-01-22 19:31:21.113,Female,51:27.9,White,Married,English,10.62

@@ -1,7 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,1,31:50.2,57:35.2,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,2,19:54.0,59:58.0,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,3,04:03.8,12:42.8,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,4,17:49.6,02:45.1,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,5,19:32.3,58:02.1,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52
-B06A18C3-5033-495D-AF9D-2E80E851BFE9,6,21:58.3,57:32.3,1.0,CBC: MCHC,32.8,g/dl,1972-09-27 07:52:55.080,Male,32:47.5,African American,Divorced,Spanish,16.52

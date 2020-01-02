@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-9B201B0A-2B9C-4A5E-8E06-AE0C496A5AA5,1,24:01.0,13:15.4,1.0,CBC: MCH,32.4,pg,1958-11-14 02:38:46.790,Female,52:10.9,Asian,Unknown,Spanish,14.94
-9B201B0A-2B9C-4A5E-8E06-AE0C496A5AA5,2,59:53.9,24:30.7,1.0,CBC: MCH,32.4,pg,1958-11-14 02:38:46.790,Female,52:10.9,Asian,Unknown,Spanish,14.94
-9B201B0A-2B9C-4A5E-8E06-AE0C496A5AA5,3,40:19.7,12:17.9,1.0,CBC: MCH,32.4,pg,1958-11-14 02:38:46.790,Female,52:10.9,Asian,Unknown,Spanish,14.94

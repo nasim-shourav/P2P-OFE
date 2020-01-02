@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-81D12734-63AB-4D89-827A-D12C3AB265A1,1,56:40.7,58:03.2,1.0,METABOLIC: BILI TOTAL,0.0,mg/dL,1947-12-22 13:20:57.480,Female,55:11.5,White,Single,English,81.57
-81D12734-63AB-4D89-827A-D12C3AB265A1,2,54:04.2,05:56.6,1.0,METABOLIC: BILI TOTAL,0.0,mg/dL,1947-12-22 13:20:57.480,Female,55:11.5,White,Single,English,81.57
-81D12734-63AB-4D89-827A-D12C3AB265A1,3,28:47.2,06:53.4,1.0,METABOLIC: BILI TOTAL,0.0,mg/dL,1947-12-22 13:20:57.480,Female,55:11.5,White,Single,English,81.57
-81D12734-63AB-4D89-827A-D12C3AB265A1,4,55:05.5,45:39.6,1.0,METABOLIC: BILI TOTAL,0.0,mg/dL,1947-12-22 13:20:57.480,Female,55:11.5,White,Single,English,81.57

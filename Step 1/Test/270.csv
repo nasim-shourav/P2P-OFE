@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-448F545A-AAF8-44BB-B01A-47FF7D05105F,1,03:43.2,52:28.2,1.0,CBC: MCHC,32.6,g/dl,1952-05-23 22:10:16.333,Female,11:22.0,African American,Single,English,10.57
-448F545A-AAF8-44BB-B01A-47FF7D05105F,2,35:26.3,10:44.0,1.0,CBC: MCHC,32.6,g/dl,1952-05-23 22:10:16.333,Female,11:22.0,African American,Single,English,10.57
-448F545A-AAF8-44BB-B01A-47FF7D05105F,3,54:50.0,22:16.5,1.0,CBC: MCHC,32.6,g/dl,1952-05-23 22:10:16.333,Female,11:22.0,African American,Single,English,10.57
-448F545A-AAF8-44BB-B01A-47FF7D05105F,4,49:07.0,12:31.8,1.0,CBC: MCHC,32.6,g/dl,1952-05-23 22:10:16.333,Female,11:22.0,African American,Single,English,10.57

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D1CD2F04-BE90-4BCF-8039-EE96A021F725,1,18:03.0,58:55.3,1.0,METABOLIC: AST/SGOT,14.6,U/L,1967-03-11 22:53:43.240,Male,13:54.2,Asian,Married,Unknown,13.27
-D1CD2F04-BE90-4BCF-8039-EE96A021F725,2,54:15.1,05:19.6,1.0,METABOLIC: AST/SGOT,14.6,U/L,1967-03-11 22:53:43.240,Male,13:54.2,Asian,Married,Unknown,13.27
-D1CD2F04-BE90-4BCF-8039-EE96A021F725,3,59:48.4,08:44.1,1.0,METABOLIC: AST/SGOT,14.6,U/L,1967-03-11 22:53:43.240,Male,13:54.2,Asian,Married,Unknown,13.27

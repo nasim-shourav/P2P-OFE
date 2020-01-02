@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-CBE223DE-2209-4096-8931-DC06E74D9C9C,1,52:16.6,19:47.1,1.0,CBC: RDW,15.0,%,2012-01-26 07:00:43.470,Male,01:04.9,White,Separated,English,18.81

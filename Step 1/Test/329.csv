@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-53079AAA-212D-4F98-BFD9-C28B8EA93106,1,38:23.4,18:17.7,1.0,CBC: PLATELET COUNT,301.7,k/cumm,1989-04-10 19:43:13.600,Male,25:02.4,Asian,Married,Spanish,14.68
-53079AAA-212D-4F98-BFD9-C28B8EA93106,2,52:24.7,45:00.7,1.0,CBC: PLATELET COUNT,301.7,k/cumm,1989-04-10 19:43:13.600,Male,25:02.4,Asian,Married,Spanish,14.68
-53079AAA-212D-4F98-BFD9-C28B8EA93106,3,42:38.1,32:20.6,1.0,CBC: PLATELET COUNT,301.7,k/cumm,1989-04-10 19:43:13.600,Male,25:02.4,Asian,Married,Spanish,14.68

@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-89B146CE-FCCC-4EE8-A436-2C561CB9C1FE,1,05:07.8,43:45.2,1.0,METABOLIC: BUN,22.2,mg/dL,1959-01-27 20:21:52.353,Female,40:26.7,White,Married,Spanish,13.7
-89B146CE-FCCC-4EE8-A436-2C561CB9C1FE,2,08:43.1,20:30.6,1.0,METABOLIC: BUN,22.2,mg/dL,1959-01-27 20:21:52.353,Female,40:26.7,White,Married,Spanish,13.7
-89B146CE-FCCC-4EE8-A436-2C561CB9C1FE,3,36:37.3,07:21.8,1.0,METABOLIC: BUN,22.2,mg/dL,1959-01-27 20:21:52.353,Female,40:26.7,White,Married,Spanish,13.7
-89B146CE-FCCC-4EE8-A436-2C561CB9C1FE,4,18:04.7,43:27.2,1.0,METABOLIC: BUN,22.2,mg/dL,1959-01-27 20:21:52.353,Female,40:26.7,White,Married,Spanish,13.7
-89B146CE-FCCC-4EE8-A436-2C561CB9C1FE,5,58:27.0,06:26.2,1.0,METABOLIC: BUN,22.2,mg/dL,1959-01-27 20:21:52.353,Female,40:26.7,White,Married,Spanish,13.7

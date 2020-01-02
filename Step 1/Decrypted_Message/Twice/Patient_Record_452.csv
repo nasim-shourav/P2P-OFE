@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-74ADC46D-95E0-4856-AACA-71A3A2D7B738,1,40:38.9,09:39.2,1.0,CBC: HEMATOCRIT,30.8,%,1958-07-17 05:11:25.803,Female,35:55.4,White,Married,Spanish,5.27
-74ADC46D-95E0-4856-AACA-71A3A2D7B738,2,39:03.2,29:30.0,1.0,CBC: HEMATOCRIT,30.8,%,1958-07-17 05:11:25.803,Female,35:55.4,White,Married,Spanish,5.27
-74ADC46D-95E0-4856-AACA-71A3A2D7B738,3,16:27.8,17:19.0,1.0,CBC: HEMATOCRIT,30.8,%,1958-07-17 05:11:25.803,Female,35:55.4,White,Married,Spanish,5.27
-74ADC46D-95E0-4856-AACA-71A3A2D7B738,4,02:26.8,13:44.4,1.0,CBC: HEMATOCRIT,30.8,%,1958-07-17 05:11:25.803,Female,35:55.4,White,Married,Spanish,5.27

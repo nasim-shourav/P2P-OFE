@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D66D3E09-18AF-4883-980F-03098490EDFE,1,02:31.5,19:02.7,1.0,CBC: RED BLOOD CELL COUNT,4.0,m/cumm,1988-06-03 01:58:33.673,Female,35:47.1,Unknown,Married,English,14.83
-D66D3E09-18AF-4883-980F-03098490EDFE,2,18:09.2,14:32.3,1.0,CBC: RED BLOOD CELL COUNT,4.0,m/cumm,1988-06-03 01:58:33.673,Female,35:47.1,Unknown,Married,English,14.83
-D66D3E09-18AF-4883-980F-03098490EDFE,3,00:08.3,49:24.1,1.0,CBC: RED BLOOD CELL COUNT,4.0,m/cumm,1988-06-03 01:58:33.673,Female,35:47.1,Unknown,Married,English,14.83

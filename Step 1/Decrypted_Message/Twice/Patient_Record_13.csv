@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-01A443B0-345E-4E61-9938-68869677EBE2,1,10:44.5,01:08.4,1.0,CBC: EOSINOPHILS,0.1,k/cumm,1983-12-19 08:11:53.223,Male,23:23.0,Asian,Single,Icelandic,14.43
-01A443B0-345E-4E61-9938-68869677EBE2,2,39:47.4,19:28.6,1.0,CBC: EOSINOPHILS,0.1,k/cumm,1983-12-19 08:11:53.223,Male,23:23.0,Asian,Single,Icelandic,14.43

@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-64B7F686-50C8-4C03-8476-0C4498926A82,1,21:53.3,37:01.7,1.0,METABOLIC: CALCIUM,9.9,mg/dL,2008-03-04 22:23:11.213,Male,05:26.1,White,Unknown,English,11.3

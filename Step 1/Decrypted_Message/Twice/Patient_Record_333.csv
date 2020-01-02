@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-538673D9-05F4-4B0D-AF3D-BC6EF4302163,1,56:12.9,47:21.9,1.0,CBC: ABSOLUTE NEUTROPHILS,60.5,%,2005-03-20 00:03:41.447,Female,17:48.2,Unknown,Single,Icelandic,18.69
-538673D9-05F4-4B0D-AF3D-BC6EF4302163,2,51:47.2,41:23.1,1.0,CBC: ABSOLUTE NEUTROPHILS,60.5,%,2005-03-20 00:03:41.447,Female,17:48.2,Unknown,Single,Icelandic,18.69

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C307C431-5963-449C-93F6-12808A3F3D7A,1,10:36.7,17:39.2,1.0,URINALYSIS: WHITE BLOOD CELLS,5.1,wbc/hpf,1979-04-27 16:07:29.867,Male,46:54.1,White,Married,English,19.95
-C307C431-5963-449C-93F6-12808A3F3D7A,2,34:15.0,36:05.8,1.0,URINALYSIS: WHITE BLOOD CELLS,5.1,wbc/hpf,1979-04-27 16:07:29.867,Male,46:54.1,White,Married,English,19.95

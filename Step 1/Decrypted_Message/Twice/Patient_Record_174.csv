@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-29F16D35-BFB4-4301-85B3-D42B772B7A29,1,19:52.3,34:25.3,1.0,CBC: PLATELET COUNT,265.4,k/cumm,1972-10-05 22:15:50.600,Female,04:43.2,White,Single,English,0.44
-29F16D35-BFB4-4301-85B3-D42B772B7A29,2,14:49.0,31:28.1,1.0,CBC: PLATELET COUNT,265.4,k/cumm,1972-10-05 22:15:50.600,Female,04:43.2,White,Single,English,0.44
-29F16D35-BFB4-4301-85B3-D42B772B7A29,3,45:10.2,18:22.9,1.0,CBC: PLATELET COUNT,265.4,k/cumm,1972-10-05 22:15:50.600,Female,04:43.2,White,Single,English,0.44
-29F16D35-BFB4-4301-85B3-D42B772B7A29,4,21:28.9,52:07.4,1.0,CBC: PLATELET COUNT,265.4,k/cumm,1972-10-05 22:15:50.600,Female,04:43.2,White,Single,English,0.44

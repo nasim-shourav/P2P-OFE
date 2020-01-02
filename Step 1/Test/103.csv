@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-1B0F663E-7DF4-435C-97EA-53F5700B8235,1,29:51.0,42:19.6,1.0,METABOLIC: SODIUM,142.1,mmol/L,1995-04-07 06:33:37.930,Male,22:00.3,White,Married,English,13.11
-1B0F663E-7DF4-435C-97EA-53F5700B8235,2,11:01.6,52:36.6,1.0,METABOLIC: SODIUM,142.1,mmol/L,1995-04-07 06:33:37.930,Male,22:00.3,White,Married,English,13.11

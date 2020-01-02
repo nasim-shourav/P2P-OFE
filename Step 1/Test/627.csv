@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-A3800B76-4DC8-4B24-ABE4-A1C235797BD6,1,53:33.0,42:37.5,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1975-05-11 08:54:54.890,Male,47:07.3,African American,Divorced,English,19.33
-A3800B76-4DC8-4B24-ABE4-A1C235797BD6,2,36:41.3,50:13.2,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1975-05-11 08:54:54.890,Male,47:07.3,African American,Divorced,English,19.33
-A3800B76-4DC8-4B24-ABE4-A1C235797BD6,3,25:16.2,07:06.2,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1975-05-11 08:54:54.890,Male,47:07.3,African American,Divorced,English,19.33

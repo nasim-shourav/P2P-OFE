@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-2723A63D-081B-4B45-8F0B-DCDD47086AD7,1,29:59.9,38:23.7,1.0,URINALYSIS: WHITE BLOOD CELLS,3.4,wbc/hpf,2009-10-12 21:22:45.650,Female,45:45.9,Unknown,Separated,English,18.05

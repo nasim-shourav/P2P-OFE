@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-318864D9-1554-4818-AE79-CA6A95D79156,1,54:13.5,34:33.3,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1994-08-18 08:41:30.363,Male,07:31.9,African American,Divorced,English,10.61
-318864D9-1554-4818-AE79-CA6A95D79156,2,13:05.5,27:25.5,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1994-08-18 08:41:30.363,Male,07:31.9,African American,Divorced,English,10.61

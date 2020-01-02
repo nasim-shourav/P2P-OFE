@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D803FA49-88F4-47D0-A210-2B00206BB023,1,35:19.5,20:13.6,1.0,CBC: NEUTROPHILS,4.8,k/cumm,1986-10-04 02:20:18.120,Female,50:16.8,Unknown,Unknown,English,19.14
-D803FA49-88F4-47D0-A210-2B00206BB023,2,51:42.1,10:13.3,1.0,CBC: NEUTROPHILS,4.8,k/cumm,1986-10-04 02:20:18.120,Female,50:16.8,Unknown,Unknown,English,19.14

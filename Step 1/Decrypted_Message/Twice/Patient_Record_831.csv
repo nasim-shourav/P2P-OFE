@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D6E2E66E-8DA0-49AE-A3E2-39D1F6C7AA4E,1,46:55.0,26:39.0,1.0,URINALYSIS: PH,6.1,no unit,1971-02-17 00:47:28.633,Female,18:50.5,White,Single,Spanish,19.06
-D6E2E66E-8DA0-49AE-A3E2-39D1F6C7AA4E,2,44:19.7,30:01.3,1.0,URINALYSIS: PH,6.1,no unit,1971-02-17 00:47:28.633,Female,18:50.5,White,Single,Spanish,19.06

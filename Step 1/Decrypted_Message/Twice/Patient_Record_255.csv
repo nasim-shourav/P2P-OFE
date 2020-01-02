@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-4153ECA9-F98A-4C54-AB22-B7A3FBC9255C,1,32:35.9,35:25.0,1.0,CBC: MCHC,30.7,g/dl,1968-11-25 02:41:45.147,Male,58:54.6,Unknown,Married,Unknown,13.02
-4153ECA9-F98A-4C54-AB22-B7A3FBC9255C,2,58:31.5,39:07.8,1.0,CBC: MCHC,30.7,g/dl,1968-11-25 02:41:45.147,Male,58:54.6,Unknown,Married,Unknown,13.02
-4153ECA9-F98A-4C54-AB22-B7A3FBC9255C,3,46:59.0,50:39.6,1.0,CBC: MCHC,30.7,g/dl,1968-11-25 02:41:45.147,Male,58:54.6,Unknown,Married,Unknown,13.02

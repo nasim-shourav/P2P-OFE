@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-07B3F44C-476A-43A1-BC34-BFAA5C74CB24,1,46:13.5,50:14.9,1.0,CBC: MEAN CORPUSCULAR VOLUME,95.1,fl,1991-07-12 03:13:52.693,Female,16:59.7,White,Married,English,15.61
-07B3F44C-476A-43A1-BC34-BFAA5C74CB24,2,14:07.2,21:35.4,1.0,CBC: MEAN CORPUSCULAR VOLUME,95.1,fl,1991-07-12 03:13:52.693,Female,16:59.7,White,Married,English,15.61

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-8DFDCCF1-68DF-424C-9B3F-4177980B44EF,1,13:49.4,44:14.2,1.0,METABOLIC: CARBON DIOXIDE,27.4,mmol/L,1970-07-29 17:44:29.410,Female,28:50.0,White,Single,Icelandic,10.34
-8DFDCCF1-68DF-424C-9B3F-4177980B44EF,2,54:57.8,15:16.0,1.0,METABOLIC: CARBON DIOXIDE,27.4,mmol/L,1970-07-29 17:44:29.410,Female,28:50.0,White,Single,Icelandic,10.34
-8DFDCCF1-68DF-424C-9B3F-4177980B44EF,3,59:49.8,29:43.1,1.0,METABOLIC: CARBON DIOXIDE,27.4,mmol/L,1970-07-29 17:44:29.410,Female,28:50.0,White,Single,Icelandic,10.34

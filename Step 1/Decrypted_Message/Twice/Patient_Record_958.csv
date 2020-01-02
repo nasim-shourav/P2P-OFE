@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F5CEC448-00E9-4E31-AD00-98ED28346C44,1,48:18.7,45:59.4,1.0,URINALYSIS: PH,5.2,no unit,1977-07-07 23:30:24.583,Female,34:20.0,White,Single,English,96.28
-F5CEC448-00E9-4E31-AD00-98ED28346C44,2,52:17.9,39:21.2,1.0,URINALYSIS: PH,5.2,no unit,1977-07-07 23:30:24.583,Female,34:20.0,White,Single,English,96.28
-F5CEC448-00E9-4E31-AD00-98ED28346C44,3,22:02.3,19:05.8,1.0,URINALYSIS: PH,5.2,no unit,1977-07-07 23:30:24.583,Female,34:20.0,White,Single,English,96.28

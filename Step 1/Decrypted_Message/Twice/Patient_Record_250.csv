@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-3FA03434-B8C8-4A27-986C-C6D9E5756182,1,06:43.0,25:24.7,1.0,CBC: PLATELET COUNT,357.4,k/cumm,2000-07-30 17:49:18.553,Female,25:43.5,Asian,Married,Icelandic,15.63
-3FA03434-B8C8-4A27-986C-C6D9E5756182,2,13:59.7,03:06.9,1.0,CBC: PLATELET COUNT,357.4,k/cumm,2000-07-30 17:49:18.553,Female,25:43.5,Asian,Married,Icelandic,15.63

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-EAB18CFE-28F3-43CB-82CF-AFAE87488EA0,1,19:30.0,09:57.2,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1967-02-17 01:45:45.287,Male,02:59.6,White,Single,Unknown,14.85
-EAB18CFE-28F3-43CB-82CF-AFAE87488EA0,2,09:21.0,15:17.2,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1967-02-17 01:45:45.287,Male,02:59.6,White,Single,Unknown,14.85
-EAB18CFE-28F3-43CB-82CF-AFAE87488EA0,3,08:36.0,03:01.0,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1967-02-17 01:45:45.287,Male,02:59.6,White,Single,Unknown,14.85

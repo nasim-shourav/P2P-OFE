@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E7A1D67D-7952-4B36-8F9F-0530CA670BFF,1,51:39.5,11:59.4,1.0,METABOLIC: ALT/SGPT,25.1,U/L,1983-12-02 07:20:09.153,Female,45:12.7,Asian,Single,English,99.13
-E7A1D67D-7952-4B36-8F9F-0530CA670BFF,2,50:28.5,04:11.9,1.0,METABOLIC: ALT/SGPT,25.1,U/L,1983-12-02 07:20:09.153,Female,45:12.7,Asian,Single,English,99.13
-E7A1D67D-7952-4B36-8F9F-0530CA670BFF,3,43:10.7,04:12.1,1.0,METABOLIC: ALT/SGPT,25.1,U/L,1983-12-02 07:20:09.153,Female,45:12.7,Asian,Single,English,99.13

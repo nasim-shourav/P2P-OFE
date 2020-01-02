@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7C949975-5171-427D-914C-A8D0107F81CA,1,27:02.3,28:32.8,1.0,CBC: ABSOLUTE LYMPHOCYTES,22.4,%,2012-09-09 10:42:41.027,Female,40:52.8,Asian,Married,English,19.85

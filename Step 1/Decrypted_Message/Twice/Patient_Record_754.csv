@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C800ED8A-A9E1-4225-A5CD-9E8FC59A4B2C,1,43:21.8,00:58.4,1.0,CBC: HEMATOCRIT,45.8,%,1996-12-21 15:37:51.350,Male,55:17.1,White,Single,English,19.28
-C800ED8A-A9E1-4225-A5CD-9E8FC59A4B2C,2,41:22.1,02:26.6,1.0,CBC: HEMATOCRIT,45.8,%,1996-12-21 15:37:51.350,Male,55:17.1,White,Single,English,19.28
-C800ED8A-A9E1-4225-A5CD-9E8FC59A4B2C,3,00:26.7,27:45.4,1.0,CBC: HEMATOCRIT,45.8,%,1996-12-21 15:37:51.350,Male,55:17.1,White,Single,English,19.28
-C800ED8A-A9E1-4225-A5CD-9E8FC59A4B2C,4,50:33.7,32:09.3,1.0,CBC: HEMATOCRIT,45.8,%,1996-12-21 15:37:51.350,Male,55:17.1,White,Single,English,19.28

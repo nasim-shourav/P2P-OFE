@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-6837EEBB-B5D3-48AF-9BB4-23FE4EC36894,1,52:00.3,44:39.7,1.0,METABOLIC: POTASSIUM,5.7,mmol/L,1991-05-30 11:25:07.263,Male,43:11.4,White,Single,Icelandic,11.23
-6837EEBB-B5D3-48AF-9BB4-23FE4EC36894,2,50:29.2,32:48.0,1.0,METABOLIC: POTASSIUM,5.7,mmol/L,1991-05-30 11:25:07.263,Male,43:11.4,White,Single,Icelandic,11.23
-6837EEBB-B5D3-48AF-9BB4-23FE4EC36894,3,13:30.8,28:39.6,1.0,METABOLIC: POTASSIUM,5.7,mmol/L,1991-05-30 11:25:07.263,Male,43:11.4,White,Single,Icelandic,11.23

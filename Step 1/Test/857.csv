@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-DF68F061-4AF3-4D23-BEEC-AA72C1825585,1,08:54.2,34:00.9,1.0,CBC: MCH,29.0,pg,1964-02-24 19:50:55.260,Female,24:21.6,White,Single,English,14.15
-DF68F061-4AF3-4D23-BEEC-AA72C1825585,2,56:36.8,50:16.6,1.0,CBC: MCH,29.0,pg,1964-02-24 19:50:55.260,Female,24:21.6,White,Single,English,14.15

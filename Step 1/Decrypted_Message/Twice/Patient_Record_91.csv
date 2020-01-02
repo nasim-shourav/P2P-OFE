@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-182E7BCA-0194-4211-9C6D-0F6C8DD6AE9D,1,03:32.6,44:23.9,1.0,METABOLIC: GLUCOSE,135.0,mg/dL,1944-12-24 01:02:57.697,Female,28:39.7,Asian,Married,Spanish,14.05
-182E7BCA-0194-4211-9C6D-0F6C8DD6AE9D,2,11:20.2,28:49.7,1.0,METABOLIC: GLUCOSE,135.0,mg/dL,1944-12-24 01:02:57.697,Female,28:39.7,Asian,Married,Spanish,14.05

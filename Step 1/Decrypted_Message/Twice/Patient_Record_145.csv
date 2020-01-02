@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-250F9F61-9B58-4B72-9913-71E06131281D,1,59:53.2,09:31.0,1.0,CBC: MCHC,33.4,g/dl,1967-02-08 07:15:08.520,Male,25:09.2,African American,Married,English,93.59
-250F9F61-9B58-4B72-9913-71E06131281D,2,21:40.7,57:39.5,1.0,CBC: MCHC,33.4,g/dl,1967-02-08 07:15:08.520,Male,25:09.2,African American,Married,English,93.59

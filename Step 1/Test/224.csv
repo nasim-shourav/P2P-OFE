@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-37F28A1C-2B41-419E-9519-53D0A8ABB134,1,49:29.7,28:15.1,1.0,CBC: MCHC,37.6,g/dl,1991-01-28 03:52:33.923,Male,49:26.9,African American,Married,Spanish,10.93
-37F28A1C-2B41-419E-9519-53D0A8ABB134,2,02:40.3,14:07.9,1.0,CBC: MCHC,37.6,g/dl,1991-01-28 03:52:33.923,Male,49:26.9,African American,Married,Spanish,10.93
-37F28A1C-2B41-419E-9519-53D0A8ABB134,3,32:20.7,50:20.5,1.0,CBC: MCHC,37.6,g/dl,1991-01-28 03:52:33.923,Male,49:26.9,African American,Married,Spanish,10.93
-37F28A1C-2B41-419E-9519-53D0A8ABB134,4,50:21.0,34:28.8,1.0,CBC: MCHC,37.6,g/dl,1991-01-28 03:52:33.923,Male,49:26.9,African American,Married,Spanish,10.93

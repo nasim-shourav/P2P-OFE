@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-77B0997C-B8A7-4138-800D-2314FAA61888,1,16:48.3,45:42.5,1.0,CBC: EOSINOPHILS,0.4,k/cumm,2008-04-17 14:40:52.680,Female,38:56.5,Asian,Married,English,19.7

@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7C95E9B1-F74B-4461-8E24-1994B86FF8A2,1,32:21.4,04:16.5,1.0,CBC: MCH,29.8,pg,1972-07-20 04:38:00.890,Male,17:25.4,White,Married,Icelandic,15.49
-7C95E9B1-F74B-4461-8E24-1994B86FF8A2,2,36:22.8,52:54.6,1.0,CBC: MCH,29.8,pg,1972-07-20 04:38:00.890,Male,17:25.4,White,Married,Icelandic,15.49
-7C95E9B1-F74B-4461-8E24-1994B86FF8A2,3,12:24.0,27:46.0,1.0,CBC: MCH,29.8,pg,1972-07-20 04:38:00.890,Male,17:25.4,White,Married,Icelandic,15.49

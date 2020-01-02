@@ -1,7 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-A6848523-72C5-47DE-8871-9485E6ABA917,1,25:33.5,15:37.9,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94
-A6848523-72C5-47DE-8871-9485E6ABA917,2,43:49.9,06:47.1,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94
-A6848523-72C5-47DE-8871-9485E6ABA917,3,14:46.8,15:11.9,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94
-A6848523-72C5-47DE-8871-9485E6ABA917,4,50:50.0,20:28.5,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94
-A6848523-72C5-47DE-8871-9485E6ABA917,5,22:59.1,51:12.2,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94
-A6848523-72C5-47DE-8871-9485E6ABA917,6,38:23.6,07:01.1,1.0,URINALYSIS: PH,5.1,no unit,1980-09-14 20:47:08.187,Male,18:48.5,Asian,Divorced,English,17.94

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-5E7B0E07-799C-4A1C-B0EB-A5F48B94BCC7,1,38:44.5,11:42.9,1.0,CBC: RDW,15.9,%,1988-07-05 15:18:18.817,Male,15:39.4,White,Unknown,English,18.53
-5E7B0E07-799C-4A1C-B0EB-A5F48B94BCC7,2,06:01.7,00:04.2,1.0,CBC: RDW,15.9,%,1988-07-05 15:18:18.817,Male,15:39.4,White,Unknown,English,18.53

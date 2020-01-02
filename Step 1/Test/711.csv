@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-BA45E11F-B31A-4969-A249-38DC00BA2720,1,15:58.0,34:09.6,1.0,CBC: RED BLOOD CELL COUNT,4.8,m/cumm,1988-05-19 12:20:01.843,Male,54:28.4,White,Married,English,11.48
-BA45E11F-B31A-4969-A249-38DC00BA2720,2,47:58.6,03:13.3,1.0,CBC: RED BLOOD CELL COUNT,4.8,m/cumm,1988-05-19 12:20:01.843,Male,54:28.4,White,Married,English,11.48

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-3B6AFEF7-AAE7-40F9-A01C-C355522948E9,1,26:46.9,58:15.7,1.0,METABOLIC: BILI TOTAL,1.1,mg/dL,2001-06-26 19:21:35.877,Female,32:18.6,Unknown,Single,English,13.92
-3B6AFEF7-AAE7-40F9-A01C-C355522948E9,2,38:49.2,11:30.1,1.0,METABOLIC: BILI TOTAL,1.1,mg/dL,2001-06-26 19:21:35.877,Female,32:18.6,Unknown,Single,English,13.92

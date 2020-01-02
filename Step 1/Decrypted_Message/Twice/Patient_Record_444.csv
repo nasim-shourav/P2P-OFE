@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-717DF4BA-4E1C-462D-BF9E-6E56ECFF41B0,1,51:02.4,11:16.0,1.0,CBC: EOSINOPHILS,0.2,k/cumm,2002-02-22 23:28:34.260,Male,02:40.1,White,Divorced,Icelandic,14.46
-717DF4BA-4E1C-462D-BF9E-6E56ECFF41B0,2,19:56.8,10:32.4,1.0,CBC: EOSINOPHILS,0.2,k/cumm,2002-02-22 23:28:34.260,Male,02:40.1,White,Divorced,Icelandic,14.46
-717DF4BA-4E1C-462D-BF9E-6E56ECFF41B0,3,00:36.9,17:02.5,1.0,CBC: EOSINOPHILS,0.2,k/cumm,2002-02-22 23:28:34.260,Male,02:40.1,White,Divorced,Icelandic,14.46
-717DF4BA-4E1C-462D-BF9E-6E56ECFF41B0,4,44:04.1,59:44.7,1.0,CBC: EOSINOPHILS,0.2,k/cumm,2002-02-22 23:28:34.260,Male,02:40.1,White,Divorced,Icelandic,14.46

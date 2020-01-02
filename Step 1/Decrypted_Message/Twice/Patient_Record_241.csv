@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-3E131EA4-B843-42A6-B98C-2DC82EA744B6,1,54:10.9,36:06.6,1.0,URINALYSIS: RED BLOOD CELLS,3.3,rbc/hpf,1987-06-15 07:03:46.837,Female,41:56.2,White,Single,Spanish,13.45
-3E131EA4-B843-42A6-B98C-2DC82EA744B6,2,14:30.4,54:34.8,1.0,URINALYSIS: RED BLOOD CELLS,3.3,rbc/hpf,1987-06-15 07:03:46.837,Female,41:56.2,White,Single,Spanish,13.45
-3E131EA4-B843-42A6-B98C-2DC82EA744B6,3,41:24.2,57:39.8,1.0,URINALYSIS: RED BLOOD CELLS,3.3,rbc/hpf,1987-06-15 07:03:46.837,Female,41:56.2,White,Single,Spanish,13.45

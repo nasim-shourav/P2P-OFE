@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-8FAE0F2C-F938-4F0E-AF16-8D76A65BC0DB,1,02:58.6,54:35.5,1.0,URINALYSIS: PH,5.3,no unit,1986-02-13 01:49:30.603,Female,49:27.8,Unknown,Married,English,16.07
-8FAE0F2C-F938-4F0E-AF16-8D76A65BC0DB,2,27:43.8,22:38.9,1.0,URINALYSIS: PH,5.3,no unit,1986-02-13 01:49:30.603,Female,49:27.8,Unknown,Married,English,16.07
-8FAE0F2C-F938-4F0E-AF16-8D76A65BC0DB,3,17:37.9,55:37.6,1.0,URINALYSIS: PH,5.3,no unit,1986-02-13 01:49:30.603,Female,49:27.8,Unknown,Married,English,16.07

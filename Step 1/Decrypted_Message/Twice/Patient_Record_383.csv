@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-6096DC12-7034-4465-86BE-CDADEC4F9847,1,14:07.6,44:02.6,1.0,CBC: LYMPHOCYTES,0.5,k/cumm,1986-09-28 04:42:42.340,Male,31:11.2,African American,Single,English,13.89
-6096DC12-7034-4465-86BE-CDADEC4F9847,2,05:51.6,16:22.0,1.0,CBC: LYMPHOCYTES,0.5,k/cumm,1986-09-28 04:42:42.340,Male,31:11.2,African American,Single,English,13.89

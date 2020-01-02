@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B3B52ED3-DCE3-4D73-997C-0FEE74154C9D,1,41:27.7,36:22.0,1.0,CBC: RED BLOOD CELL COUNT,3.8,m/cumm,1979-04-04 04:41:24.277,Male,40:03.9,Asian,Married,Spanish,1.98
-B3B52ED3-DCE3-4D73-997C-0FEE74154C9D,2,50:02.5,31:55.4,1.0,CBC: RED BLOOD CELL COUNT,3.8,m/cumm,1979-04-04 04:41:24.277,Male,40:03.9,Asian,Married,Spanish,1.98
-B3B52ED3-DCE3-4D73-997C-0FEE74154C9D,3,30:46.8,13:07.0,1.0,CBC: RED BLOOD CELL COUNT,3.8,m/cumm,1979-04-04 04:41:24.277,Male,40:03.9,Asian,Married,Spanish,1.98
-B3B52ED3-DCE3-4D73-997C-0FEE74154C9D,4,12:27.3,22:16.7,1.0,CBC: RED BLOOD CELL COUNT,3.8,m/cumm,1979-04-04 04:41:24.277,Male,40:03.9,Asian,Married,Spanish,1.98

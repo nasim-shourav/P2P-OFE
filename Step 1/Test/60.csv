@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-0F9AEBCD-9FAD-4F1B-A7C7-AE8372004907,1,00:05.5,07:04.8,1.0,METABOLIC: ALK PHOS,76.0,U/L,2011-05-20 11:16:14.020,Male,28:13.9,African American,Single,English,9.45

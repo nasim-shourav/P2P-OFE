@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-4906C32A-C9D4-4E4A-BB14-1E4CCF9A4F0B,1,20:25.8,26:55.9,1.0,CBC: MEAN CORPUSCULAR VOLUME,80.1,fl,2006-04-18 16:02:47.490,Female,22:01.9,White,Single,Spanish,82.61
-4906C32A-C9D4-4E4A-BB14-1E4CCF9A4F0B,2,06:47.5,44:23.1,1.0,CBC: MEAN CORPUSCULAR VOLUME,80.1,fl,2006-04-18 16:02:47.490,Female,22:01.9,White,Single,Spanish,82.61

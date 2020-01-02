@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B9637D77-BDAA-433F-AEFC-808BC24376D0,1,46:49.4,26:06.7,1.0,METABOLIC: ALBUMIN,5.4,gm/dL,1963-09-10 18:02:05.740,Male,36:49.3,Asian,Married,English,10.91
-B9637D77-BDAA-433F-AEFC-808BC24376D0,2,20:05.0,34:57.0,1.0,METABOLIC: ALBUMIN,5.4,gm/dL,1963-09-10 18:02:05.740,Male,36:49.3,Asian,Married,English,10.91
-B9637D77-BDAA-433F-AEFC-808BC24376D0,3,59:27.9,49:27.9,1.0,METABOLIC: ALBUMIN,5.4,gm/dL,1963-09-10 18:02:05.740,Male,36:49.3,Asian,Married,English,10.91

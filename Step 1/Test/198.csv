@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-306B7E58-6FC6-4D39-93FF-22C81E8C8502,1,36:39.4,26:39.5,1.0,CBC: MEAN CORPUSCULAR VOLUME,91.5,fl,2011-07-08 12:49:49.630,Female,45:35.9,African American,Single,Icelandic,19.03

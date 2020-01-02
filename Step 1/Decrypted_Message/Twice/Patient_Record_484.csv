@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7D83D075-B163-4F4F-BB0B-9B94E940910C,1,47:05.7,22:13.7,1.0,METABOLIC: CHLORIDE,107.6,mmol/L,1984-04-02 20:58:22.643,Male,07:56.5,Asian,Married,English,17.44
-7D83D075-B163-4F4F-BB0B-9B94E940910C,2,14:50.9,15:51.2,1.0,METABOLIC: CHLORIDE,107.6,mmol/L,1984-04-02 20:58:22.643,Male,07:56.5,Asian,Married,English,17.44
-7D83D075-B163-4F4F-BB0B-9B94E940910C,3,19:56.8,46:46.3,1.0,METABOLIC: CHLORIDE,107.6,mmol/L,1984-04-02 20:58:22.643,Male,07:56.5,Asian,Married,English,17.44

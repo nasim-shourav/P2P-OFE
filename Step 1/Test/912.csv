@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E9AF6297-2F76-453F-9752-9C88A2426C38,1,44:10.2,01:12.6,1.0,CBC: LYMPHOCYTES,4.0,k/cumm,1988-02-12 22:49:46.427,Male,20:39.0,African American,Married,Unknown,14.15
-E9AF6297-2F76-453F-9752-9C88A2426C38,2,41:33.5,03:16.1,1.0,CBC: LYMPHOCYTES,4.0,k/cumm,1988-02-12 22:49:46.427,Male,20:39.0,African American,Married,Unknown,14.15
-E9AF6297-2F76-453F-9752-9C88A2426C38,3,09:26.6,18:50.5,1.0,CBC: LYMPHOCYTES,4.0,k/cumm,1988-02-12 22:49:46.427,Male,20:39.0,African American,Married,Unknown,14.15

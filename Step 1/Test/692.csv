@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B572D96A-5431-4E24-B551-A25D647307E8,1,28:30.0,55:14.3,1.0,CBC: ABSOLUTE NEUTROPHILS,68.6,%,1971-02-20 12:49:41.400,Female,52:36.1,White,Unknown,English,16.35
-B572D96A-5431-4E24-B551-A25D647307E8,2,17:24.5,40:56.1,1.0,CBC: ABSOLUTE NEUTROPHILS,68.6,%,1971-02-20 12:49:41.400,Female,52:36.1,White,Unknown,English,16.35

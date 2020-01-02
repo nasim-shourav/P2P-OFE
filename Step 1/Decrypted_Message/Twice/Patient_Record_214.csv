@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-350A018C-E744-4652-8918-4F7E1EAD7EA9,1,00:09.9,49:21.3,1.0,METABOLIC: ALBUMIN,4.7,gm/dL,1988-08-23 12:14:40.247,Female,07:57.1,Asian,Married,English,8.08
-350A018C-E744-4652-8918-4F7E1EAD7EA9,2,01:46.2,17:34.8,1.0,METABOLIC: ALBUMIN,4.7,gm/dL,1988-08-23 12:14:40.247,Female,07:57.1,Asian,Married,English,8.08
-350A018C-E744-4652-8918-4F7E1EAD7EA9,3,05:08.2,50:47.5,1.0,METABOLIC: ALBUMIN,4.7,gm/dL,1988-08-23 12:14:40.247,Female,07:57.1,Asian,Married,English,8.08
-350A018C-E744-4652-8918-4F7E1EAD7EA9,4,48:36.2,33:12.7,1.0,METABOLIC: ALBUMIN,4.7,gm/dL,1988-08-23 12:14:40.247,Female,07:57.1,Asian,Married,English,8.08
-350A018C-E744-4652-8918-4F7E1EAD7EA9,5,21:00.1,18:49.2,1.0,METABOLIC: ALBUMIN,4.7,gm/dL,1988-08-23 12:14:40.247,Female,07:57.1,Asian,Married,English,8.08

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-EC1FB3AD-E481-4CBE-B637-8BCE06F18108,1,22:35.4,23:11.3,1.0,CBC: MEAN CORPUSCULAR VOLUME,77.3,fl,1995-06-15 19:25:57.390,Female,48:05.5,White,Single,Spanish,1.84
-EC1FB3AD-E481-4CBE-B637-8BCE06F18108,2,57:07.4,31:47.3,1.0,CBC: MEAN CORPUSCULAR VOLUME,77.3,fl,1995-06-15 19:25:57.390,Female,48:05.5,White,Single,Spanish,1.84

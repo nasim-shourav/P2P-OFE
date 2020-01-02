@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-78F1E550-9734-4048-ABEA-2AC8C8142B26,1,15:37.5,18:54.6,1.0,CBC: RDW,10.2,%,1966-02-01 05:43:07.013,Female,53:49.1,Unknown,Married,English,11.55
-78F1E550-9734-4048-ABEA-2AC8C8142B26,2,01:09.8,25:32.7,1.0,CBC: RDW,10.2,%,1966-02-01 05:43:07.013,Female,53:49.1,Unknown,Married,English,11.55
-78F1E550-9734-4048-ABEA-2AC8C8142B26,3,52:11.1,34:31.9,1.0,CBC: RDW,10.2,%,1966-02-01 05:43:07.013,Female,53:49.1,Unknown,Married,English,11.55
-78F1E550-9734-4048-ABEA-2AC8C8142B26,4,29:27.1,23:50.3,1.0,CBC: RDW,10.2,%,1966-02-01 05:43:07.013,Female,53:49.1,Unknown,Married,English,11.55

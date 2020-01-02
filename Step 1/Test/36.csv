@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-08223FAA-8C51-4317-81C7-1A3FAB6EC84A,1,09:31.0,45:54.6,1.0,METABOLIC: GLUCOSE,132.9,mg/dL,1992-04-30 20:58:39.717,Male,30:53.8,Unknown,Unknown,English,12.94
-08223FAA-8C51-4317-81C7-1A3FAB6EC84A,2,35:10.7,47:25.5,1.0,METABOLIC: GLUCOSE,132.9,mg/dL,1992-04-30 20:58:39.717,Male,30:53.8,Unknown,Unknown,English,12.94
-08223FAA-8C51-4317-81C7-1A3FAB6EC84A,3,09:36.6,39:17.4,1.0,METABOLIC: GLUCOSE,132.9,mg/dL,1992-04-30 20:58:39.717,Male,30:53.8,Unknown,Unknown,English,12.94

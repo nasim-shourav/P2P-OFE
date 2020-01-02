@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D614B4EF-9B82-4D86-A291-946918FEA4BE,1,57:23.2,20:51.7,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1991-07-20 22:18:38.547,Male,03:41.4,White,Married,Spanish,12.55
-D614B4EF-9B82-4D86-A291-946918FEA4BE,2,25:34.0,27:47.7,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1991-07-20 22:18:38.547,Male,03:41.4,White,Married,Spanish,12.55

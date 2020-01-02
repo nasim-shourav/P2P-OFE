@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-255ED5A5-AA48-44D0-8609-C9D29F0CE982,1,47:20.4,59:13.5,1.0,CBC: PLATELET COUNT,339.1,k/cumm,2003-09-29 19:34:55.073,Female,19:45.7,Asian,Single,Icelandic,14.82
-255ED5A5-AA48-44D0-8609-C9D29F0CE982,2,40:25.9,58:47.3,1.0,CBC: PLATELET COUNT,339.1,k/cumm,2003-09-29 19:34:55.073,Female,19:45.7,Asian,Single,Icelandic,14.82
-255ED5A5-AA48-44D0-8609-C9D29F0CE982,3,54:41.1,06:41.9,1.0,CBC: PLATELET COUNT,339.1,k/cumm,2003-09-29 19:34:55.073,Female,19:45.7,Asian,Single,Icelandic,14.82

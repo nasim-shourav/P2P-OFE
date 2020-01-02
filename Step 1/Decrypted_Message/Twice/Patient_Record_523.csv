@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-880A6B23-3368-406F-B6E4-2AE6E587C5EA,1,29:42.4,49:10.5,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1972-09-01 11:13:13.933,Female,45:59.2,Asian,Married,English,14.09
-880A6B23-3368-406F-B6E4-2AE6E587C5EA,2,35:40.0,52:01.6,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1972-09-01 11:13:13.933,Female,45:59.2,Asian,Married,English,14.09
-880A6B23-3368-406F-B6E4-2AE6E587C5EA,3,33:05.8,54:32.2,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1972-09-01 11:13:13.933,Female,45:59.2,Asian,Married,English,14.09

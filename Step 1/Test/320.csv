@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-513BF71A-CB1F-46F2-908E-A2513EF43ECD,1,37:44.8,49:51.0,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1948-12-19 21:18:30.153,Male,35:04.9,Unknown,Married,English,19.57
-513BF71A-CB1F-46F2-908E-A2513EF43ECD,2,13:03.3,45:09.2,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1948-12-19 21:18:30.153,Male,35:04.9,Unknown,Married,English,19.57
-513BF71A-CB1F-46F2-908E-A2513EF43ECD,3,38:09.2,20:17.8,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1948-12-19 21:18:30.153,Male,35:04.9,Unknown,Married,English,19.57
-513BF71A-CB1F-46F2-908E-A2513EF43ECD,4,27:22.0,54:55.4,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1948-12-19 21:18:30.153,Male,35:04.9,Unknown,Married,English,19.57

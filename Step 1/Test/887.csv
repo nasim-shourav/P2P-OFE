@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E56F0E66-655E-4C29-A097-6835484B6709,1,33:08.8,48:54.3,1.0,CBC: HEMATOCRIT,35.7,%,2001-11-15 03:10:03.630,Female,16:08.3,Asian,Married,English,17.69
-E56F0E66-655E-4C29-A097-6835484B6709,2,12:43.7,38:23.2,1.0,CBC: HEMATOCRIT,35.7,%,2001-11-15 03:10:03.630,Female,16:08.3,Asian,Married,English,17.69

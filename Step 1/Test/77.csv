@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-149199F0-DE24-4C9D-BFDE-91295F93EB10,1,46:21.8,57:39.0,1.0,CBC: HEMATOCRIT,47.0,%,1969-09-24 09:32:28.643,Female,31:38.8,Unknown,Unknown,English,13.09
-149199F0-DE24-4C9D-BFDE-91295F93EB10,2,21:54.4,21:38.3,1.0,CBC: HEMATOCRIT,47.0,%,1969-09-24 09:32:28.643,Female,31:38.8,Unknown,Unknown,English,13.09
-149199F0-DE24-4C9D-BFDE-91295F93EB10,3,46:38.7,47:19.6,1.0,CBC: HEMATOCRIT,47.0,%,1969-09-24 09:32:28.643,Female,31:38.8,Unknown,Unknown,English,13.09

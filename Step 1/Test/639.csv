@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-A71D4D71-D6B4-4531-AA73-C786A83AE245,1,02:46.4,25:00.0,1.0,CBC: RED BLOOD CELL COUNT,4.1,m/cumm,1975-01-20 18:23:40.193,Female,09:41.0,African American,Married,Spanish,14.41
-A71D4D71-D6B4-4531-AA73-C786A83AE245,2,29:10.6,51:29.7,1.0,CBC: RED BLOOD CELL COUNT,4.1,m/cumm,1975-01-20 18:23:40.193,Female,09:41.0,African American,Married,Spanish,14.41
-A71D4D71-D6B4-4531-AA73-C786A83AE245,3,19:59.7,07:58.0,1.0,CBC: RED BLOOD CELL COUNT,4.1,m/cumm,1975-01-20 18:23:40.193,Female,09:41.0,African American,Married,Spanish,14.41
-A71D4D71-D6B4-4531-AA73-C786A83AE245,4,10:23.2,12:46.2,1.0,CBC: RED BLOOD CELL COUNT,4.1,m/cumm,1975-01-20 18:23:40.193,Female,09:41.0,African American,Married,Spanish,14.41
-A71D4D71-D6B4-4531-AA73-C786A83AE245,5,07:43.6,44:13.2,1.0,CBC: RED BLOOD CELL COUNT,4.1,m/cumm,1975-01-20 18:23:40.193,Female,09:41.0,African American,Married,Spanish,14.41

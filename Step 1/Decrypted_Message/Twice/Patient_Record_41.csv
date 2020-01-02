@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-09B2404D-8E01-40CC-ACCE-B413E6C56796,1,45:54.9,42:51.4,1.0,METABOLIC: CARBON DIOXIDE,35.3,mmol/L,1972-03-01 00:46:02.940,Female,40:10.5,Asian,Separated,Spanish,13.09
-09B2404D-8E01-40CC-ACCE-B413E6C56796,2,57:59.6,05:25.3,1.0,METABOLIC: CARBON DIOXIDE,35.3,mmol/L,1972-03-01 00:46:02.940,Female,40:10.5,Asian,Separated,Spanish,13.09
-09B2404D-8E01-40CC-ACCE-B413E6C56796,3,06:54.9,55:48.6,1.0,METABOLIC: CARBON DIOXIDE,35.3,mmol/L,1972-03-01 00:46:02.940,Female,40:10.5,Asian,Separated,Spanish,13.09

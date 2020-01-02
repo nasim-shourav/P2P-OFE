@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E16CEC0D-6681-41F8-A0CA-4F7918D56ED3,1,25:52.4,19:42.1,1.0,METABOLIC: AST/SGOT,23.0,U/L,1994-10-19 12:55:58.470,Female,33:32.1,White,Married,Spanish,14.42
-E16CEC0D-6681-41F8-A0CA-4F7918D56ED3,2,53:33.3,23:56.4,1.0,METABOLIC: AST/SGOT,23.0,U/L,1994-10-19 12:55:58.470,Female,33:32.1,White,Married,Spanish,14.42

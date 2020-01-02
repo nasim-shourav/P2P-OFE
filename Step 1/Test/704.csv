@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B8EDE2C6-EED1-4EB1-B637-65D1CB4318A4,1,40:30.4,07:57.4,1.0,METABOLIC: CALCIUM,9.9,mg/dL,1974-03-05 19:12:07.863,Male,46:49.6,African American,Divorced,Icelandic,11.28
-B8EDE2C6-EED1-4EB1-B637-65D1CB4318A4,2,11:29.3,48:12.0,1.0,METABOLIC: CALCIUM,9.9,mg/dL,1974-03-05 19:12:07.863,Male,46:49.6,African American,Divorced,Icelandic,11.28
-B8EDE2C6-EED1-4EB1-B637-65D1CB4318A4,3,39:08.9,12:28.8,1.0,METABOLIC: CALCIUM,9.9,mg/dL,1974-03-05 19:12:07.863,Male,46:49.6,African American,Divorced,Icelandic,11.28
-B8EDE2C6-EED1-4EB1-B637-65D1CB4318A4,4,30:17.5,14:08.0,1.0,METABOLIC: CALCIUM,9.9,mg/dL,1974-03-05 19:12:07.863,Male,46:49.6,African American,Divorced,Icelandic,11.28
-B8EDE2C6-EED1-4EB1-B637-65D1CB4318A4,5,16:32.2,21:58.2,1.0,METABOLIC: CALCIUM,9.9,mg/dL,1974-03-05 19:12:07.863,Male,46:49.6,African American,Divorced,Icelandic,11.28

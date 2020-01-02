@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-25BFFC5B-7017-436F-A278-63CC53490165,1,46:09.1,37:41.2,1.0,CBC: LYMPHOCYTES,4.3,k/cumm,1967-10-03 19:59:29.347,Female,53:55.1,Asian,Single,English,13.79
-25BFFC5B-7017-436F-A278-63CC53490165,2,28:17.9,48:38.1,1.0,CBC: LYMPHOCYTES,4.3,k/cumm,1967-10-03 19:59:29.347,Female,53:55.1,Asian,Single,English,13.79
-25BFFC5B-7017-436F-A278-63CC53490165,3,29:49.7,55:58.9,1.0,CBC: LYMPHOCYTES,4.3,k/cumm,1967-10-03 19:59:29.347,Female,53:55.1,Asian,Single,English,13.79
-25BFFC5B-7017-436F-A278-63CC53490165,4,16:56.5,58:38.6,1.0,CBC: LYMPHOCYTES,4.3,k/cumm,1967-10-03 19:59:29.347,Female,53:55.1,Asian,Single,English,13.79
-25BFFC5B-7017-436F-A278-63CC53490165,5,06:28.4,39:18.3,1.0,CBC: LYMPHOCYTES,4.3,k/cumm,1967-10-03 19:59:29.347,Female,53:55.1,Asian,Single,English,13.79

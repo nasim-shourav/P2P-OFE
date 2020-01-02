@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-42188D10-DD03-451D-B317-192ABEE7A143,1,08:18.8,41:07.6,1.0,METABOLIC: GLUCOSE,138.0,mg/dL,1975-04-09 06:28:19.417,Male,01:25.2,White,Divorced,English,17.39
-42188D10-DD03-451D-B317-192ABEE7A143,2,22:24.8,46:20.6,1.0,METABOLIC: GLUCOSE,138.0,mg/dL,1975-04-09 06:28:19.417,Male,01:25.2,White,Divorced,English,17.39
-42188D10-DD03-451D-B317-192ABEE7A143,3,32:51.0,03:53.6,1.0,METABOLIC: GLUCOSE,138.0,mg/dL,1975-04-09 06:28:19.417,Male,01:25.2,White,Divorced,English,17.39

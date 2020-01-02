@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-DA886582-1C92-405B-B339-DFA13351E9EC,1,46:12.5,05:14.9,1.0,METABOLIC: SODIUM,137.8,mmol/L,1979-04-30 05:02:19.097,Female,12:54.8,Asian,Single,English,1.07
-DA886582-1C92-405B-B339-DFA13351E9EC,2,06:16.1,36:47.0,1.0,METABOLIC: SODIUM,137.8,mmol/L,1979-04-30 05:02:19.097,Female,12:54.8,Asian,Single,English,1.07
-DA886582-1C92-405B-B339-DFA13351E9EC,3,09:26.4,29:59.4,1.0,METABOLIC: SODIUM,137.8,mmol/L,1979-04-30 05:02:19.097,Female,12:54.8,Asian,Single,English,1.07
-DA886582-1C92-405B-B339-DFA13351E9EC,4,34:52.1,45:26.7,1.0,METABOLIC: SODIUM,137.8,mmol/L,1979-04-30 05:02:19.097,Female,12:54.8,Asian,Single,English,1.07

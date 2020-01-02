@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F4CD650E-4BFF-4439-9FBB-3E1425745208,1,40:37.6,35:52.7,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1989-08-06 04:18:13.610,Male,30:24.1,White,Married,English,15.24
-F4CD650E-4BFF-4439-9FBB-3E1425745208,2,07:49.1,22:34.1,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1989-08-06 04:18:13.610,Male,30:24.1,White,Married,English,15.24
-F4CD650E-4BFF-4439-9FBB-3E1425745208,3,07:00.5,40:53.6,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1989-08-06 04:18:13.610,Male,30:24.1,White,Married,English,15.24

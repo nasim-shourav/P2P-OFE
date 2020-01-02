@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-12D5410F-341D-4934-B3D0-48565366C43F,1,04:59.4,53:42.2,1.0,CBC: NEUTROPHILS,5.2,k/cumm,1987-09-24 23:06:11.033,Male,47:52.1,White,Single,English,16.68
-12D5410F-341D-4934-B3D0-48565366C43F,2,59:58.2,39:41.6,1.0,CBC: NEUTROPHILS,5.2,k/cumm,1987-09-24 23:06:11.033,Male,47:52.1,White,Single,English,16.68

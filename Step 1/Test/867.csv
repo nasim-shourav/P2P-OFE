@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E1544608-FB93-4E56-BE10-8CB51D4508FD,1,42:34.3,20:50.9,1.0,CBC: RED BLOOD CELL COUNT,5.7,m/cumm,1995-07-10 12:47:33.780,Male,39:11.5,White,Separated,Icelandic,14.42
-E1544608-FB93-4E56-BE10-8CB51D4508FD,2,36:25.7,35:13.3,1.0,CBC: RED BLOOD CELL COUNT,5.7,m/cumm,1995-07-10 12:47:33.780,Male,39:11.5,White,Separated,Icelandic,14.42
-E1544608-FB93-4E56-BE10-8CB51D4508FD,3,44:11.0,27:30.8,1.0,CBC: RED BLOOD CELL COUNT,5.7,m/cumm,1995-07-10 12:47:33.780,Male,39:11.5,White,Separated,Icelandic,14.42
-E1544608-FB93-4E56-BE10-8CB51D4508FD,4,00:18.1,38:06.6,1.0,CBC: RED BLOOD CELL COUNT,5.7,m/cumm,1995-07-10 12:47:33.780,Male,39:11.5,White,Separated,Icelandic,14.42
-E1544608-FB93-4E56-BE10-8CB51D4508FD,5,14:12.2,41:37.3,1.0,CBC: RED BLOOD CELL COUNT,5.7,m/cumm,1995-07-10 12:47:33.780,Male,39:11.5,White,Separated,Icelandic,14.42

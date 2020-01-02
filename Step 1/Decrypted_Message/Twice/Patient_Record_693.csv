@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B5A3B394-B9C2-4ED3-8093-233AF75434A8,1,48:17.7,06:22.2,1.0,CBC: PLATELET COUNT,219.1,k/cumm,1955-10-17 15:14:43.003,Female,23:24.0,Asian,Divorced,Spanish,11.17
-B5A3B394-B9C2-4ED3-8093-233AF75434A8,2,45:25.8,54:22.7,1.0,CBC: PLATELET COUNT,219.1,k/cumm,1955-10-17 15:14:43.003,Female,23:24.0,Asian,Divorced,Spanish,11.17
-B5A3B394-B9C2-4ED3-8093-233AF75434A8,3,02:50.0,47:56.9,1.0,CBC: PLATELET COUNT,219.1,k/cumm,1955-10-17 15:14:43.003,Female,23:24.0,Asian,Divorced,Spanish,11.17
-B5A3B394-B9C2-4ED3-8093-233AF75434A8,4,35:23.5,50:48.1,1.0,CBC: PLATELET COUNT,219.1,k/cumm,1955-10-17 15:14:43.003,Female,23:24.0,Asian,Divorced,Spanish,11.17

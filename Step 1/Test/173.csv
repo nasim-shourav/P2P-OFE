@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-29B23188-F153-4403-AABB-BEC38D1AED06,1,56:47.3,04:26.6,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1961-08-16 00:37:18.110,Female,38:51.2,Asian,Married,Icelandic,17.39
-29B23188-F153-4403-AABB-BEC38D1AED06,2,39:09.5,15:07.6,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1961-08-16 00:37:18.110,Female,38:51.2,Asian,Married,Icelandic,17.39
-29B23188-F153-4403-AABB-BEC38D1AED06,3,07:48.2,45:30.2,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1961-08-16 00:37:18.110,Female,38:51.2,Asian,Married,Icelandic,17.39
-29B23188-F153-4403-AABB-BEC38D1AED06,4,00:48.6,56:58.4,1.0,CBC: NEUTROPHILS,2.8,k/cumm,1961-08-16 00:37:18.110,Female,38:51.2,Asian,Married,Icelandic,17.39

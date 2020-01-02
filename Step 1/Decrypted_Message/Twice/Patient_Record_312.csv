@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-4EC47256-C91B-45DE-B4E7-8922E79EA7FB,1,25:21.0,44:44.0,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2002-04-18 21:39:07.150,Male,42:38.7,Unknown,Married,English,12.17
-4EC47256-C91B-45DE-B4E7-8922E79EA7FB,2,12:14.2,49:29.8,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2002-04-18 21:39:07.150,Male,42:38.7,Unknown,Married,English,12.17
-4EC47256-C91B-45DE-B4E7-8922E79EA7FB,3,48:00.0,22:27.3,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2002-04-18 21:39:07.150,Male,42:38.7,Unknown,Married,English,12.17

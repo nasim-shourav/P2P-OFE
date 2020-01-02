@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FB27F554-0E30-488E-AA38-20DC9CB6036B,1,38:02.3,03:40.5,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1986-07-09 05:30:00.210,Male,12:25.5,White,Married,English,10.13
-FB27F554-0E30-488E-AA38-20DC9CB6036B,2,55:43.2,51:09.0,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1986-07-09 05:30:00.210,Male,12:25.5,White,Married,English,10.13
-FB27F554-0E30-488E-AA38-20DC9CB6036B,3,47:38.1,02:28.5,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1986-07-09 05:30:00.210,Male,12:25.5,White,Married,English,10.13
-FB27F554-0E30-488E-AA38-20DC9CB6036B,4,07:47.4,10:28.5,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1986-07-09 05:30:00.210,Male,12:25.5,White,Married,English,10.13

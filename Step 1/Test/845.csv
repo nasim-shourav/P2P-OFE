@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-DAC5DB5C-55FA-41E7-A447-75758884F2EF,1,10:20.5,49:03.8,1.0,METABOLIC: ALT/SGPT,34.4,U/L,1958-10-10 13:06:11.157,Female,48:49.6,White,Married,English,10.99
-DAC5DB5C-55FA-41E7-A447-75758884F2EF,2,14:50.4,48:23.2,1.0,METABOLIC: ALT/SGPT,34.4,U/L,1958-10-10 13:06:11.157,Female,48:49.6,White,Married,English,10.99
-DAC5DB5C-55FA-41E7-A447-75758884F2EF,3,18:56.0,31:00.0,1.0,METABOLIC: ALT/SGPT,34.4,U/L,1958-10-10 13:06:11.157,Female,48:49.6,White,Married,English,10.99
-DAC5DB5C-55FA-41E7-A447-75758884F2EF,4,20:27.9,51:09.2,1.0,METABOLIC: ALT/SGPT,34.4,U/L,1958-10-10 13:06:11.157,Female,48:49.6,White,Married,English,10.99

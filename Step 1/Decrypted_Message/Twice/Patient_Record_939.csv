@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-F067A453-D4ED-4315-B5EC-4150D5E75C91,1,44:18.9,57:34.1,1.0,CBC: HEMATOCRIT,44.7,%,1975-12-07 23:47:12.783,Female,11:32.3,White,Married,English,11.0
-F067A453-D4ED-4315-B5EC-4150D5E75C91,2,49:30.3,38:23.7,1.0,CBC: HEMATOCRIT,44.7,%,1975-12-07 23:47:12.783,Female,11:32.3,White,Married,English,11.0
-F067A453-D4ED-4315-B5EC-4150D5E75C91,3,26:13.5,11:34.8,1.0,CBC: HEMATOCRIT,44.7,%,1975-12-07 23:47:12.783,Female,11:32.3,White,Married,English,11.0

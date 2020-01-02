@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E7E57034-FB72-457D-A6DC-AD0769B1E99B,1,37:04.8,29:42.2,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1988-01-02 02:17:45.387,Female,39:50.6,White,Single,English,94.97
-E7E57034-FB72-457D-A6DC-AD0769B1E99B,2,45:24.9,54:02.1,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1988-01-02 02:17:45.387,Female,39:50.6,White,Single,English,94.97

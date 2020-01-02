@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-DF4AC8BB-C11A-4DC9-A4FB-CD1A0DE361CB,1,21:33.8,26:59.0,1.0,CBC: WHITE BLOOD CELL COUNT,7.4,k/cumm,1964-12-20 00:41:45.993,Female,37:39.1,African American,Single,Icelandic,91.8
-DF4AC8BB-C11A-4DC9-A4FB-CD1A0DE361CB,2,39:23.5,15:29.8,1.0,CBC: WHITE BLOOD CELL COUNT,7.4,k/cumm,1964-12-20 00:41:45.993,Female,37:39.1,African American,Single,Icelandic,91.8
-DF4AC8BB-C11A-4DC9-A4FB-CD1A0DE361CB,3,14:29.6,10:56.6,1.0,CBC: WHITE BLOOD CELL COUNT,7.4,k/cumm,1964-12-20 00:41:45.993,Female,37:39.1,African American,Single,Icelandic,91.8
-DF4AC8BB-C11A-4DC9-A4FB-CD1A0DE361CB,4,22:02.9,11:26.4,1.0,CBC: WHITE BLOOD CELL COUNT,7.4,k/cumm,1964-12-20 00:41:45.993,Female,37:39.1,African American,Single,Icelandic,91.8

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-3362FE5E-136A-4630-A9F1-4160EC5592B3,1,40:07.9,32:01.9,1.0,CBC: EOSINOPHILS,0.5,k/cumm,1983-04-13 16:20:14.760,Female,57:02.4,African American,Single,English,12.15
-3362FE5E-136A-4630-A9F1-4160EC5592B3,2,04:49.7,41:32.7,1.0,CBC: EOSINOPHILS,0.5,k/cumm,1983-04-13 16:20:14.760,Female,57:02.4,African American,Single,English,12.15

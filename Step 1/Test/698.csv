@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-B69B0472-2B85-4939-AE31-46B6D209BD14,1,15:21.0,58:38.3,1.0,URINALYSIS: PH,5.5,no unit,2001-11-07 15:08:53.073,Female,32:12.5,White,Married,English,17.02
-B69B0472-2B85-4939-AE31-46B6D209BD14,2,50:53.1,01:20.2,1.0,URINALYSIS: PH,5.5,no unit,2001-11-07 15:08:53.073,Female,32:12.5,White,Married,English,17.02

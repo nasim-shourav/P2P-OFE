@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-A70E1B19-DFEC-4049-A93F-3D94EE9B6987,1,11:18.8,21:05.6,1.0,CBC: HEMATOCRIT,35.5,%,1969-01-26 15:57:44.137,Male,29:27.1,White,Married,Spanish,19.91
-A70E1B19-DFEC-4049-A93F-3D94EE9B6987,2,30:59.1,03:02.3,1.0,CBC: HEMATOCRIT,35.5,%,1969-01-26 15:57:44.137,Male,29:27.1,White,Married,Spanish,19.91
-A70E1B19-DFEC-4049-A93F-3D94EE9B6987,3,37:53.7,38:25.5,1.0,CBC: HEMATOCRIT,35.5,%,1969-01-26 15:57:44.137,Male,29:27.1,White,Married,Spanish,19.91

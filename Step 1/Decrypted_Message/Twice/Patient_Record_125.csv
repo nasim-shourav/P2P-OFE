@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-1F37E2A9-A7A5-485E-AD20-F8064B924B83,1,01:08.2,07:52.3,1.0,URINALYSIS: PH,7.1,no unit,1991-04-24 12:01:02.113,Female,22:39.2,White,Single,Icelandic,16.18
-1F37E2A9-A7A5-485E-AD20-F8064B924B83,2,41:11.2,57:05.7,1.0,URINALYSIS: PH,7.1,no unit,1991-04-24 12:01:02.113,Female,22:39.2,White,Single,Icelandic,16.18

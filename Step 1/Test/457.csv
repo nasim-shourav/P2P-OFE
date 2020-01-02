@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-76984A4E-5FCE-4E92-95EA-BBBB10A001C6,1,32:57.7,31:19.5,1.0,CBC: MCHC,35.4,g/dl,2006-05-23 13:21:38.220,Female,34:50.4,Asian,Married,Spanish,97.39
-76984A4E-5FCE-4E92-95EA-BBBB10A001C6,2,39:36.5,46:02.1,1.0,CBC: MCHC,35.4,g/dl,2006-05-23 13:21:38.220,Female,34:50.4,Asian,Married,Spanish,97.39

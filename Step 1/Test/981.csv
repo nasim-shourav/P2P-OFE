@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FC1A66F9-58F2-4162-82B7-14383C966FC5,1,39:43.8,55:27.9,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,1979-06-10 21:06:41.207,Male,21:57.8,Asian,Separated,Icelandic,13.48
-FC1A66F9-58F2-4162-82B7-14383C966FC5,2,46:13.3,41:07.3,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,1979-06-10 21:06:41.207,Male,21:57.8,Asian,Separated,Icelandic,13.48
-FC1A66F9-58F2-4162-82B7-14383C966FC5,3,17:04.2,52:47.5,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,1979-06-10 21:06:41.207,Male,21:57.8,Asian,Separated,Icelandic,13.48
-FC1A66F9-58F2-4162-82B7-14383C966FC5,4,22:26.7,19:38.8,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,1979-06-10 21:06:41.207,Male,21:57.8,Asian,Separated,Icelandic,13.48
-FC1A66F9-58F2-4162-82B7-14383C966FC5,5,36:08.8,09:16.9,1.0,URINALYSIS: RED BLOOD CELLS,0.2,rbc/hpf,1979-06-10 21:06:41.207,Male,21:57.8,Asian,Separated,Icelandic,13.48

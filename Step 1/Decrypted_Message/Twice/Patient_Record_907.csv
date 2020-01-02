@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E880B52F-E229-453F-8D56-8B6C1F9ACD06,1,26:51.2,07:30.8,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1991-09-30 12:52:59.820,Male,23:21.5,Asian,Married,Spanish,19.63
-E880B52F-E229-453F-8D56-8B6C1F9ACD06,2,42:23.0,45:47.6,1.0,METABOLIC: ALT/SGPT,55.3,U/L,1991-09-30 12:52:59.820,Male,23:21.5,Asian,Married,Spanish,19.63

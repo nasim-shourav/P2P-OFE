@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-6089305A-37CA-4773-9CDF-ADAA4004E59D,1,29:45.7,57:33.4,1.0,METABOLIC: TOTAL PROTEIN,7.0,gm/dL,1960-08-10 21:31:22.717,Male,12:10.8,White,Unknown,Spanish,94.79
-6089305A-37CA-4773-9CDF-ADAA4004E59D,2,38:31.8,40:48.6,1.0,METABOLIC: TOTAL PROTEIN,7.0,gm/dL,1960-08-10 21:31:22.717,Male,12:10.8,White,Unknown,Spanish,94.79
-6089305A-37CA-4773-9CDF-ADAA4004E59D,3,18:43.2,46:09.2,1.0,METABOLIC: TOTAL PROTEIN,7.0,gm/dL,1960-08-10 21:31:22.717,Male,12:10.8,White,Unknown,Spanish,94.79

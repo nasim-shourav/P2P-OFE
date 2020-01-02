@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C99D8747-319B-49A7-9418-585A832A91E6,1,37:35.6,32:55.2,1.0,METABOLIC: TOTAL PROTEIN,9.5,gm/dL,2006-01-18 05:03:09.360,Female,07:30.2,Unknown,Single,English,17.77
-C99D8747-319B-49A7-9418-585A832A91E6,2,11:22.2,01:24.4,1.0,METABOLIC: TOTAL PROTEIN,9.5,gm/dL,2006-01-18 05:03:09.360,Female,07:30.2,Unknown,Single,English,17.77
-C99D8747-319B-49A7-9418-585A832A91E6,3,51:57.7,50:04.5,1.0,METABOLIC: TOTAL PROTEIN,9.5,gm/dL,2006-01-18 05:03:09.360,Female,07:30.2,Unknown,Single,English,17.77

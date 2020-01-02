@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-DB6C955B-CD60-404F-A730-EFD68C9B5EC0,1,40:25.9,38:11.4,1.0,METABOLIC: CREATININE,0.5,mg/dL,2006-07-16 19:27:07.903,Female,19:43.8,White,Divorced,Icelandic,19.85
-DB6C955B-CD60-404F-A730-EFD68C9B5EC0,2,02:49.0,19:32.7,1.0,METABOLIC: CREATININE,0.5,mg/dL,2006-07-16 19:27:07.903,Female,19:43.8,White,Divorced,Icelandic,19.85

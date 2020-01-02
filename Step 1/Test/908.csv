@@ -1,6 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-E881DB78-CADE-44B4-A7EF-EE3E193FE3FE,1,41:04.4,30:06.5,1.0,CBC: RDW,9.6,%,1954-11-12 02:43:56.703,Male,23:14.2,African American,Married,Spanish,17.72
-E881DB78-CADE-44B4-A7EF-EE3E193FE3FE,2,53:54.4,24:53.8,1.0,CBC: RDW,9.6,%,1954-11-12 02:43:56.703,Male,23:14.2,African American,Married,Spanish,17.72
-E881DB78-CADE-44B4-A7EF-EE3E193FE3FE,3,48:35.0,06:25.9,1.0,CBC: RDW,9.6,%,1954-11-12 02:43:56.703,Male,23:14.2,African American,Married,Spanish,17.72
-E881DB78-CADE-44B4-A7EF-EE3E193FE3FE,4,43:24.6,19:07.2,1.0,CBC: RDW,9.6,%,1954-11-12 02:43:56.703,Male,23:14.2,African American,Married,Spanish,17.72
-E881DB78-CADE-44B4-A7EF-EE3E193FE3FE,5,53:33.2,59:07.0,1.0,CBC: RDW,9.6,%,1954-11-12 02:43:56.703,Male,23:14.2,African American,Married,Spanish,17.72

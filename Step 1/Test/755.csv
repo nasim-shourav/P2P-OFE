@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C807F774-AA2A-459C-A3D4-892C081EC991,1,11:38.7,22:50.6,1.0,METABOLIC: SODIUM,133.0,mmol/L,1982-02-16 14:00:05.370,Male,42:42.2,White,Single,Spanish,18.31
-C807F774-AA2A-459C-A3D4-892C081EC991,2,48:37.2,21:43.9,1.0,METABOLIC: SODIUM,133.0,mmol/L,1982-02-16 14:00:05.370,Male,42:42.2,White,Single,Spanish,18.31
-C807F774-AA2A-459C-A3D4-892C081EC991,3,21:23.6,00:29.8,1.0,METABOLIC: SODIUM,133.0,mmol/L,1982-02-16 14:00:05.370,Male,42:42.2,White,Single,Spanish,18.31

@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FEAC587D-DEBE-4E84-9137-EA49443BEDF0,1,37:12.7,07:53.0,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1999-09-14 21:25:18.583,Female,23:26.6,White,Single,Icelandic,10.52
-FEAC587D-DEBE-4E84-9137-EA49443BEDF0,2,57:29.0,42:34.8,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1999-09-14 21:25:18.583,Female,23:26.6,White,Single,Icelandic,10.52

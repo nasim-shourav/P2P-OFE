@@ -1,2 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-007DFA49-B7E3-45A1-BD08-268B86F7F537,1,41:29.5,19:23.0,1.0,CBC: NEUTROPHILS,5.0,k/cumm,2014-03-02 14:22:54.930,Female,08:25.5,White,Married,Spanish,12.07

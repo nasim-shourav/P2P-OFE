@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-C46E20AA-6CC6-4E7C-8B4E-48C8C4F0A192,1,26:43.1,25:26.0,1.0,CBC: MCH,31.8,pg,1985-08-03 01:42:43.060,Male,39:20.7,Unknown,Married,Unknown,13.8
-C46E20AA-6CC6-4E7C-8B4E-48C8C4F0A192,2,47:44.5,15:08.4,1.0,CBC: MCH,31.8,pg,1985-08-03 01:42:43.060,Male,39:20.7,Unknown,Married,Unknown,13.8
-C46E20AA-6CC6-4E7C-8B4E-48C8C4F0A192,3,57:43.2,43:31.6,1.0,CBC: MCH,31.8,pg,1985-08-03 01:42:43.060,Male,39:20.7,Unknown,Married,Unknown,13.8
-C46E20AA-6CC6-4E7C-8B4E-48C8C4F0A192,4,44:04.5,02:18.0,1.0,CBC: MCH,31.8,pg,1985-08-03 01:42:43.060,Male,39:20.7,Unknown,Married,Unknown,13.8

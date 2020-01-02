@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-1C92CE0F-1A74-42A7-A5DF-BD56DA55D7D5,1,35:54.2,00:17.3,1.0,METABOLIC: TOTAL PROTEIN,9.7,gm/dL,1973-12-26 04:42:10.970,Female,57:02.2,White,Married,Unknown,12.55
-1C92CE0F-1A74-42A7-A5DF-BD56DA55D7D5,2,04:00.5,46:20.2,1.0,METABOLIC: TOTAL PROTEIN,9.7,gm/dL,1973-12-26 04:42:10.970,Female,57:02.2,White,Married,Unknown,12.55
-1C92CE0F-1A74-42A7-A5DF-BD56DA55D7D5,3,10:20.1,20:11.0,1.0,METABOLIC: TOTAL PROTEIN,9.7,gm/dL,1973-12-26 04:42:10.970,Female,57:02.2,White,Married,Unknown,12.55

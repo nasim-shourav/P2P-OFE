@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-7D1BA157-2389-4732-8CF2-7F9975195B39,1,12:37.1,44:48.8,1.0,CBC: MCH,38.7,pg,2002-02-05 14:16:04.003,Female,23:13.6,White,Married,English,15.09
-7D1BA157-2389-4732-8CF2-7F9975195B39,2,12:23.1,41:07.2,1.0,CBC: MCH,38.7,pg,2002-02-05 14:16:04.003,Female,23:13.6,White,Married,English,15.09

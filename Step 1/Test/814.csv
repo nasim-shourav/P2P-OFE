@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-D3CD2EC4-31B3-4860-A956-AF606CDCDA10,1,53:01.6,43:40.4,1.0,METABOLIC: ANION GAP,7.3,mmol/L,1981-05-27 17:27:45.403,Male,05:50.3,Asian,Married,English,14.32
-D3CD2EC4-31B3-4860-A956-AF606CDCDA10,2,41:18.0,39:20.6,1.0,METABOLIC: ANION GAP,7.3,mmol/L,1981-05-27 17:27:45.403,Male,05:50.3,Asian,Married,English,14.32
-D3CD2EC4-31B3-4860-A956-AF606CDCDA10,3,08:43.9,10:42.4,1.0,METABOLIC: ANION GAP,7.3,mmol/L,1981-05-27 17:27:45.403,Male,05:50.3,Asian,Married,English,14.32
-D3CD2EC4-31B3-4860-A956-AF606CDCDA10,4,05:10.9,03:26.2,1.0,METABOLIC: ANION GAP,7.3,mmol/L,1981-05-27 17:27:45.403,Male,05:50.3,Asian,Married,English,14.32

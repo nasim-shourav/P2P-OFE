@@ -1,5 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-FEEC45CB-8575-476B-96E5-D1E2389A0A55,1,19:52.9,48:23.5,1.0,CBC: MCH,38.2,pg,1988-05-12 02:10:30.907,Male,35:13.6,White,Single,Unknown,17.28
-FEEC45CB-8575-476B-96E5-D1E2389A0A55,2,10:43.8,27:26.2,1.0,CBC: MCH,38.2,pg,1988-05-12 02:10:30.907,Male,35:13.6,White,Single,Unknown,17.28
-FEEC45CB-8575-476B-96E5-D1E2389A0A55,3,07:03.6,49:39.3,1.0,CBC: MCH,38.2,pg,1988-05-12 02:10:30.907,Male,35:13.6,White,Single,Unknown,17.28
-FEEC45CB-8575-476B-96E5-D1E2389A0A55,4,18:40.8,02:31.2,1.0,CBC: MCH,38.2,pg,1988-05-12 02:10:30.907,Male,35:13.6,White,Single,Unknown,17.28

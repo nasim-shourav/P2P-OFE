@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-42F161E5-C858-4C97-AD86-8DA66B713A89,1,21:46.2,23:15.7,1.0,URINALYSIS: RED BLOOD CELLS,2.6,rbc/hpf,2000-10-25 01:07:15.950,Female,42:17.1,Asian,Married,Icelandic,13.93
-42F161E5-C858-4C97-AD86-8DA66B713A89,2,09:01.4,55:40.5,1.0,URINALYSIS: RED BLOOD CELLS,2.6,rbc/hpf,2000-10-25 01:07:15.950,Female,42:17.1,Asian,Married,Icelandic,13.93
-42F161E5-C858-4C97-AD86-8DA66B713A89,3,27:04.1,14:23.0,1.0,URINALYSIS: RED BLOOD CELLS,2.6,rbc/hpf,2000-10-25 01:07:15.950,Female,42:17.1,Asian,Married,Icelandic,13.93

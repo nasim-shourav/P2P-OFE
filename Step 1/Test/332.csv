@@ -1,3 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-532ACA7F-DC27-48E3-992D-ED0CE123B377,1,38:25.8,44:38.8,1.0,METABOLIC: ALBUMIN,4.4,gm/dL,2003-08-11 16:21:04.823,Female,21:55.9,African American,Unknown,English,10.1
-532ACA7F-DC27-48E3-992D-ED0CE123B377,2,44:03.0,53:52.9,1.0,METABOLIC: ALBUMIN,4.4,gm/dL,2003-08-11 16:21:04.823,Female,21:55.9,African American,Unknown,English,10.1

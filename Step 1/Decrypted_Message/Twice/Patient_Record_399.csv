@@ -1,4 +1,0 @@
-PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
-63FD03DA-9472-44C0-9B0C-D685CD32A566,1,52:28.0,06:19.6,1.0,METABOLIC: BILI TOTAL,0.3,mg/dL,2000-11-05 23:28:32.423,Male,02:18.3,Asian,Married,English,2.66
-63FD03DA-9472-44C0-9B0C-D685CD32A566,2,26:12.5,05:29.3,1.0,METABOLIC: BILI TOTAL,0.3,mg/dL,2000-11-05 23:28:32.423,Male,02:18.3,Asian,Married,English,2.66
-63FD03DA-9472-44C0-9B0C-D685CD32A566,3,35:48.8,38:55.6,1.0,METABOLIC: BILI TOTAL,0.3,mg/dL,2000-11-05 23:28:32.423,Male,02:18.3,Asian,Married,English,2.66
