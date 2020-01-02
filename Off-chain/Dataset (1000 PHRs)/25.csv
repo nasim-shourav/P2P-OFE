@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+05520FA9-D967-4937-A22A-6B359762F4C7,1,57:15.6,55:31.1,1.0,CBC: WHITE BLOOD CELL COUNT,7.7,k/cumm,1979-04-27 23:38:53.710,Male,41:05.5,African American,Single,English,19.01
+05520FA9-D967-4937-A22A-6B359762F4C7,2,06:25.4,14:58.4,1.0,CBC: WHITE BLOOD CELL COUNT,7.7,k/cumm,1979-04-27 23:38:53.710,Male,41:05.5,African American,Single,English,19.01
+05520FA9-D967-4937-A22A-6B359762F4C7,3,54:48.1,45:20.3,1.0,CBC: WHITE BLOOD CELL COUNT,7.7,k/cumm,1979-04-27 23:38:53.710,Male,41:05.5,African American,Single,English,19.01
+05520FA9-D967-4937-A22A-6B359762F4C7,4,48:41.6,21:55.5,1.0,CBC: WHITE BLOOD CELL COUNT,7.7,k/cumm,1979-04-27 23:38:53.710,Male,41:05.5,African American,Single,English,19.01
+05520FA9-D967-4937-A22A-6B359762F4C7,5,13:16.5,52:20.3,1.0,CBC: WHITE BLOOD CELL COUNT,7.7,k/cumm,1979-04-27 23:38:53.710,Male,41:05.5,African American,Single,English,19.01

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+359CA1C6-A932-479B-A196-B4C6FEB2C483,1,16:36.6,02:24.5,1.0,METABOLIC: CHLORIDE,104.2,mmol/L,1979-12-26 11:57:13.403,Female,14:08.6,White,Married,Icelandic,4.16
+359CA1C6-A932-479B-A196-B4C6FEB2C483,2,58:30.1,34:13.7,1.0,METABOLIC: CHLORIDE,104.2,mmol/L,1979-12-26 11:57:13.403,Female,14:08.6,White,Married,Icelandic,4.16
+359CA1C6-A932-479B-A196-B4C6FEB2C483,3,19:48.7,23:50.3,1.0,METABOLIC: CHLORIDE,104.2,mmol/L,1979-12-26 11:57:13.403,Female,14:08.6,White,Married,Icelandic,4.16

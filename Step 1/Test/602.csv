@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+9D6CF91D-D0CE-458E-9CE9-666F56C8D25A,1,47:21.0,11:10.8,1.0,METABOLIC: CARBON DIOXIDE,18.2,mmol/L,1984-03-27 06:04:01.977,Female,31:17.8,White,Unknown,Spanish,13.13
+9D6CF91D-D0CE-458E-9CE9-666F56C8D25A,2,53:04.7,04:45.1,1.0,METABOLIC: CARBON DIOXIDE,18.2,mmol/L,1984-03-27 06:04:01.977,Female,31:17.8,White,Unknown,Spanish,13.13
+9D6CF91D-D0CE-458E-9CE9-666F56C8D25A,3,04:10.3,19:57.9,1.0,METABOLIC: CARBON DIOXIDE,18.2,mmol/L,1984-03-27 06:04:01.977,Female,31:17.8,White,Unknown,Spanish,13.13
+9D6CF91D-D0CE-458E-9CE9-666F56C8D25A,4,15:15.6,11:06.2,1.0,METABOLIC: CARBON DIOXIDE,18.2,mmol/L,1984-03-27 06:04:01.977,Female,31:17.8,White,Unknown,Spanish,13.13

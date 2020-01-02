@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+51CB8FBB-53A6-4799-A0EB-989FD5518AB7,1,29:45.2,29:22.6,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1964-12-28 17:29:09.303,Female,16:32.1,Unknown,Unknown,Icelandic,18.43
+51CB8FBB-53A6-4799-A0EB-989FD5518AB7,2,23:19.8,53:42.2,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1964-12-28 17:29:09.303,Female,16:32.1,Unknown,Unknown,Icelandic,18.43
+51CB8FBB-53A6-4799-A0EB-989FD5518AB7,3,04:25.2,53:26.1,1.0,URINALYSIS: WHITE BLOOD CELLS,5.0,wbc/hpf,1964-12-28 17:29:09.303,Female,16:32.1,Unknown,Unknown,Icelandic,18.43

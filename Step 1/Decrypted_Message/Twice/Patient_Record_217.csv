@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3587C3AE-57DD-493B-9C81-57970EDDA406,1,55:58.2,42:05.5,1.0,METABOLIC: GLUCOSE,88.0,mg/dL,1981-04-21 10:09:54.623,Male,57:08.5,Asian,Single,Icelandic,14.48
+3587C3AE-57DD-493B-9C81-57970EDDA406,2,03:12.4,16:11.5,1.0,METABOLIC: GLUCOSE,88.0,mg/dL,1981-04-21 10:09:54.623,Male,57:08.5,Asian,Single,Icelandic,14.48
+3587C3AE-57DD-493B-9C81-57970EDDA406,3,59:03.2,46:58.2,1.0,METABOLIC: GLUCOSE,88.0,mg/dL,1981-04-21 10:09:54.623,Male,57:08.5,Asian,Single,Icelandic,14.48

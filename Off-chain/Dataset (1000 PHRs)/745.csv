@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C66E56F2-2E9F-46C6-A111-6BF2C5E5B160,1,21:46.4,20:59.9,1.0,CBC: HEMATOCRIT,36.3,%,1963-12-25 09:39:50.357,Male,37:30.3,White,Single,Icelandic,88.13
+C66E56F2-2E9F-46C6-A111-6BF2C5E5B160,2,57:27.8,06:30.6,1.0,CBC: HEMATOCRIT,36.3,%,1963-12-25 09:39:50.357,Male,37:30.3,White,Single,Icelandic,88.13

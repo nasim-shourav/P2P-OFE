@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B25E3BCD-886A-44B7-B3CF-197BBF25CDC5,1,41:09.5,27:34.3,1.0,URINALYSIS: PH,7.1,no unit,1950-12-01 00:14:45.420,Male,49:33.5,White,Married,Icelandic,11.47
+B25E3BCD-886A-44B7-B3CF-197BBF25CDC5,2,34:30.2,35:19.0,1.0,URINALYSIS: PH,7.1,no unit,1950-12-01 00:14:45.420,Male,49:33.5,White,Married,Icelandic,11.47
+B25E3BCD-886A-44B7-B3CF-197BBF25CDC5,3,40:17.9,29:19.5,1.0,URINALYSIS: PH,7.1,no unit,1950-12-01 00:14:45.420,Male,49:33.5,White,Married,Icelandic,11.47
+B25E3BCD-886A-44B7-B3CF-197BBF25CDC5,4,00:52.5,46:59.0,1.0,URINALYSIS: PH,7.1,no unit,1950-12-01 00:14:45.420,Male,49:33.5,White,Married,Icelandic,11.47

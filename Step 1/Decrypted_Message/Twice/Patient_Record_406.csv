@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+65AAF91F-998F-458B-B33D-5F0D1CA1D895,1,20:17.6,23:32.9,1.0,CBC: WHITE BLOOD CELL COUNT,6.8,k/cumm,1991-08-15 20:21:57.963,Female,40:02.1,Unknown,Single,English,13.06
+65AAF91F-998F-458B-B33D-5F0D1CA1D895,2,26:40.9,32:24.6,1.0,CBC: WHITE BLOOD CELL COUNT,6.8,k/cumm,1991-08-15 20:21:57.963,Female,40:02.1,Unknown,Single,English,13.06
+65AAF91F-998F-458B-B33D-5F0D1CA1D895,3,19:59.4,14:18.9,1.0,CBC: WHITE BLOOD CELL COUNT,6.8,k/cumm,1991-08-15 20:21:57.963,Female,40:02.1,Unknown,Single,English,13.06
+65AAF91F-998F-458B-B33D-5F0D1CA1D895,4,25:46.7,51:22.9,1.0,CBC: WHITE BLOOD CELL COUNT,6.8,k/cumm,1991-08-15 20:21:57.963,Female,40:02.1,Unknown,Single,English,13.06
+65AAF91F-998F-458B-B33D-5F0D1CA1D895,5,29:44.2,55:26.9,1.0,CBC: WHITE BLOOD CELL COUNT,6.8,k/cumm,1991-08-15 20:21:57.963,Female,40:02.1,Unknown,Single,English,13.06

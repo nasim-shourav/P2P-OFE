@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4C5AC3B9-554C-45CA-8C61-5D8388951091,1,20:50.2,49:47.0,1.0,METABOLIC: CREATININE,0.6,mg/dL,2013-09-26 09:23:23.263,Male,58:25.8,African American,Married,English,10.72

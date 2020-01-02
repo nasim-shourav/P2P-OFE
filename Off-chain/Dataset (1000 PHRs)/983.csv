@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+FC35CC6D-DDF4-42F2-8460-5B7C9AD909F9,1,42:29.8,32:52.3,1.0,CBC: MCHC,35.3,g/dl,1952-10-11 00:06:08.703,Female,47:20.3,Asian,Married,Spanish,10.58
+FC35CC6D-DDF4-42F2-8460-5B7C9AD909F9,2,45:25.4,36:51.2,1.0,CBC: MCHC,35.3,g/dl,1952-10-11 00:06:08.703,Female,47:20.3,Asian,Married,Spanish,10.58
+FC35CC6D-DDF4-42F2-8460-5B7C9AD909F9,3,17:27.3,45:55.1,1.0,CBC: MCHC,35.3,g/dl,1952-10-11 00:06:08.703,Female,47:20.3,Asian,Married,Spanish,10.58

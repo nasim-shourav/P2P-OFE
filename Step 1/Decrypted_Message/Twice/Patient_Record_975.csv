@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+FA64E3F8-2E07-4DE3-A294-D50B975E08E6,1,10:27.8,23:38.1,1.0,METABOLIC: BUN,21.2,mg/dL,2000-12-17 12:14:22.823,Female,16:29.9,White,Single,English,10.79
+FA64E3F8-2E07-4DE3-A294-D50B975E08E6,2,39:42.4,53:35.2,1.0,METABOLIC: BUN,21.2,mg/dL,2000-12-17 12:14:22.823,Female,16:29.9,White,Single,English,10.79
+FA64E3F8-2E07-4DE3-A294-D50B975E08E6,3,12:34.8,40:13.5,1.0,METABOLIC: BUN,21.2,mg/dL,2000-12-17 12:14:22.823,Female,16:29.9,White,Single,English,10.79

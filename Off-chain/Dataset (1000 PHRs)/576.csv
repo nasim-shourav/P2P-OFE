@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+978F2CA3-C927-4F53-9A1F-03CBC1480C77,1,54:01.3,18:48.8,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1996-05-01 16:10:44.893,Female,29:35.3,Unknown,Unknown,English,5.37
+978F2CA3-C927-4F53-9A1F-03CBC1480C77,2,13:01.5,46:43.9,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1996-05-01 16:10:44.893,Female,29:35.3,Unknown,Unknown,English,5.37
+978F2CA3-C927-4F53-9A1F-03CBC1480C77,3,04:51.7,01:29.7,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1996-05-01 16:10:44.893,Female,29:35.3,Unknown,Unknown,English,5.37
+978F2CA3-C927-4F53-9A1F-03CBC1480C77,4,09:34.3,52:32.8,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,1996-05-01 16:10:44.893,Female,29:35.3,Unknown,Unknown,English,5.37

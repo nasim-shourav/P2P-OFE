@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+05C8FADC-836A-4268-973B-E94D2C97A808,1,40:09.0,24:27.7,1.0,CBC: ABSOLUTE LYMPHOCYTES,31.5,%,1990-04-06 11:55:03.717,Male,20:51.9,Asian,Widowed,Spanish,12.12
+05C8FADC-836A-4268-973B-E94D2C97A808,2,04:48.3,14:27.6,1.0,CBC: ABSOLUTE LYMPHOCYTES,31.5,%,1990-04-06 11:55:03.717,Male,20:51.9,Asian,Widowed,Spanish,12.12
+05C8FADC-836A-4268-973B-E94D2C97A808,3,27:13.4,37:33.7,1.0,CBC: ABSOLUTE LYMPHOCYTES,31.5,%,1990-04-06 11:55:03.717,Male,20:51.9,Asian,Widowed,Spanish,12.12

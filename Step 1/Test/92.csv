@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+183374CF-D01C-467E-83BF-B471771FA1F1,1,18:09.2,39:04.5,1.0,URINALYSIS: WHITE BLOOD CELLS,5.5,wbc/hpf,1965-11-07 11:46:59.887,Male,57:14.7,White,Unknown,English,10.54
+183374CF-D01C-467E-83BF-B471771FA1F1,2,19:35.6,18:14.1,1.0,URINALYSIS: WHITE BLOOD CELLS,5.5,wbc/hpf,1965-11-07 11:46:59.887,Male,57:14.7,White,Unknown,English,10.54
+183374CF-D01C-467E-83BF-B471771FA1F1,3,43:33.1,52:35.7,1.0,URINALYSIS: WHITE BLOOD CELLS,5.5,wbc/hpf,1965-11-07 11:46:59.887,Male,57:14.7,White,Unknown,English,10.54
+183374CF-D01C-467E-83BF-B471771FA1F1,4,02:30.1,13:47.0,1.0,URINALYSIS: WHITE BLOOD CELLS,5.5,wbc/hpf,1965-11-07 11:46:59.887,Male,57:14.7,White,Unknown,English,10.54

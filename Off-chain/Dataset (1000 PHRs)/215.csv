@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3525460D-43FD-461B-8F77-8167B9B58818,1,53:39.8,51:37.5,1.0,CBC: RED BLOOD CELL COUNT,3.7,m/cumm,1952-04-25 18:04:50.637,Female,09:51.4,White,Separated,Spanish,17.45
+3525460D-43FD-461B-8F77-8167B9B58818,2,55:13.2,33:25.5,1.0,CBC: RED BLOOD CELL COUNT,3.7,m/cumm,1952-04-25 18:04:50.637,Female,09:51.4,White,Separated,Spanish,17.45
+3525460D-43FD-461B-8F77-8167B9B58818,3,02:03.8,22:36.1,1.0,CBC: RED BLOOD CELL COUNT,3.7,m/cumm,1952-04-25 18:04:50.637,Female,09:51.4,White,Separated,Spanish,17.45
+3525460D-43FD-461B-8F77-8167B9B58818,4,02:03.1,36:23.7,1.0,CBC: RED BLOOD CELL COUNT,3.7,m/cumm,1952-04-25 18:04:50.637,Female,09:51.4,White,Separated,Spanish,17.45

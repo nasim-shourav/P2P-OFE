@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+960819F6-D412-46A7-87E5-424C55776927,1,22:28.1,28:43.0,1.0,METABOLIC: CALCIUM,8.7,mg/dL,1990-07-14 11:59:48.370,Male,44:53.8,African American,Single,Spanish,15.88
+960819F6-D412-46A7-87E5-424C55776927,2,42:15.3,42:46.6,1.0,METABOLIC: CALCIUM,8.7,mg/dL,1990-07-14 11:59:48.370,Male,44:53.8,African American,Single,Spanish,15.88
+960819F6-D412-46A7-87E5-424C55776927,3,57:47.4,01:01.0,1.0,METABOLIC: CALCIUM,8.7,mg/dL,1990-07-14 11:59:48.370,Male,44:53.8,African American,Single,Spanish,15.88

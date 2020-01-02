@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1CB2C3C1-AE45-433F-B210-5E7CC5134925,1,23:40.9,09:21.0,1.0,CBC: RDW,15.5,%,1976-12-07 03:15:16.247,Male,24:20.1,African American,Married,Spanish,18.71
+1CB2C3C1-AE45-433F-B210-5E7CC5134925,2,25:11.5,54:17.1,1.0,CBC: RDW,15.5,%,1976-12-07 03:15:16.247,Male,24:20.1,African American,Married,Spanish,18.71
+1CB2C3C1-AE45-433F-B210-5E7CC5134925,3,45:13.5,50:12.7,1.0,CBC: RDW,15.5,%,1976-12-07 03:15:16.247,Male,24:20.1,African American,Married,Spanish,18.71
+1CB2C3C1-AE45-433F-B210-5E7CC5134925,4,50:26.0,52:21.8,1.0,CBC: RDW,15.5,%,1976-12-07 03:15:16.247,Male,24:20.1,African American,Married,Spanish,18.71

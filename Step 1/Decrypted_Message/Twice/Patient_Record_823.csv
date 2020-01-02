@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D56A5F14-E1A5-4091-9FBF-C3C841600FA9,1,13:39.6,23:26.2,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1970-04-02 22:50:00.593,Female,48:16.5,White,Married,English,16.54
+D56A5F14-E1A5-4091-9FBF-C3C841600FA9,2,53:44.6,42:41.2,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1970-04-02 22:50:00.593,Female,48:16.5,White,Married,English,16.54
+D56A5F14-E1A5-4091-9FBF-C3C841600FA9,3,13:42.5,07:03.1,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1970-04-02 22:50:00.593,Female,48:16.5,White,Married,English,16.54

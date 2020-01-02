@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+2B60C1BD-68FC-4519-99C4-61DE77C5B36E,1,05:12.3,04:00.5,1.0,METABOLIC: BUN,15.9,mg/dL,1962-04-28 20:59:34.467,Female,46:38.9,African American,Single,Icelandic,2.67
+2B60C1BD-68FC-4519-99C4-61DE77C5B36E,2,07:28.6,23:30.1,1.0,METABOLIC: BUN,15.9,mg/dL,1962-04-28 20:59:34.467,Female,46:38.9,African American,Single,Icelandic,2.67
+2B60C1BD-68FC-4519-99C4-61DE77C5B36E,3,10:51.0,40:17.5,1.0,METABOLIC: BUN,15.9,mg/dL,1962-04-28 20:59:34.467,Female,46:38.9,African American,Single,Icelandic,2.67
+2B60C1BD-68FC-4519-99C4-61DE77C5B36E,4,53:18.0,06:46.9,1.0,METABOLIC: BUN,15.9,mg/dL,1962-04-28 20:59:34.467,Female,46:38.9,African American,Single,Icelandic,2.67

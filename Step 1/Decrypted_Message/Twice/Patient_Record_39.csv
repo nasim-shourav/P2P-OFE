@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+09132984-A900-44A1-85B9-B217E687F0A9,1,57:15.3,53:28.8,1.0,METABOLIC: CHLORIDE,106.1,mmol/L,1948-05-31 08:39:20.500,Female,51:32.6,White,Married,English,16.57
+09132984-A900-44A1-85B9-B217E687F0A9,2,32:18.4,22:36.2,1.0,METABOLIC: CHLORIDE,106.1,mmol/L,1948-05-31 08:39:20.500,Female,51:32.6,White,Married,English,16.57

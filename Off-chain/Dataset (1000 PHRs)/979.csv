@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+FB56A8E8-BD92-4FE3-843D-613F35C1928C,1,28:29.7,36:33.2,1.0,CBC: HEMOGLOBIN,15.6,gm/dl,1977-06-28 10:38:26.710,Female,30:30.1,White,Single,Icelandic,13.35
+FB56A8E8-BD92-4FE3-843D-613F35C1928C,2,53:31.0,54:49.6,1.0,CBC: HEMOGLOBIN,15.6,gm/dl,1977-06-28 10:38:26.710,Female,30:30.1,White,Single,Icelandic,13.35
+FB56A8E8-BD92-4FE3-843D-613F35C1928C,3,14:22.7,50:54.7,1.0,CBC: HEMOGLOBIN,15.6,gm/dl,1977-06-28 10:38:26.710,Female,30:30.1,White,Single,Icelandic,13.35

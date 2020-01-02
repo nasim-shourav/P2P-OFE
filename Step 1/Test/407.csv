@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+65B1DB1E-C250-4381-ACA4-9927B13A9B0F,1,09:47.1,00:53.1,1.0,CBC: MCHC,38.8,g/dl,1980-04-13 17:38:58.923,Male,49:58.0,White,Single,Icelandic,10.22
+65B1DB1E-C250-4381-ACA4-9927B13A9B0F,2,10:17.5,01:31.3,1.0,CBC: MCHC,38.8,g/dl,1980-04-13 17:38:58.923,Male,49:58.0,White,Single,Icelandic,10.22
+65B1DB1E-C250-4381-ACA4-9927B13A9B0F,3,11:44.7,23:12.4,1.0,CBC: MCHC,38.8,g/dl,1980-04-13 17:38:58.923,Male,49:58.0,White,Single,Icelandic,10.22

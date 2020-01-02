@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C637478A-2250-45FC-BF6A-EC92D3FDCEDF,1,40:53.6,10:47.6,1.0,METABOLIC: ALK PHOS,77.3,U/L,1974-05-06 10:24:00.680,Female,53:28.4,Asian,Separated,English,81.99
+C637478A-2250-45FC-BF6A-EC92D3FDCEDF,2,52:19.6,45:34.2,1.0,METABOLIC: ALK PHOS,77.3,U/L,1974-05-06 10:24:00.680,Female,53:28.4,Asian,Separated,English,81.99
+C637478A-2250-45FC-BF6A-EC92D3FDCEDF,3,03:10.5,52:21.4,1.0,METABOLIC: ALK PHOS,77.3,U/L,1974-05-06 10:24:00.680,Female,53:28.4,Asian,Separated,English,81.99
+C637478A-2250-45FC-BF6A-EC92D3FDCEDF,4,26:55.1,03:23.5,1.0,METABOLIC: ALK PHOS,77.3,U/L,1974-05-06 10:24:00.680,Female,53:28.4,Asian,Separated,English,81.99

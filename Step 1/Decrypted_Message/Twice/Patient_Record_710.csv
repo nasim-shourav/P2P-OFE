@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+BA1E12C2-B5CE-4634-B40A-1AC6D8FAC1C0,1,44:07.9,46:21.9,1.0,CBC: MCHC,39.7,g/dl,1979-01-07 20:37:37.953,Male,45:30.7,Asian,Unknown,English,3.17
+BA1E12C2-B5CE-4634-B40A-1AC6D8FAC1C0,2,49:06.4,07:31.6,1.0,CBC: MCHC,39.7,g/dl,1979-01-07 20:37:37.953,Male,45:30.7,Asian,Unknown,English,3.17

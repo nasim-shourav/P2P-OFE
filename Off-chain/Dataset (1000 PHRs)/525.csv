@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+888CE4ED-A758-4E1F-96CF-3E9702911C79,1,26:56.2,17:20.7,1.0,CBC: PLATELET COUNT,304.5,k/cumm,2013-06-03 11:42:35.607,Female,56:58.6,African American,Married,English,10.4

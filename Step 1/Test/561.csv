@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+91DB1226-91CA-43ED-BF3C-731D314A5FC6,1,06:00.4,25:09.4,1.0,METABOLIC: CREATININE,1.2,mg/dL,1982-06-18 14:40:39.137,Female,05:32.3,White,Married,English,17.67
+91DB1226-91CA-43ED-BF3C-731D314A5FC6,2,01:24.8,44:11.3,1.0,METABOLIC: CREATININE,1.2,mg/dL,1982-06-18 14:40:39.137,Female,05:32.3,White,Married,English,17.67
+91DB1226-91CA-43ED-BF3C-731D314A5FC6,3,46:50.2,18:35.8,1.0,METABOLIC: CREATININE,1.2,mg/dL,1982-06-18 14:40:39.137,Female,05:32.3,White,Married,English,17.67

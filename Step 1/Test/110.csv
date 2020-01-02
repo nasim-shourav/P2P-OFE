@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1CD60FDE-BAC8-4F8A-A193-7B097E222B5B,1,23:54.8,12:33.9,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2004-08-21 07:18:00.603,Female,51:54.4,White,Divorced,Icelandic,10.59
+1CD60FDE-BAC8-4F8A-A193-7B097E222B5B,2,11:25.2,05:19.6,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2004-08-21 07:18:00.603,Female,51:54.4,White,Divorced,Icelandic,10.59

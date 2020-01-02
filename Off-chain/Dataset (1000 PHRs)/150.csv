@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+25D320CD-835A-4485-B37B-3AECE5E66B5F,1,45:49.9,14:38.4,1.0,METABOLIC: GLUCOSE,88.8,mg/dL,1983-07-02 11:43:09.433,Female,24:09.9,Asian,Married,Icelandic,11.85
+25D320CD-835A-4485-B37B-3AECE5E66B5F,2,20:57.1,42:59.4,1.0,METABOLIC: GLUCOSE,88.8,mg/dL,1983-07-02 11:43:09.433,Female,24:09.9,Asian,Married,Icelandic,11.85
+25D320CD-835A-4485-B37B-3AECE5E66B5F,3,57:58.5,38:40.8,1.0,METABOLIC: GLUCOSE,88.8,mg/dL,1983-07-02 11:43:09.433,Female,24:09.9,Asian,Married,Icelandic,11.85
+25D320CD-835A-4485-B37B-3AECE5E66B5F,4,54:18.7,44:40.0,1.0,METABOLIC: GLUCOSE,88.8,mg/dL,1983-07-02 11:43:09.433,Female,24:09.9,Asian,Married,Icelandic,11.85
+25D320CD-835A-4485-B37B-3AECE5E66B5F,5,15:19.2,45:19.6,1.0,METABOLIC: GLUCOSE,88.8,mg/dL,1983-07-02 11:43:09.433,Female,24:09.9,Asian,Married,Icelandic,11.85

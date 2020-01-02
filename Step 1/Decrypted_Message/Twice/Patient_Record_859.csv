@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+DF9C5174-A600-4385-B67B-F61CA5407B0E,1,27:00.5,00:22.4,1.0,CBC: ABSOLUTE LYMPHOCYTES,29.2,%,2003-10-05 23:09:36.483,Female,59:01.0,Unknown,Married,English,16.29
+DF9C5174-A600-4385-B67B-F61CA5407B0E,2,50:45.9,31:38.8,1.0,CBC: ABSOLUTE LYMPHOCYTES,29.2,%,2003-10-05 23:09:36.483,Female,59:01.0,Unknown,Married,English,16.29
+DF9C5174-A600-4385-B67B-F61CA5407B0E,3,58:09.8,13:08.3,1.0,CBC: ABSOLUTE LYMPHOCYTES,29.2,%,2003-10-05 23:09:36.483,Female,59:01.0,Unknown,Married,English,16.29

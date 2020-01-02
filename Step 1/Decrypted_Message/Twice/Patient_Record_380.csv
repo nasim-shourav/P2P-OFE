@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+60661EC2-C86D-4926-9522-2A657AA8C0AA,1,31:34.2,15:02.6,1.0,METABOLIC: BUN,24.0,mg/dL,1970-12-27 06:36:13.723,Male,46:24.1,African American,Unknown,English,11.19
+60661EC2-C86D-4926-9522-2A657AA8C0AA,2,40:52.5,07:43.5,1.0,METABOLIC: BUN,24.0,mg/dL,1970-12-27 06:36:13.723,Male,46:24.1,African American,Unknown,English,11.19
+60661EC2-C86D-4926-9522-2A657AA8C0AA,3,56:08.1,15:36.3,1.0,METABOLIC: BUN,24.0,mg/dL,1970-12-27 06:36:13.723,Male,46:24.1,African American,Unknown,English,11.19

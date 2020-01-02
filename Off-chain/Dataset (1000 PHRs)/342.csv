@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+55F13C70-4EC1-4135-8752-B0D1FBF68DC5,1,39:11.7,12:29.5,1.0,URINALYSIS: PH,6.4,no unit,2003-03-20 04:18:32.853,Male,57:12.0,African American,Single,Icelandic,87.41
+55F13C70-4EC1-4135-8752-B0D1FBF68DC5,2,57:42.8,57:39.6,1.0,URINALYSIS: PH,6.4,no unit,2003-03-20 04:18:32.853,Male,57:12.0,African American,Single,Icelandic,87.41
+55F13C70-4EC1-4135-8752-B0D1FBF68DC5,3,23:45.0,23:25.8,1.0,URINALYSIS: PH,6.4,no unit,2003-03-20 04:18:32.853,Male,57:12.0,African American,Single,Icelandic,87.41

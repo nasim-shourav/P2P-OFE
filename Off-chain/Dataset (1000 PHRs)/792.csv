@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CF48B72D-CE7A-430B-8FCD-E1E1C746A83F,1,54:31.0,29:52.9,1.0,CBC: LYMPHOCYTES,3.4,k/cumm,1943-02-28 14:07:36.810,Male,05:33.9,African American,Divorced,English,1.68
+CF48B72D-CE7A-430B-8FCD-E1E1C746A83F,2,28:53.4,21:39.2,1.0,CBC: LYMPHOCYTES,3.4,k/cumm,1943-02-28 14:07:36.810,Male,05:33.9,African American,Divorced,English,1.68
+CF48B72D-CE7A-430B-8FCD-E1E1C746A83F,3,42:55.4,07:36.2,1.0,CBC: LYMPHOCYTES,3.4,k/cumm,1943-02-28 14:07:36.810,Male,05:33.9,African American,Divorced,English,1.68
+CF48B72D-CE7A-430B-8FCD-E1E1C746A83F,4,55:59.8,35:28.5,1.0,CBC: LYMPHOCYTES,3.4,k/cumm,1943-02-28 14:07:36.810,Male,05:33.9,African American,Divorced,English,1.68

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+F3913138-48B7-46E3-9C15-7AD47474B1D0,1,10:28.6,11:26.7,1.0,CBC: RDW,13.0,%,1950-01-25 23:18:42.057,Female,22:34.7,African American,Married,English,12.18
+F3913138-48B7-46E3-9C15-7AD47474B1D0,2,53:00.8,34:24.0,1.0,CBC: RDW,13.0,%,1950-01-25 23:18:42.057,Female,22:34.7,African American,Married,English,12.18
+F3913138-48B7-46E3-9C15-7AD47474B1D0,3,19:42.2,04:48.3,1.0,CBC: RDW,13.0,%,1950-01-25 23:18:42.057,Female,22:34.7,African American,Married,English,12.18
+F3913138-48B7-46E3-9C15-7AD47474B1D0,4,11:40.7,44:37.6,1.0,CBC: RDW,13.0,%,1950-01-25 23:18:42.057,Female,22:34.7,African American,Married,English,12.18

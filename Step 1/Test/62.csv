@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1008A59E-418B-4A7D-AE24-F97A9321CF7D,1,47:42.3,25:56.2,1.0,CBC: LYMPHOCYTES,2.3,k/cumm,1995-12-18 00:37:34.207,Male,05:48.0,African American,Single,English,11.11
+1008A59E-418B-4A7D-AE24-F97A9321CF7D,2,15:26.8,17:50.5,1.0,CBC: LYMPHOCYTES,2.3,k/cumm,1995-12-18 00:37:34.207,Male,05:48.0,African American,Single,English,11.11
+1008A59E-418B-4A7D-AE24-F97A9321CF7D,3,49:04.8,15:50.2,1.0,CBC: LYMPHOCYTES,2.3,k/cumm,1995-12-18 00:37:34.207,Male,05:48.0,African American,Single,English,11.11
+1008A59E-418B-4A7D-AE24-F97A9321CF7D,4,30:47.4,57:10.7,1.0,CBC: LYMPHOCYTES,2.3,k/cumm,1995-12-18 00:37:34.207,Male,05:48.0,African American,Single,English,11.11
+1008A59E-418B-4A7D-AE24-F97A9321CF7D,5,52:19.3,18:24.0,1.0,CBC: LYMPHOCYTES,2.3,k/cumm,1995-12-18 00:37:34.207,Male,05:48.0,African American,Single,English,11.11

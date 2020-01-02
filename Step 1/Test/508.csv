@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8403E6D4-5DB0-447C-BBC9-77CC202E7BC4,1,12:26.5,10:54.1,1.0,CBC: PLATELET COUNT,396.9,k/cumm,2002-09-22 06:11:28.563,Male,52:29.0,African American,Unknown,Spanish,19.06
+8403E6D4-5DB0-447C-BBC9-77CC202E7BC4,2,25:35.4,53:53.4,1.0,CBC: PLATELET COUNT,396.9,k/cumm,2002-09-22 06:11:28.563,Male,52:29.0,African American,Unknown,Spanish,19.06

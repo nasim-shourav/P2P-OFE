@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6C33DB01-DFAC-41E1-A1CE-30E40416340B,1,37:36.4,17:09.5,1.0,METABOLIC: ANION GAP,9.0,mmol/L,1997-10-04 23:58:27.140,Male,08:08.6,Unknown,Married,English,17.27
+6C33DB01-DFAC-41E1-A1CE-30E40416340B,2,32:04.6,02:00.4,1.0,METABOLIC: ANION GAP,9.0,mmol/L,1997-10-04 23:58:27.140,Male,08:08.6,Unknown,Married,English,17.27
+6C33DB01-DFAC-41E1-A1CE-30E40416340B,3,15:04.3,31:48.4,1.0,METABOLIC: ANION GAP,9.0,mmol/L,1997-10-04 23:58:27.140,Male,08:08.6,Unknown,Married,English,17.27

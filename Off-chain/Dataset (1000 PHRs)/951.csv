@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+F417EEE7-CB5A-4218-AF67-367FB6503AC4,1,24:45.0,56:27.3,1.0,METABOLIC: CALCIUM,8.1,mg/dL,1977-01-26 19:04:01.900,Male,00:11.1,African American,Divorced,Spanish,17.67
+F417EEE7-CB5A-4218-AF67-367FB6503AC4,2,46:16.3,29:23.8,1.0,METABOLIC: CALCIUM,8.1,mg/dL,1977-01-26 19:04:01.900,Male,00:11.1,African American,Divorced,Spanish,17.67
+F417EEE7-CB5A-4218-AF67-367FB6503AC4,3,10:55.9,22:39.0,1.0,METABOLIC: CALCIUM,8.1,mg/dL,1977-01-26 19:04:01.900,Male,00:11.1,African American,Divorced,Spanish,17.67
+F417EEE7-CB5A-4218-AF67-367FB6503AC4,4,46:05.2,12:00.0,1.0,METABOLIC: CALCIUM,8.1,mg/dL,1977-01-26 19:04:01.900,Male,00:11.1,African American,Divorced,Spanish,17.67
+F417EEE7-CB5A-4218-AF67-367FB6503AC4,5,55:53.8,40:32.5,1.0,METABOLIC: CALCIUM,8.1,mg/dL,1977-01-26 19:04:01.900,Male,00:11.1,African American,Divorced,Spanish,17.67

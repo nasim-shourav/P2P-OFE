@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+7084F29E-F3A2-40B6-A136-D9F999C80EB5,1,24:07.8,08:56.0,1.0,CBC: HEMATOCRIT,51.4,%,1984-08-16 03:05:53.567,Male,02:15.8,Unknown,Single,English,16.62
+7084F29E-F3A2-40B6-A136-D9F999C80EB5,2,29:01.4,36:52.0,1.0,CBC: HEMATOCRIT,51.4,%,1984-08-16 03:05:53.567,Male,02:15.8,Unknown,Single,English,16.62
+7084F29E-F3A2-40B6-A136-D9F999C80EB5,3,15:15.0,01:42.9,1.0,CBC: HEMATOCRIT,51.4,%,1984-08-16 03:05:53.567,Male,02:15.8,Unknown,Single,English,16.62
+7084F29E-F3A2-40B6-A136-D9F999C80EB5,4,40:26.4,44:48.3,1.0,CBC: HEMATOCRIT,51.4,%,1984-08-16 03:05:53.567,Male,02:15.8,Unknown,Single,English,16.62

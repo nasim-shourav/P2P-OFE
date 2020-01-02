@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+50C7085C-2EA8-4A48-A4E6-136FCC449ABE,1,58:39.8,59:08.5,1.0,METABOLIC: ALT/SGPT,39.4,U/L,1977-01-13 14:59:41.887,Male,05:58.4,African American,Single,Icelandic,15.9
+50C7085C-2EA8-4A48-A4E6-136FCC449ABE,2,00:57.6,19:46.1,1.0,METABOLIC: ALT/SGPT,39.4,U/L,1977-01-13 14:59:41.887,Male,05:58.4,African American,Single,Icelandic,15.9
+50C7085C-2EA8-4A48-A4E6-136FCC449ABE,3,07:56.1,23:13.9,1.0,METABOLIC: ALT/SGPT,39.4,U/L,1977-01-13 14:59:41.887,Male,05:58.4,African American,Single,Icelandic,15.9
+50C7085C-2EA8-4A48-A4E6-136FCC449ABE,4,08:51.0,01:09.4,1.0,METABOLIC: ALT/SGPT,39.4,U/L,1977-01-13 14:59:41.887,Male,05:58.4,African American,Single,Icelandic,15.9

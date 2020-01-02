@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+84438AB6-2926-4125-82A3-D484C8E626EB,1,35:25.7,54:18.5,1.0,URINALYSIS: PH,5.0,no unit,1975-11-12 12:22:17.873,Female,38:52.9,African American,Single,English,4.44
+84438AB6-2926-4125-82A3-D484C8E626EB,2,33:38.1,26:59.9,1.0,URINALYSIS: PH,5.0,no unit,1975-11-12 12:22:17.873,Female,38:52.9,African American,Single,English,4.44
+84438AB6-2926-4125-82A3-D484C8E626EB,3,17:55.7,16:40.6,1.0,URINALYSIS: PH,5.0,no unit,1975-11-12 12:22:17.873,Female,38:52.9,African American,Single,English,4.44
+84438AB6-2926-4125-82A3-D484C8E626EB,4,51:15.0,24:39.2,1.0,URINALYSIS: PH,5.0,no unit,1975-11-12 12:22:17.873,Female,38:52.9,African American,Single,English,4.44

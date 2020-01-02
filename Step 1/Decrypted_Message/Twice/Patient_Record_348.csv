@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+5842A66E-19F1-49EC-B3CD-D25A1223F1BD,1,47:40.0,15:23.2,1.0,CBC: RED BLOOD CELL COUNT,6.2,m/cumm,1981-01-26 18:31:58.303,Female,35:01.2,Asian,Married,English,15.31
+5842A66E-19F1-49EC-B3CD-D25A1223F1BD,2,47:20.9,00:51.0,1.0,CBC: RED BLOOD CELL COUNT,6.2,m/cumm,1981-01-26 18:31:58.303,Female,35:01.2,Asian,Married,English,15.31
+5842A66E-19F1-49EC-B3CD-D25A1223F1BD,3,01:56.9,27:47.4,1.0,CBC: RED BLOOD CELL COUNT,6.2,m/cumm,1981-01-26 18:31:58.303,Female,35:01.2,Asian,Married,English,15.31
+5842A66E-19F1-49EC-B3CD-D25A1223F1BD,4,24:42.7,17:31.0,1.0,CBC: RED BLOOD CELL COUNT,6.2,m/cumm,1981-01-26 18:31:58.303,Female,35:01.2,Asian,Married,English,15.31

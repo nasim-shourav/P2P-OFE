@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E9B00438-6072-45A5-AEE8-800A2D27D7C3,1,54:34.4,58:39.9,1.0,METABOLIC: SODIUM,150.0,mmol/L,1990-10-06 08:08:25.443,Male,06:55.5,White,Married,Icelandic,99.39
+E9B00438-6072-45A5-AEE8-800A2D27D7C3,2,16:17.1,30:34.2,1.0,METABOLIC: SODIUM,150.0,mmol/L,1990-10-06 08:08:25.443,Male,06:55.5,White,Married,Icelandic,99.39
+E9B00438-6072-45A5-AEE8-800A2D27D7C3,3,30:40.0,00:38.5,1.0,METABOLIC: SODIUM,150.0,mmol/L,1990-10-06 08:08:25.443,Male,06:55.5,White,Married,Icelandic,99.39
+E9B00438-6072-45A5-AEE8-800A2D27D7C3,4,57:08.0,22:59.4,1.0,METABOLIC: SODIUM,150.0,mmol/L,1990-10-06 08:08:25.443,Male,06:55.5,White,Married,Icelandic,99.39

@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CDE687A6-A1A7-459E-B705-7D8F9F83DA64,1,45:40.5,06:30.5,1.0,METABOLIC: AST/SGOT,31.2,U/L,2012-07-06 15:56:42.450,Male,51:39.7,White,Married,English,17.01

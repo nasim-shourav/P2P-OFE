@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+BF264F0D-C2B9-4965-9DE9-284D5629125D,1,13:07.9,09:42.2,1.0,METABOLIC: CHLORIDE,90.1,mmol/L,1987-11-20 08:23:45.873,Female,28:40.7,White,Single,English,14.77
+BF264F0D-C2B9-4965-9DE9-284D5629125D,2,59:36.2,22:50.8,1.0,METABOLIC: CHLORIDE,90.1,mmol/L,1987-11-20 08:23:45.873,Female,28:40.7,White,Single,English,14.77
+BF264F0D-C2B9-4965-9DE9-284D5629125D,3,31:06.2,26:49.3,1.0,METABOLIC: CHLORIDE,90.1,mmol/L,1987-11-20 08:23:45.873,Female,28:40.7,White,Single,English,14.77

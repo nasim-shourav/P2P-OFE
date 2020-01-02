@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+BCE61FB8-DF79-4323-BBBA-B0AF55AF4075,1,55:20.9,54:35.4,1.0,CBC: NEUTROPHILS,4.0,k/cumm,1968-12-16 17:12:21.667,Female,40:50.1,Unknown,Single,English,13.26
+BCE61FB8-DF79-4323-BBBA-B0AF55AF4075,2,24:26.9,57:50.3,1.0,CBC: NEUTROPHILS,4.0,k/cumm,1968-12-16 17:12:21.667,Female,40:50.1,Unknown,Single,English,13.26
+BCE61FB8-DF79-4323-BBBA-B0AF55AF4075,3,04:32.9,13:31.2,1.0,CBC: NEUTROPHILS,4.0,k/cumm,1968-12-16 17:12:21.667,Female,40:50.1,Unknown,Single,English,13.26
+BCE61FB8-DF79-4323-BBBA-B0AF55AF4075,4,01:24.5,58:31.4,1.0,CBC: NEUTROPHILS,4.0,k/cumm,1968-12-16 17:12:21.667,Female,40:50.1,Unknown,Single,English,13.26

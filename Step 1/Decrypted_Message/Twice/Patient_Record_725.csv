@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+BE797473-809C-4C5A-AA28-06796934A2FA,1,57:14.8,18:06.4,1.0,METABOLIC: ALK PHOS,81.9,U/L,2015-05-13 06:53:02.167,Female,17:39.2,Asian,Single,Icelandic,12.24

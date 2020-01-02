@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3E1BED8B-5164-4284-9A09-BC2377483880,1,44:00.0,48:57.1,1.0,URINALYSIS: RED BLOOD CELLS,2.6,rbc/hpf,2013-04-20 23:46:30.330,Female,02:34.4,African American,Single,Icelandic,18.92

@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D50290DF-5306-49D6-B9E2-09F1BC5D6178,1,26:31.4,32:19.3,1.0,METABOLIC: BILI TOTAL,0.2,mg/dL,2005-09-19 03:02:20.383,Female,13:54.7,Asian,Married,Spanish,89.02
+D50290DF-5306-49D6-B9E2-09F1BC5D6178,2,22:03.2,42:55.7,1.0,METABOLIC: BILI TOTAL,0.2,mg/dL,2005-09-19 03:02:20.383,Female,13:54.7,Asian,Married,Spanish,89.02

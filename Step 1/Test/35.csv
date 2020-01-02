@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+07FA14BC-4CA4-413C-95E9-37FFABB30217,1,00:50.2,08:07.5,1.0,CBC: BASOPHILS,0.2,k/cumm,1963-04-25 02:08:16.507,Female,03:26.6,White,Separated,English,92.17
+07FA14BC-4CA4-413C-95E9-37FFABB30217,2,00:30.2,51:43.2,1.0,CBC: BASOPHILS,0.2,k/cumm,1963-04-25 02:08:16.507,Female,03:26.6,White,Separated,English,92.17
+07FA14BC-4CA4-413C-95E9-37FFABB30217,3,28:32.4,07:00.2,1.0,CBC: BASOPHILS,0.2,k/cumm,1963-04-25 02:08:16.507,Female,03:26.6,White,Separated,English,92.17

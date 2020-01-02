@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CE366C0F-0B9C-4F02-ABAD-0FD49C9DFACE,1,54:58.3,38:39.4,1.0,CBC: ABSOLUTE NEUTROPHILS,67.8,%,2004-10-07 16:17:51.133,Female,49:14.6,African American,Married,English,14.01
+CE366C0F-0B9C-4F02-ABAD-0FD49C9DFACE,2,52:07.8,08:31.2,1.0,CBC: ABSOLUTE NEUTROPHILS,67.8,%,2004-10-07 16:17:51.133,Female,49:14.6,African American,Married,English,14.01

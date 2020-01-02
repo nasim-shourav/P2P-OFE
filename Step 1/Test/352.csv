@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+58DF375B-B7B8-4DD0-A2F1-55ED9C75D41E,1,50:17.7,27:36.3,1.0,URINALYSIS: RED BLOOD CELLS,1.9,rbc/hpf,1988-04-28 04:42:39.410,Male,25:32.0,Asian,Unknown,English,9.09
+58DF375B-B7B8-4DD0-A2F1-55ED9C75D41E,2,02:34.1,50:58.8,1.0,URINALYSIS: RED BLOOD CELLS,1.9,rbc/hpf,1988-04-28 04:42:39.410,Male,25:32.0,Asian,Unknown,English,9.09
+58DF375B-B7B8-4DD0-A2F1-55ED9C75D41E,3,43:15.1,42:31.3,1.0,URINALYSIS: RED BLOOD CELLS,1.9,rbc/hpf,1988-04-28 04:42:39.410,Male,25:32.0,Asian,Unknown,English,9.09
+58DF375B-B7B8-4DD0-A2F1-55ED9C75D41E,4,36:57.0,48:25.2,1.0,URINALYSIS: RED BLOOD CELLS,1.9,rbc/hpf,1988-04-28 04:42:39.410,Male,25:32.0,Asian,Unknown,English,9.09

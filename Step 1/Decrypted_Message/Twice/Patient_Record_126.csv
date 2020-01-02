@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1F77C71D-6E41-43EC-BA0E-6EA301248FE7,1,58:54.5,17:58.3,1.0,METABOLIC: CHLORIDE,100.0,mmol/L,2011-03-01 09:02:07.540,Female,35:18.6,White,Married,Spanish,13.11

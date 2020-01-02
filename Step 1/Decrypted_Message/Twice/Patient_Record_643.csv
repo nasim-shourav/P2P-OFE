@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+A85FD673-C45A-4C4A-AA99-B8EE651A2071,1,26:01.2,05:20.7,1.0,CBC: LYMPHOCYTES,4.2,k/cumm,1949-07-28 03:33:16.877,Male,00:04.3,White,Single,Unknown,17.09
+A85FD673-C45A-4C4A-AA99-B8EE651A2071,2,16:07.6,58:11.3,1.0,CBC: LYMPHOCYTES,4.2,k/cumm,1949-07-28 03:33:16.877,Male,00:04.3,White,Single,Unknown,17.09
+A85FD673-C45A-4C4A-AA99-B8EE651A2071,3,31:21.3,41:39.1,1.0,CBC: LYMPHOCYTES,4.2,k/cumm,1949-07-28 03:33:16.877,Male,00:04.3,White,Single,Unknown,17.09
+A85FD673-C45A-4C4A-AA99-B8EE651A2071,4,35:43.6,26:35.0,1.0,CBC: LYMPHOCYTES,4.2,k/cumm,1949-07-28 03:33:16.877,Male,00:04.3,White,Single,Unknown,17.09

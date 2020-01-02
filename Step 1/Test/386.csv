@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+613CAD8D-8C8A-4E20-8F12-F77AE4DEE671,1,27:34.3,57:51.0,1.0,CBC: NEUTROPHILS,10.5,k/cumm,2011-03-07 04:05:00.637,Female,03:28.6,Unknown,Married,English,18.68

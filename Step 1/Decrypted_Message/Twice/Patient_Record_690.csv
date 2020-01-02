@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B4AE2FBD-29AB-4ACA-94F3-5D2974347DDA,1,45:51.2,47:08.3,1.0,METABOLIC: SODIUM,147.8,mmol/L,1957-01-24 20:26:20.117,Male,23:47.4,African American,Separated,Icelandic,14.5
+B4AE2FBD-29AB-4ACA-94F3-5D2974347DDA,2,57:22.3,26:10.9,1.0,METABOLIC: SODIUM,147.8,mmol/L,1957-01-24 20:26:20.117,Male,23:47.4,African American,Separated,Icelandic,14.5
+B4AE2FBD-29AB-4ACA-94F3-5D2974347DDA,3,23:35.9,58:30.5,1.0,METABOLIC: SODIUM,147.8,mmol/L,1957-01-24 20:26:20.117,Male,23:47.4,African American,Separated,Icelandic,14.5
+B4AE2FBD-29AB-4ACA-94F3-5D2974347DDA,4,17:43.3,34:15.0,1.0,METABOLIC: SODIUM,147.8,mmol/L,1957-01-24 20:26:20.117,Male,23:47.4,African American,Separated,Icelandic,14.5

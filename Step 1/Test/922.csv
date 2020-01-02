@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+EB7B13B7-66FF-4CD8-969F-1EA4C3401193,1,38:24.6,36:35.9,1.0,CBC: ABSOLUTE LYMPHOCYTES,24.3,%,1985-01-01 05:10:12.853,Male,18:53.6,White,Single,English,15.82
+EB7B13B7-66FF-4CD8-969F-1EA4C3401193,2,10:09.8,01:59.1,1.0,CBC: ABSOLUTE LYMPHOCYTES,24.3,%,1985-01-01 05:10:12.853,Male,18:53.6,White,Single,English,15.82
+EB7B13B7-66FF-4CD8-969F-1EA4C3401193,3,25:43.1,36:30.7,1.0,CBC: ABSOLUTE LYMPHOCYTES,24.3,%,1985-01-01 05:10:12.853,Male,18:53.6,White,Single,English,15.82

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4422862F-5506-4C35-B410-3903A6D4659F,1,57:00.2,14:30.1,1.0,URINALYSIS: WHITE BLOOD CELLS,1.7,wbc/hpf,1994-06-25 09:55:42.843,Male,52:34.1,Unknown,Married,Spanish,16.29
+4422862F-5506-4C35-B410-3903A6D4659F,2,58:03.6,44:51.9,1.0,URINALYSIS: WHITE BLOOD CELLS,1.7,wbc/hpf,1994-06-25 09:55:42.843,Male,52:34.1,Unknown,Married,Spanish,16.29
+4422862F-5506-4C35-B410-3903A6D4659F,3,29:38.3,14:47.5,1.0,URINALYSIS: WHITE BLOOD CELLS,1.7,wbc/hpf,1994-06-25 09:55:42.843,Male,52:34.1,Unknown,Married,Spanish,16.29

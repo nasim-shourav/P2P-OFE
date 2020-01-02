@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4932BBA2-BB3C-41FB-8146-1BDD9085ABA1,1,29:53.9,47:22.0,1.0,CBC: EOSINOPHILS,0.4,k/cumm,2000-12-27 04:57:45.833,Female,06:11.1,Unknown,Married,English,14.26
+4932BBA2-BB3C-41FB-8146-1BDD9085ABA1,2,31:00.6,43:35.0,1.0,CBC: EOSINOPHILS,0.4,k/cumm,2000-12-27 04:57:45.833,Female,06:11.1,Unknown,Married,English,14.26
+4932BBA2-BB3C-41FB-8146-1BDD9085ABA1,3,37:24.1,37:00.4,1.0,CBC: EOSINOPHILS,0.4,k/cumm,2000-12-27 04:57:45.833,Female,06:11.1,Unknown,Married,English,14.26
+4932BBA2-BB3C-41FB-8146-1BDD9085ABA1,4,34:54.0,04:55.8,1.0,CBC: EOSINOPHILS,0.4,k/cumm,2000-12-27 04:57:45.833,Female,06:11.1,Unknown,Married,English,14.26

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CB42BACF-0441-4D4A-AD96-5759F1A99359,1,17:46.5,01:32.2,1.0,CBC: WHITE BLOOD CELL COUNT,3.1,k/cumm,1992-01-18 08:32:47.267,Female,42:20.9,White,Divorced,Unknown,6.93
+CB42BACF-0441-4D4A-AD96-5759F1A99359,2,41:02.1,13:42.0,1.0,CBC: WHITE BLOOD CELL COUNT,3.1,k/cumm,1992-01-18 08:32:47.267,Female,42:20.9,White,Divorced,Unknown,6.93
+CB42BACF-0441-4D4A-AD96-5759F1A99359,3,53:56.6,22:41.1,1.0,CBC: WHITE BLOOD CELL COUNT,3.1,k/cumm,1992-01-18 08:32:47.267,Female,42:20.9,White,Divorced,Unknown,6.93
+CB42BACF-0441-4D4A-AD96-5759F1A99359,4,34:31.5,31:11.3,1.0,CBC: WHITE BLOOD CELL COUNT,3.1,k/cumm,1992-01-18 08:32:47.267,Female,42:20.9,White,Divorced,Unknown,6.93

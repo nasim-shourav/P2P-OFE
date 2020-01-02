@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D10A0355-84F0-42A8-ADC5-7356AE162409,1,11:45.3,17:10.5,1.0,CBC: MCHC,35.7,g/dl,1999-11-27 03:30:51.713,Male,35:57.2,White,Married,English,10.62
+D10A0355-84F0-42A8-ADC5-7356AE162409,2,06:24.0,42:38.7,1.0,CBC: MCHC,35.7,g/dl,1999-11-27 03:30:51.713,Male,35:57.2,White,Married,English,10.62
+D10A0355-84F0-42A8-ADC5-7356AE162409,3,11:13.4,38:57.5,1.0,CBC: MCHC,35.7,g/dl,1999-11-27 03:30:51.713,Male,35:57.2,White,Married,English,10.62

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C5C904F1-29A3-43F6-BA92-B1D56AA4A44C,1,40:23.2,16:11.4,1.0,CBC: EOSINOPHILS,0.2,k/cumm,1991-10-14 00:52:26.153,Female,15:20.4,Asian,Single,English,18.18
+C5C904F1-29A3-43F6-BA92-B1D56AA4A44C,2,41:27.7,16:40.6,1.0,CBC: EOSINOPHILS,0.2,k/cumm,1991-10-14 00:52:26.153,Female,15:20.4,Asian,Single,English,18.18
+C5C904F1-29A3-43F6-BA92-B1D56AA4A44C,3,32:45.5,49:45.7,1.0,CBC: EOSINOPHILS,0.2,k/cumm,1991-10-14 00:52:26.153,Female,15:20.4,Asian,Single,English,18.18

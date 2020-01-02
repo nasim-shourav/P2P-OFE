@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+7124142C-F584-4454-8280-4628FA5A966F,1,13:14.5,50:17.0,1.0,URINALYSIS: RED BLOOD CELLS,1.7,rbc/hpf,1996-06-07 10:35:20.333,Female,14:42.6,White,Married,English,11.53
+7124142C-F584-4454-8280-4628FA5A966F,2,03:04.8,46:54.0,1.0,URINALYSIS: RED BLOOD CELLS,1.7,rbc/hpf,1996-06-07 10:35:20.333,Female,14:42.6,White,Married,English,11.53
+7124142C-F584-4454-8280-4628FA5A966F,3,21:42.7,10:31.9,1.0,URINALYSIS: RED BLOOD CELLS,1.7,rbc/hpf,1996-06-07 10:35:20.333,Female,14:42.6,White,Married,English,11.53

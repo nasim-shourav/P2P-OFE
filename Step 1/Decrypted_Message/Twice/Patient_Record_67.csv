@@ -1,0 +1,7 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1123AF52-7869-4244-AD33-956EFEEA41E9,1,15:39.4,29:12.3,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59
+1123AF52-7869-4244-AD33-956EFEEA41E9,2,56:21.3,25:54.6,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59
+1123AF52-7869-4244-AD33-956EFEEA41E9,3,57:13.7,56:21.9,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59
+1123AF52-7869-4244-AD33-956EFEEA41E9,4,52:48.4,20:55.0,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59
+1123AF52-7869-4244-AD33-956EFEEA41E9,5,21:04.0,47:43.4,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59
+1123AF52-7869-4244-AD33-956EFEEA41E9,6,29:55.3,26:25.6,1.0,CBC: BASOPHILS,0.0,k/cumm,1972-08-27 16:07:00.740,Female,14:05.0,African American,Married,English,17.59

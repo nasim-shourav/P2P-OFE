@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+468FDA45-94CF-4082-AFA5-23DDCBEA8050,1,01:51.4,42:23.5,1.0,METABOLIC: ALT/SGPT,68.6,U/L,1998-03-21 19:56:08.670,Male,32:43.7,White,Widowed,English,17.2
+468FDA45-94CF-4082-AFA5-23DDCBEA8050,2,40:42.7,09:52.4,1.0,METABOLIC: ALT/SGPT,68.6,U/L,1998-03-21 19:56:08.670,Male,32:43.7,White,Widowed,English,17.2

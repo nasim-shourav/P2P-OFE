@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+5A77A2B3-A101-4AAA-9965-A4D51AC44B38,1,21:42.9,36:37.3,1.0,CBC: EOSINOPHILS,0.5,k/cumm,2003-01-27 01:05:53.357,Male,19:28.6,African American,Unknown,Icelandic,18.16
+5A77A2B3-A101-4AAA-9965-A4D51AC44B38,2,04:35.4,50:13.9,1.0,CBC: EOSINOPHILS,0.5,k/cumm,2003-01-27 01:05:53.357,Male,19:28.6,African American,Unknown,Icelandic,18.16
+5A77A2B3-A101-4AAA-9965-A4D51AC44B38,3,50:48.5,09:38.0,1.0,CBC: EOSINOPHILS,0.5,k/cumm,2003-01-27 01:05:53.357,Male,19:28.6,African American,Unknown,Icelandic,18.16

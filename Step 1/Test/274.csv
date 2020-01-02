@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+44D4F418-B835-4F05-AF4F-9B0C7ECF92BA,1,32:37.9,02:17.8,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1982-06-29 00:07:59.537,Female,37:26.3,White,Married,Spanish,17.6
+44D4F418-B835-4F05-AF4F-9B0C7ECF92BA,2,07:41.7,13:47.7,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1982-06-29 00:07:59.537,Female,37:26.3,White,Married,Spanish,17.6
+44D4F418-B835-4F05-AF4F-9B0C7ECF92BA,3,37:09.9,08:57.5,1.0,CBC: NEUTROPHILS,10.6,k/cumm,1982-06-29 00:07:59.537,Female,37:26.3,White,Married,Spanish,17.6

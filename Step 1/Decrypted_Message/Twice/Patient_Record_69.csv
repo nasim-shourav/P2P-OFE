@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+12146797-56CF-4D56-8D2C-E65781B551ED,1,52:03.7,27:35.5,1.0,CBC: MONOCYTES,1.2,k/cumm,2001-05-07 07:22:02.903,Male,02:25.5,Asian,Single,Spanish,12.83
+12146797-56CF-4D56-8D2C-E65781B551ED,2,01:41.1,37:52.9,1.0,CBC: MONOCYTES,1.2,k/cumm,2001-05-07 07:22:02.903,Male,02:25.5,Asian,Single,Spanish,12.83
+12146797-56CF-4D56-8D2C-E65781B551ED,3,52:11.5,34:16.0,1.0,CBC: MONOCYTES,1.2,k/cumm,2001-05-07 07:22:02.903,Male,02:25.5,Asian,Single,Spanish,12.83

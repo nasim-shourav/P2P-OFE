@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+468B99B8-6FE0-4E63-8CAC-3DE5A5E5C76A,1,32:19.4,58:05.5,1.0,METABOLIC: TOTAL PROTEIN,9.5,gm/dL,1989-02-21 16:50:04.063,Male,23:21.0,Unknown,Married,English,16.28
+468B99B8-6FE0-4E63-8CAC-3DE5A5E5C76A,2,34:05.2,04:04.4,1.0,METABOLIC: TOTAL PROTEIN,9.5,gm/dL,1989-02-21 16:50:04.063,Male,23:21.0,Unknown,Married,English,16.28

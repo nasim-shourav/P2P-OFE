@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+899D334C-8297-421F-AF40-83DBC5AE0722,1,28:35.3,06:33.1,1.0,CBC: EOSINOPHILS,0.5,k/cumm,1987-09-10 16:53:47.637,Female,32:48.6,White,Widowed,Unknown,17.68
+899D334C-8297-421F-AF40-83DBC5AE0722,2,50:40.9,24:40.0,1.0,CBC: EOSINOPHILS,0.5,k/cumm,1987-09-10 16:53:47.637,Female,32:48.6,White,Widowed,Unknown,17.68

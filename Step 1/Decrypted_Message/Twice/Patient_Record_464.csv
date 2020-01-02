@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+78DDD71C-4997-4361-9E7A-FDF37C956DEF,1,09:42.3,08:04.6,1.0,METABOLIC: ANION GAP,18.0,mmol/L,1982-10-14 13:55:49.693,Male,48:21.7,White,Married,Icelandic,15.31
+78DDD71C-4997-4361-9E7A-FDF37C956DEF,2,44:51.3,13:05.7,1.0,METABOLIC: ANION GAP,18.0,mmol/L,1982-10-14 13:55:49.693,Male,48:21.7,White,Married,Icelandic,15.31
+78DDD71C-4997-4361-9E7A-FDF37C956DEF,3,43:38.4,05:29.0,1.0,METABOLIC: ANION GAP,18.0,mmol/L,1982-10-14 13:55:49.693,Male,48:21.7,White,Married,Icelandic,15.31

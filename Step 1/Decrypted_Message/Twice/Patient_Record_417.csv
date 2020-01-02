@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+691FE3D9-FC36-43A5-997B-815EBAE01097,1,59:14.3,36:46.2,1.0,URINALYSIS: WHITE BLOOD CELLS,0.9,wbc/hpf,1997-10-28 04:00:54.090,Female,54:28.6,White,Married,English,15.57
+691FE3D9-FC36-43A5-997B-815EBAE01097,2,10:11.4,42:43.4,1.0,URINALYSIS: WHITE BLOOD CELLS,0.9,wbc/hpf,1997-10-28 04:00:54.090,Female,54:28.6,White,Married,English,15.57
+691FE3D9-FC36-43A5-997B-815EBAE01097,3,15:00.9,04:58.2,1.0,URINALYSIS: WHITE BLOOD CELLS,0.9,wbc/hpf,1997-10-28 04:00:54.090,Female,54:28.6,White,Married,English,15.57

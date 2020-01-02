@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CAD860B9-E2B2-4D7A-9C36-3CA7D14C2437,1,57:29.4,35:28.1,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1987-06-04 07:19:22.567,Male,21:55.3,African American,Married,English,7.69
+CAD860B9-E2B2-4D7A-9C36-3CA7D14C2437,2,03:37.3,44:28.2,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1987-06-04 07:19:22.567,Male,21:55.3,African American,Married,English,7.69

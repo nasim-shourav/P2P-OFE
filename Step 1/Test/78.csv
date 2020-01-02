@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+149A4CA1-E193-4A4B-AA67-5A045E79F055,1,02:08.8,00:49.7,1.0,CBC: RED BLOOD CELL COUNT,3.1,m/cumm,1969-07-20 06:47:32.670,Female,51:38.5,White,Married,Spanish,14.01
+149A4CA1-E193-4A4B-AA67-5A045E79F055,2,53:20.5,08:42.5,1.0,CBC: RED BLOOD CELL COUNT,3.1,m/cumm,1969-07-20 06:47:32.670,Female,51:38.5,White,Married,Spanish,14.01
+149A4CA1-E193-4A4B-AA67-5A045E79F055,3,06:24.5,22:45.0,1.0,CBC: RED BLOOD CELL COUNT,3.1,m/cumm,1969-07-20 06:47:32.670,Female,51:38.5,White,Married,Spanish,14.01
+149A4CA1-E193-4A4B-AA67-5A045E79F055,4,52:42.6,44:50.1,1.0,CBC: RED BLOOD CELL COUNT,3.1,m/cumm,1969-07-20 06:47:32.670,Female,51:38.5,White,Married,Spanish,14.01

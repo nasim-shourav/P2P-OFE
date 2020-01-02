@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+052063F7-BC44-4B05-BB0B-4C88958326DB,1,25:35.5,38:46.6,1.0,CBC: RDW,13.2,%,1996-08-10 18:38:29.790,Male,15:34.1,Unknown,Married,English,12.84
+052063F7-BC44-4B05-BB0B-4C88958326DB,2,16:30.6,37:38.5,1.0,CBC: RDW,13.2,%,1996-08-10 18:38:29.790,Male,15:34.1,Unknown,Married,English,12.84

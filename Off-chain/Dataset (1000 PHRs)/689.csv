@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B49A51B7-5992-4F1E-A63F-5A31FAB130C1,1,14:02.0,57:57.3,1.0,CBC: HEMOGLOBIN,13.9,gm/dl,1993-10-11 01:04:04.540,Male,05:56.5,Asian,Married,English,14.82
+B49A51B7-5992-4F1E-A63F-5A31FAB130C1,2,57:13.0,02:18.2,1.0,CBC: HEMOGLOBIN,13.9,gm/dl,1993-10-11 01:04:04.540,Male,05:56.5,Asian,Married,English,14.82
+B49A51B7-5992-4F1E-A63F-5A31FAB130C1,3,52:11.7,33:04.1,1.0,CBC: HEMOGLOBIN,13.9,gm/dl,1993-10-11 01:04:04.540,Male,05:56.5,Asian,Married,English,14.82

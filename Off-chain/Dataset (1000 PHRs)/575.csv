@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+97307ACC-AC0C-4777-A320-22A2B730306E,1,37:21.3,49:30.2,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1984-10-23 09:42:14.893,Male,08:07.6,White,Married,English,9.34
+97307ACC-AC0C-4777-A320-22A2B730306E,2,55:17.6,28:21.4,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1984-10-23 09:42:14.893,Male,08:07.6,White,Married,English,9.34

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E73B120A-3121-4BC8-BB43-FE77C1604BF0,1,57:12.0,08:47.6,1.0,CBC: WHITE BLOOD CELL COUNT,7.9,k/cumm,2000-10-08 01:31:21.887,Male,08:56.4,White,Single,English,18.81
+E73B120A-3121-4BC8-BB43-FE77C1604BF0,2,51:25.9,08:25.4,1.0,CBC: WHITE BLOOD CELL COUNT,7.9,k/cumm,2000-10-08 01:31:21.887,Male,08:56.4,White,Single,English,18.81
+E73B120A-3121-4BC8-BB43-FE77C1604BF0,3,27:07.9,46:18.9,1.0,CBC: WHITE BLOOD CELL COUNT,7.9,k/cumm,2000-10-08 01:31:21.887,Male,08:56.4,White,Single,English,18.81
+E73B120A-3121-4BC8-BB43-FE77C1604BF0,4,59:30.0,51:10.9,1.0,CBC: WHITE BLOOD CELL COUNT,7.9,k/cumm,2000-10-08 01:31:21.887,Male,08:56.4,White,Single,English,18.81

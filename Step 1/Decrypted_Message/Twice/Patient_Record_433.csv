@@ -1,0 +1,7 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6E37DE13-C18F-4040-A29C-3772D23F54D9,1,35:12.8,05:32.4,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62
+6E37DE13-C18F-4040-A29C-3772D23F54D9,2,22:20.6,20:37.7,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62
+6E37DE13-C18F-4040-A29C-3772D23F54D9,3,12:31.7,50:31.4,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62
+6E37DE13-C18F-4040-A29C-3772D23F54D9,4,38:09.2,28:42.1,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62
+6E37DE13-C18F-4040-A29C-3772D23F54D9,5,42:16.7,16:44.0,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62
+6E37DE13-C18F-4040-A29C-3772D23F54D9,6,25:32.4,10:59.4,1.0,CBC: BASOPHILS,0.1,k/cumm,1956-07-17 18:11:58.490,Female,33:49.8,Unknown,Single,English,18.62

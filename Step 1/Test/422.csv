@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6AC7270F-41AC-49F0-9EA2-9A3572BC5DC4,1,11:21.1,23:32.7,1.0,CBC: HEMATOCRIT,32.5,%,1979-02-03 07:38:31.267,Female,10:33.6,Unknown,Married,English,15.1
+6AC7270F-41AC-49F0-9EA2-9A3572BC5DC4,2,46:55.1,43:42.6,1.0,CBC: HEMATOCRIT,32.5,%,1979-02-03 07:38:31.267,Female,10:33.6,Unknown,Married,English,15.1
+6AC7270F-41AC-49F0-9EA2-9A3572BC5DC4,3,24:20.7,57:22.9,1.0,CBC: HEMATOCRIT,32.5,%,1979-02-03 07:38:31.267,Female,10:33.6,Unknown,Married,English,15.1

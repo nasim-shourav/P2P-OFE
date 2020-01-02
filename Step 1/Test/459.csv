@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+77A0ABFD-9DF4-41EE-903B-C32184E271DA,1,10:21.8,19:46.0,1.0,URINALYSIS: PH,6.7,no unit,1991-01-11 04:05:36.873,Female,12:56.0,African American,Married,English,14.67
+77A0ABFD-9DF4-41EE-903B-C32184E271DA,2,22:22.4,38:32.6,1.0,URINALYSIS: PH,6.7,no unit,1991-01-11 04:05:36.873,Female,12:56.0,African American,Married,English,14.67
+77A0ABFD-9DF4-41EE-903B-C32184E271DA,3,29:58.9,06:39.1,1.0,URINALYSIS: PH,6.7,no unit,1991-01-11 04:05:36.873,Female,12:56.0,African American,Married,English,14.67
+77A0ABFD-9DF4-41EE-903B-C32184E271DA,4,29:40.1,19:40.4,1.0,URINALYSIS: PH,6.7,no unit,1991-01-11 04:05:36.873,Female,12:56.0,African American,Married,English,14.67

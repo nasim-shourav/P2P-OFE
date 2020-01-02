@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3BA10258-AE47-43EF-A1A1-98642D89507C,1,09:15.6,24:10.2,1.0,CBC: MCHC,30.4,g/dl,1981-11-14 16:52:16.817,Female,58:17.3,African American,Divorced,Spanish,10.82
+3BA10258-AE47-43EF-A1A1-98642D89507C,2,02:13.2,15:43.0,1.0,CBC: MCHC,30.4,g/dl,1981-11-14 16:52:16.817,Female,58:17.3,African American,Divorced,Spanish,10.82

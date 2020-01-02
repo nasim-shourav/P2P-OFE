@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+7EC74111-136B-42CB-94EA-F139273DBD7C,1,56:50.4,38:07.4,1.0,METABOLIC: CALCIUM,7.6,mg/dL,1962-07-28 06:18:28.200,Male,18:14.6,White,Single,Icelandic,82.8
+7EC74111-136B-42CB-94EA-F139273DBD7C,2,05:24.2,34:35.7,1.0,METABOLIC: CALCIUM,7.6,mg/dL,1962-07-28 06:18:28.200,Male,18:14.6,White,Single,Icelandic,82.8
+7EC74111-136B-42CB-94EA-F139273DBD7C,3,46:17.6,33:58.4,1.0,METABOLIC: CALCIUM,7.6,mg/dL,1962-07-28 06:18:28.200,Male,18:14.6,White,Single,Icelandic,82.8

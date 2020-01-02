@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4433C894-A230-4D61-9553-CFD508CDC808,1,00:58.5,03:32.9,1.0,METABOLIC: ALBUMIN,5.2,gm/dL,1985-05-05 19:53:15.407,Male,09:08.9,African American,Single,Spanish,3.16
+4433C894-A230-4D61-9553-CFD508CDC808,2,29:09.0,20:26.0,1.0,METABOLIC: ALBUMIN,5.2,gm/dL,1985-05-05 19:53:15.407,Male,09:08.9,African American,Single,Spanish,3.16
+4433C894-A230-4D61-9553-CFD508CDC808,3,09:32.9,44:19.9,1.0,METABOLIC: ALBUMIN,5.2,gm/dL,1985-05-05 19:53:15.407,Male,09:08.9,African American,Single,Spanish,3.16
+4433C894-A230-4D61-9553-CFD508CDC808,4,16:03.1,46:53.5,1.0,METABOLIC: ALBUMIN,5.2,gm/dL,1985-05-05 19:53:15.407,Male,09:08.9,African American,Single,Spanish,3.16

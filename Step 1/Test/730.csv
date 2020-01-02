@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C14D7E86-F8B8-4533-85C2-FB09CE5C76FF,1,00:39.1,48:12.9,1.0,CBC: ABSOLUTE NEUTROPHILS,78.8,%,1960-01-30 11:35:47.427,Female,35:56.2,Asian,Widowed,English,15.1
+C14D7E86-F8B8-4533-85C2-FB09CE5C76FF,2,52:35.3,58:10.4,1.0,CBC: ABSOLUTE NEUTROPHILS,78.8,%,1960-01-30 11:35:47.427,Female,35:56.2,Asian,Widowed,English,15.1
+C14D7E86-F8B8-4533-85C2-FB09CE5C76FF,3,00:45.8,06:04.5,1.0,CBC: ABSOLUTE NEUTROPHILS,78.8,%,1960-01-30 11:35:47.427,Female,35:56.2,Asian,Widowed,English,15.1
+C14D7E86-F8B8-4533-85C2-FB09CE5C76FF,4,14:57.8,27:14.9,1.0,CBC: ABSOLUTE NEUTROPHILS,78.8,%,1960-01-30 11:35:47.427,Female,35:56.2,Asian,Widowed,English,15.1

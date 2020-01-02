@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+F3774AFF-D0C0-455C-94C0-24F4B119CD10,1,29:19.3,17:51.5,1.0,CBC: RED BLOOD CELL COUNT,5.2,m/cumm,1975-08-01 20:37:09.783,Female,11:21.3,Unknown,Married,English,15.95
+F3774AFF-D0C0-455C-94C0-24F4B119CD10,2,09:20.3,20:29.1,1.0,CBC: RED BLOOD CELL COUNT,5.2,m/cumm,1975-08-01 20:37:09.783,Female,11:21.3,Unknown,Married,English,15.95
+F3774AFF-D0C0-455C-94C0-24F4B119CD10,3,16:04.1,13:14.3,1.0,CBC: RED BLOOD CELL COUNT,5.2,m/cumm,1975-08-01 20:37:09.783,Female,11:21.3,Unknown,Married,English,15.95

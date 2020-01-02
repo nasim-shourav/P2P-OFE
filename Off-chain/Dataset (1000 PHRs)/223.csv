@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+379EE888-AEDF-4D44-AC03-7AAB75792554,1,14:37.2,41:28.9,1.0,METABOLIC: ALK PHOS,128.3,U/L,1973-02-15 04:34:00.050,Female,16:21.7,Unknown,Single,English,2.3
+379EE888-AEDF-4D44-AC03-7AAB75792554,2,41:47.5,15:58.8,1.0,METABOLIC: ALK PHOS,128.3,U/L,1973-02-15 04:34:00.050,Female,16:21.7,Unknown,Single,English,2.3
+379EE888-AEDF-4D44-AC03-7AAB75792554,3,22:45.7,27:22.6,1.0,METABOLIC: ALK PHOS,128.3,U/L,1973-02-15 04:34:00.050,Female,16:21.7,Unknown,Single,English,2.3

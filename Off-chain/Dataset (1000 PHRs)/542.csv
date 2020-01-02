@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8BAE8770-CDE0-4500-BD88-4F58E7236A45,1,54:59.5,21:51.4,1.0,CBC: ABSOLUTE LYMPHOCYTES,31.8,%,2010-05-23 11:49:11.577,Male,46:52.6,White,Married,Spanish,18.7

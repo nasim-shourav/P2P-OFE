@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8CC49E47-BE9C-4181-9687-85A78E8201A5,1,07:55.1,23:18.8,1.0,CBC: ABSOLUTE LYMPHOCYTES,24.1,%,2014-01-05 05:30:52.513,Female,46:16.7,White,Unknown,Spanish,16.05

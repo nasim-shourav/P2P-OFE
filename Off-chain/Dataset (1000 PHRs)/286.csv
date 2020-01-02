@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+476E447B-4735-4CF3-8772-B786FC6EE34E,1,30:01.5,05:13.1,1.0,CBC: WHITE BLOOD CELL COUNT,4.7,k/cumm,1969-10-31 02:31:40.503,Male,08:48.5,White,Married,Spanish,18.32
+476E447B-4735-4CF3-8772-B786FC6EE34E,2,57:44.1,27:11.9,1.0,CBC: WHITE BLOOD CELL COUNT,4.7,k/cumm,1969-10-31 02:31:40.503,Male,08:48.5,White,Married,Spanish,18.32
+476E447B-4735-4CF3-8772-B786FC6EE34E,3,40:50.6,32:00.0,1.0,CBC: WHITE BLOOD CELL COUNT,4.7,k/cumm,1969-10-31 02:31:40.503,Male,08:48.5,White,Married,Spanish,18.32

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6169A44B-C8BF-4FFF-89D0-F2C080D2D185,1,15:31.4,55:22.1,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1973-05-08 12:49:30.717,Male,48:31.2,Unknown,Single,Spanish,10.16
+6169A44B-C8BF-4FFF-89D0-F2C080D2D185,2,37:08.1,46:15.2,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1973-05-08 12:49:30.717,Male,48:31.2,Unknown,Single,Spanish,10.16
+6169A44B-C8BF-4FFF-89D0-F2C080D2D185,3,07:12.3,32:51.5,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1973-05-08 12:49:30.717,Male,48:31.2,Unknown,Single,Spanish,10.16
+6169A44B-C8BF-4FFF-89D0-F2C080D2D185,4,11:36.0,24:43.0,1.0,METABOLIC: ALBUMIN,6.0,gm/dL,1973-05-08 12:49:30.717,Male,48:31.2,Unknown,Single,Spanish,10.16

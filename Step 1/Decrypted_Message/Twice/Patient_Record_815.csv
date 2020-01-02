@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D3D61876-29DF-4D74-B38F-ADF443312F5F,1,38:09.2,26:43.1,1.0,METABOLIC: TOTAL PROTEIN,7.5,gm/dL,1971-04-09 04:38:25.220,Male,37:53.3,African American,Single,Spanish,15.39
+D3D61876-29DF-4D74-B38F-ADF443312F5F,2,36:12.6,08:56.1,1.0,METABOLIC: TOTAL PROTEIN,7.5,gm/dL,1971-04-09 04:38:25.220,Male,37:53.3,African American,Single,Spanish,15.39
+D3D61876-29DF-4D74-B38F-ADF443312F5F,3,21:47.6,38:18.7,1.0,METABOLIC: TOTAL PROTEIN,7.5,gm/dL,1971-04-09 04:38:25.220,Male,37:53.3,African American,Single,Spanish,15.39
+D3D61876-29DF-4D74-B38F-ADF443312F5F,4,56:14.2,10:11.8,1.0,METABOLIC: TOTAL PROTEIN,7.5,gm/dL,1971-04-09 04:38:25.220,Male,37:53.3,African American,Single,Spanish,15.39

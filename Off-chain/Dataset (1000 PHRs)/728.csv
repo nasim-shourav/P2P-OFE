@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C0450EE5-804C-4DD4-91E7-B0950C174504,1,18:06.0,29:08.8,1.0,METABOLIC: CARBON DIOXIDE,20.5,mmol/L,2008-12-14 02:52:42.633,Female,18:17.8,White,Single,English,14.24

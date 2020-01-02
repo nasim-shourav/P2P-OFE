@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6253A114-95EB-4247-B8D5-5A8C355D4DC6,1,26:03.3,56:38.7,1.0,CBC: MEAN CORPUSCULAR VOLUME,73.2,fl,2000-12-16 03:27:12.110,Female,27:00.5,Asian,Separated,English,2.27
+6253A114-95EB-4247-B8D5-5A8C355D4DC6,2,23:15.1,07:05.4,1.0,CBC: MEAN CORPUSCULAR VOLUME,73.2,fl,2000-12-16 03:27:12.110,Female,27:00.5,Asian,Separated,English,2.27

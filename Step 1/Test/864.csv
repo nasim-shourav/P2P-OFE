@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E01E21FB-121D-477F-9E4E-6702C197A8CD,1,44:39.1,37:29.8,1.0,CBC: HEMOGLOBIN,11.4,gm/dl,1988-07-19 09:37:17.087,Male,38:23.0,Unknown,Unknown,Icelandic,16.37
+E01E21FB-121D-477F-9E4E-6702C197A8CD,2,38:39.8,11:46.5,1.0,CBC: HEMOGLOBIN,11.4,gm/dl,1988-07-19 09:37:17.087,Male,38:23.0,Unknown,Unknown,Icelandic,16.37
+E01E21FB-121D-477F-9E4E-6702C197A8CD,3,15:50.2,36:11.3,1.0,CBC: HEMOGLOBIN,11.4,gm/dl,1988-07-19 09:37:17.087,Male,38:23.0,Unknown,Unknown,Icelandic,16.37
+E01E21FB-121D-477F-9E4E-6702C197A8CD,4,42:34.7,59:24.8,1.0,CBC: HEMOGLOBIN,11.4,gm/dl,1988-07-19 09:37:17.087,Male,38:23.0,Unknown,Unknown,Icelandic,16.37

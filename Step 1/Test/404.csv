@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+657D699B-0754-4A55-BC94-D40CC31787CA,1,27:24.4,51:01.0,1.0,METABOLIC: BUN,22.5,mg/dL,1995-10-27 15:29:42.547,Male,28:11.9,African American,Married,English,84.41
+657D699B-0754-4A55-BC94-D40CC31787CA,2,22:14.6,31:58.3,1.0,METABOLIC: BUN,22.5,mg/dL,1995-10-27 15:29:42.547,Male,28:11.9,African American,Married,English,84.41
+657D699B-0754-4A55-BC94-D40CC31787CA,3,43:22.2,13:42.9,1.0,METABOLIC: BUN,22.5,mg/dL,1995-10-27 15:29:42.547,Male,28:11.9,African American,Married,English,84.41

@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E8592950-44B7-4783-AEBC-C63694C9E5A0,1,08:05.4,33:52.3,1.0,CBC: PLATELET COUNT,441.1,k/cumm,2007-04-16 01:49:56.200,Female,38:40.1,White,Married,English,12.75
+E8592950-44B7-4783-AEBC-C63694C9E5A0,2,05:56.5,44:53.0,1.0,CBC: PLATELET COUNT,441.1,k/cumm,2007-04-16 01:49:56.200,Female,38:40.1,White,Married,English,12.75

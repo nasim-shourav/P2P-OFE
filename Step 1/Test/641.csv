@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+A7880230-3032-480A-8008-B64BE566F43D,1,02:19.5,56:59.7,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1990-04-22 02:41:40.243,Male,15:31.4,Asian,Single,English,17.27
+A7880230-3032-480A-8008-B64BE566F43D,2,30:08.1,07:10.5,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1990-04-22 02:41:40.243,Male,15:31.4,Asian,Single,English,17.27
+A7880230-3032-480A-8008-B64BE566F43D,3,11:59.8,29:24.5,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1990-04-22 02:41:40.243,Male,15:31.4,Asian,Single,English,17.27

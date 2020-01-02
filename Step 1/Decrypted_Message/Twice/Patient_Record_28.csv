@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+0606A10D-06BC-457A-B186-E288C3683E71,1,37:14.3,58:03.3,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1974-01-26 07:49:26.730,Female,44:39.9,White,Married,English,14.79
+0606A10D-06BC-457A-B186-E288C3683E71,2,58:13.2,20:40.2,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1974-01-26 07:49:26.730,Female,44:39.9,White,Married,English,14.79
+0606A10D-06BC-457A-B186-E288C3683E71,3,10:38.5,18:02.7,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1974-01-26 07:49:26.730,Female,44:39.9,White,Married,English,14.79
+0606A10D-06BC-457A-B186-E288C3683E71,4,20:47.6,05:22.1,1.0,URINALYSIS: RED BLOOD CELLS,1.1,rbc/hpf,1974-01-26 07:49:26.730,Female,44:39.9,White,Married,English,14.79

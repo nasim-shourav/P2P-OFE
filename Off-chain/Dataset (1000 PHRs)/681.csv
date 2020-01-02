@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B2B94C6B-3F6C-48E1-8909-B9C356A57385,1,31:20.1,30:35.5,1.0,CBC: RED BLOOD CELL COUNT,6.8,m/cumm,1988-11-22 06:38:31.687,Female,50:22.8,White,Single,English,17.4
+B2B94C6B-3F6C-48E1-8909-B9C356A57385,2,50:30.8,32:25.8,1.0,CBC: RED BLOOD CELL COUNT,6.8,m/cumm,1988-11-22 06:38:31.687,Female,50:22.8,White,Single,English,17.4
+B2B94C6B-3F6C-48E1-8909-B9C356A57385,3,17:50.0,43:55.7,1.0,CBC: RED BLOOD CELL COUNT,6.8,m/cumm,1988-11-22 06:38:31.687,Female,50:22.8,White,Single,English,17.4
+B2B94C6B-3F6C-48E1-8909-B9C356A57385,4,02:32.3,55:18.5,1.0,CBC: RED BLOOD CELL COUNT,6.8,m/cumm,1988-11-22 06:38:31.687,Female,50:22.8,White,Single,English,17.4

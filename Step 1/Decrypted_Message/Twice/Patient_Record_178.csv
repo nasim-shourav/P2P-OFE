@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+2B03CAB8-6705-43B9-B5AD-F42AE1B8857D,1,41:51.5,06:18.1,1.0,CBC: RED BLOOD CELL COUNT,5.4,m/cumm,1978-04-18 02:55:23.057,Female,08:02.8,White,Divorced,English,11.23
+2B03CAB8-6705-43B9-B5AD-F42AE1B8857D,2,10:39.9,28:41.4,1.0,CBC: RED BLOOD CELL COUNT,5.4,m/cumm,1978-04-18 02:55:23.057,Female,08:02.8,White,Divorced,English,11.23
+2B03CAB8-6705-43B9-B5AD-F42AE1B8857D,3,56:29.7,43:35.0,1.0,CBC: RED BLOOD CELL COUNT,5.4,m/cumm,1978-04-18 02:55:23.057,Female,08:02.8,White,Divorced,English,11.23
+2B03CAB8-6705-43B9-B5AD-F42AE1B8857D,4,26:11.0,14:26.8,1.0,CBC: RED BLOOD CELL COUNT,5.4,m/cumm,1978-04-18 02:55:23.057,Female,08:02.8,White,Divorced,English,11.23

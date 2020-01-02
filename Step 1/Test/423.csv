@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6B2F7B6B-48AF-4544-9D1D-7B4F0F861FB0,1,51:52.7,48:13.1,1.0,CBC: HEMATOCRIT,48.1,%,1989-09-06 01:39:43.537,Female,30:37.0,African American,Single,Spanish,18.62
+6B2F7B6B-48AF-4544-9D1D-7B4F0F861FB0,2,41:31.0,55:49.4,1.0,CBC: HEMATOCRIT,48.1,%,1989-09-06 01:39:43.537,Female,30:37.0,African American,Single,Spanish,18.62
+6B2F7B6B-48AF-4544-9D1D-7B4F0F861FB0,3,08:48.3,06:00.1,1.0,CBC: HEMATOCRIT,48.1,%,1989-09-06 01:39:43.537,Female,30:37.0,African American,Single,Spanish,18.62
+6B2F7B6B-48AF-4544-9D1D-7B4F0F861FB0,4,20:11.4,54:04.2,1.0,CBC: HEMATOCRIT,48.1,%,1989-09-06 01:39:43.537,Female,30:37.0,African American,Single,Spanish,18.62
+6B2F7B6B-48AF-4544-9D1D-7B4F0F861FB0,5,07:40.4,45:06.7,1.0,CBC: HEMATOCRIT,48.1,%,1989-09-06 01:39:43.537,Female,30:37.0,African American,Single,Spanish,18.62

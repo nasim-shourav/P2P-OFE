@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+2919A2BE-2D7F-420A-AA35-47D8F6024356,1,01:21.1,57:07.5,1.0,CBC: ABSOLUTE LYMPHOCYTES,24.3,%,2010-11-13 13:44:01.370,Male,45:02.0,Asian,Divorced,English,17.92

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+CE52640A-EF48-43A6-A229-C0964678C4CC,1,55:30.3,50:03.1,1.0,CBC: MCHC,38.3,g/dl,1978-03-15 00:50:24.723,Female,57:49.9,Unknown,Married,English,17.1
+CE52640A-EF48-43A6-A229-C0964678C4CC,2,01:00.5,03:44.4,1.0,CBC: MCHC,38.3,g/dl,1978-03-15 00:50:24.723,Female,57:49.9,Unknown,Married,English,17.1
+CE52640A-EF48-43A6-A229-C0964678C4CC,3,14:38.7,39:38.6,1.0,CBC: MCHC,38.3,g/dl,1978-03-15 00:50:24.723,Female,57:49.9,Unknown,Married,English,17.1
+CE52640A-EF48-43A6-A229-C0964678C4CC,4,06:32.1,42:32.7,1.0,CBC: MCHC,38.3,g/dl,1978-03-15 00:50:24.723,Female,57:49.9,Unknown,Married,English,17.1

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+324D3116-6C82-44C0-BCF4-1B9D0F6F015D,1,30:42.8,01:03.6,1.0,METABOLIC: BUN,16.6,mg/dL,2006-01-29 05:19:19.747,Female,37:21.1,African American,Single,English,18.56
+324D3116-6C82-44C0-BCF4-1B9D0F6F015D,2,05:04.1,32:04.2,1.0,METABOLIC: BUN,16.6,mg/dL,2006-01-29 05:19:19.747,Female,37:21.1,African American,Single,English,18.56
+324D3116-6C82-44C0-BCF4-1B9D0F6F015D,3,45:21.9,57:53.4,1.0,METABOLIC: BUN,16.6,mg/dL,2006-01-29 05:19:19.747,Female,37:21.1,African American,Single,English,18.56

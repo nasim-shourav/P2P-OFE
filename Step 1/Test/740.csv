@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C54FBC50-6F1E-44AE-887C-E92CAC21B235,1,09:24.8,54:17.4,1.0,METABOLIC: GLUCOSE,139.5,mg/dL,1979-08-10 22:17:39.063,Male,00:29.4,White,Married,Unknown,4.04
+C54FBC50-6F1E-44AE-887C-E92CAC21B235,2,49:51.4,36:56.2,1.0,METABOLIC: GLUCOSE,139.5,mg/dL,1979-08-10 22:17:39.063,Male,00:29.4,White,Married,Unknown,4.04
+C54FBC50-6F1E-44AE-887C-E92CAC21B235,3,09:40.4,39:59.6,1.0,METABOLIC: GLUCOSE,139.5,mg/dL,1979-08-10 22:17:39.063,Male,00:29.4,White,Married,Unknown,4.04

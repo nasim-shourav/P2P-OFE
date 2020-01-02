@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1EDE40A2-E183-4788-832A-58CE65D206FE,1,14:22.9,59:33.3,1.0,CBC: PLATELET COUNT,240.2,k/cumm,1986-08-16 19:27:37.627,Male,14:02.6,Asian,Single,English,10.66
+1EDE40A2-E183-4788-832A-58CE65D206FE,2,06:00.2,51:04.6,1.0,CBC: PLATELET COUNT,240.2,k/cumm,1986-08-16 19:27:37.627,Male,14:02.6,Asian,Single,English,10.66
+1EDE40A2-E183-4788-832A-58CE65D206FE,3,18:07.8,38:57.2,1.0,CBC: PLATELET COUNT,240.2,k/cumm,1986-08-16 19:27:37.627,Male,14:02.6,Asian,Single,English,10.66

@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D0693A17-807C-46A0-B68B-997925932F9F,1,01:12.1,38:11.4,1.0,METABOLIC: AST/SGOT,15.6,U/L,1975-04-27 15:05:59.360,Male,00:30.4,Unknown,Single,English,16.98
+D0693A17-807C-46A0-B68B-997925932F9F,2,35:26.0,00:23.8,1.0,METABOLIC: AST/SGOT,15.6,U/L,1975-04-27 15:05:59.360,Male,00:30.4,Unknown,Single,English,16.98

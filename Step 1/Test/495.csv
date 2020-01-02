@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+811EC072-A5E7-4667-93D8-153D0397FBA4,1,16:03.1,43:48.7,1.0,CBC: RDW,15.0,%,2003-05-20 22:18:32.690,Female,04:39.6,Asian,Single,Spanish,14.05
+811EC072-A5E7-4667-93D8-153D0397FBA4,2,11:43.0,58:33.4,1.0,CBC: RDW,15.0,%,2003-05-20 22:18:32.690,Female,04:39.6,Asian,Single,Spanish,14.05

@@ -1,0 +1,14 @@
+                                    PatientID  AdmissionID_x  ... PatientLanguage PatientPopulationPercentageBelowPoverty
+2015674  00A50BBC-F41D-403A-85CF-AE64C1657B7D              1  ...         English                                    13.1
+2015675  00A50BBC-F41D-403A-85CF-AE64C1657B7D              1  ...         English                                    13.1
+2015676  00A50BBC-F41D-403A-85CF-AE64C1657B7D              1  ...         English                                    13.1
+2015677  00A50BBC-F41D-403A-85CF-AE64C1657B7D              1  ...         English                                    13.1
+2015678  00A50BBC-F41D-403A-85CF-AE64C1657B7D              1  ...         English                                    13.1
+...                                       ...            ...  ...             ...                                     ...
+2020979  00A50BBC-F41D-403A-85CF-AE64C1657B7D              5  ...         English                                    13.1
+2020980  00A50BBC-F41D-403A-85CF-AE64C1657B7D              5  ...         English                                    13.1
+2020981  00A50BBC-F41D-403A-85CF-AE64C1657B7D              5  ...         English                                    13.1
+2020982  00A50BBC-F41D-403A-85CF-AE64C1657B7D              5  ...         English                                    13.1
+2020983  00A50BBC-F41D-403A-85CF-AE64C1657B7D              5  ...         English                                    13.1
+
+[5310 rows x 15 columns]

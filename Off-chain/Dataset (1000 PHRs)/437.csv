@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6F1FCF11-B615-410C-A6B0-B3EA4253EE16,1,20:26.7,57:35.1,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1979-02-11 11:21:58.513,Male,55:39.5,White,Married,Unknown,15.68
+6F1FCF11-B615-410C-A6B0-B3EA4253EE16,2,38:26.5,53:48.0,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1979-02-11 11:21:58.513,Male,55:39.5,White,Married,Unknown,15.68
+6F1FCF11-B615-410C-A6B0-B3EA4253EE16,3,37:32.7,13:38.9,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1979-02-11 11:21:58.513,Male,55:39.5,White,Married,Unknown,15.68
+6F1FCF11-B615-410C-A6B0-B3EA4253EE16,4,45:59.3,28:11.9,1.0,METABOLIC: TOTAL PROTEIN,6.2,gm/dL,1979-02-11 11:21:58.513,Male,55:39.5,White,Married,Unknown,15.68

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D2907D3B-4712-4D57-A668-1FB1881EA506,1,38:07.5,26:27.0,1.0,METABOLIC: AST/SGOT,32.0,U/L,1983-09-03 06:05:11.783,Female,16:36.6,Unknown,Divorced,Unknown,11.55
+D2907D3B-4712-4D57-A668-1FB1881EA506,2,44:18.1,45:22.6,1.0,METABOLIC: AST/SGOT,32.0,U/L,1983-09-03 06:05:11.783,Female,16:36.6,Unknown,Divorced,Unknown,11.55
+D2907D3B-4712-4D57-A668-1FB1881EA506,3,44:44.4,05:12.2,1.0,METABOLIC: AST/SGOT,32.0,U/L,1983-09-03 06:05:11.783,Female,16:36.6,Unknown,Divorced,Unknown,11.55
+D2907D3B-4712-4D57-A668-1FB1881EA506,4,03:35.2,46:16.1,1.0,METABOLIC: AST/SGOT,32.0,U/L,1983-09-03 06:05:11.783,Female,16:36.6,Unknown,Divorced,Unknown,11.55

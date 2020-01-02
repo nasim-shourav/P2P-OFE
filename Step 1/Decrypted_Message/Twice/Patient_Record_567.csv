@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+942F18B2-5840-4CDD-87FC-4EC3C4DE921B,1,04:05.6,17:42.6,1.0,CBC: MCH,35.9,pg,1992-08-12 18:09:18.643,Female,08:04.7,White,Single,English,12.35
+942F18B2-5840-4CDD-87FC-4EC3C4DE921B,2,49:48.6,54:36.7,1.0,CBC: MCH,35.9,pg,1992-08-12 18:09:18.643,Female,08:04.7,White,Single,English,12.35
+942F18B2-5840-4CDD-87FC-4EC3C4DE921B,3,43:14.2,09:25.2,1.0,CBC: MCH,35.9,pg,1992-08-12 18:09:18.643,Female,08:04.7,White,Single,English,12.35
+942F18B2-5840-4CDD-87FC-4EC3C4DE921B,4,50:42.1,41:34.1,1.0,CBC: MCH,35.9,pg,1992-08-12 18:09:18.643,Female,08:04.7,White,Single,English,12.35
+942F18B2-5840-4CDD-87FC-4EC3C4DE921B,5,10:27.4,38:22.9,1.0,CBC: MCH,35.9,pg,1992-08-12 18:09:18.643,Female,08:04.7,White,Single,English,12.35

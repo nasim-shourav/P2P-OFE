@@ -1,0 +1,7 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,1,41:09.8,58:33.5,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,2,07:38.6,38:59.6,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,3,19:37.3,16:05.5,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,4,08:57.6,54:16.6,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,5,33:04.0,15:35.9,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0
+C5EB6335-20D2-47F0-AD8F-B6FDB1922D39,6,28:13.0,01:53.9,1.0,CBC: BASOPHILS,0.2,k/cumm,1952-12-03 20:13:34.077,Female,03:28.7,Unknown,Married,English,19.0

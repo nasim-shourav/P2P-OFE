@@ -1,0 +1,7 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+15D579AE-F474-4937-9590-C2EA773DB6DC,1,59:45.3,57:37.0,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3
+15D579AE-F474-4937-9590-C2EA773DB6DC,2,08:33.0,01:42.1,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3
+15D579AE-F474-4937-9590-C2EA773DB6DC,3,18:47.4,33:48.3,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3
+15D579AE-F474-4937-9590-C2EA773DB6DC,4,41:43.1,38:27.6,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3
+15D579AE-F474-4937-9590-C2EA773DB6DC,5,09:43.0,03:36.1,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3
+15D579AE-F474-4937-9590-C2EA773DB6DC,6,47:05.2,22:56.8,1.0,CBC: LYMPHOCYTES,1.7,k/cumm,1961-10-07 11:20:13.617,Male,31:37.3,African American,Single,English,18.3

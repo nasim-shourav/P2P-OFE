@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3E357C34-6F13-49C7-A19E-BD516966A922,1,47:43.6,39:19.6,1.0,CBC: WHITE BLOOD CELL COUNT,11.1,k/cumm,2004-10-30 09:46:27.633,Female,50:59.7,African American,Single,Spanish,12.56
+3E357C34-6F13-49C7-A19E-BD516966A922,2,24:29.1,59:04.1,1.0,CBC: WHITE BLOOD CELL COUNT,11.1,k/cumm,2004-10-30 09:46:27.633,Female,50:59.7,African American,Single,Spanish,12.56

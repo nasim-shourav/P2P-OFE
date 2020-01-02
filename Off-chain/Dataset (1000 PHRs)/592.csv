@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+99A269B2-3071-49DE-932C-8E4B645DAFDF,1,12:06.5,36:34.4,1.0,URINALYSIS: PH,5.8,no unit,1979-09-21 02:17:06.347,Male,15:15.6,Asian,Widowed,English,6.12
+99A269B2-3071-49DE-932C-8E4B645DAFDF,2,04:07.5,47:13.7,1.0,URINALYSIS: PH,5.8,no unit,1979-09-21 02:17:06.347,Male,15:15.6,Asian,Widowed,English,6.12
+99A269B2-3071-49DE-932C-8E4B645DAFDF,3,11:02.6,44:52.6,1.0,URINALYSIS: PH,5.8,no unit,1979-09-21 02:17:06.347,Male,15:15.6,Asian,Widowed,English,6.12

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+F21C0F60-1FB5-4F94-B502-228A28FA1F68,1,29:43.8,18:28.4,1.0,URINALYSIS: WHITE BLOOD CELLS,4.0,wbc/hpf,1980-10-30 03:01:56.930,Male,49:34.3,White,Single,Spanish,12.96
+F21C0F60-1FB5-4F94-B502-228A28FA1F68,2,11:23.1,50:57.1,1.0,URINALYSIS: WHITE BLOOD CELLS,4.0,wbc/hpf,1980-10-30 03:01:56.930,Male,49:34.3,White,Single,Spanish,12.96
+F21C0F60-1FB5-4F94-B502-228A28FA1F68,3,22:24.3,44:10.4,1.0,URINALYSIS: WHITE BLOOD CELLS,4.0,wbc/hpf,1980-10-30 03:01:56.930,Male,49:34.3,White,Single,Spanish,12.96

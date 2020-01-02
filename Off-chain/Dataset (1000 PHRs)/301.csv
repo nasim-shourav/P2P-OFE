@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4AB77A9A-7AD1-46AD-8FD1-51F03896E4C8,1,50:51.2,22:12.8,1.0,METABOLIC: ALBUMIN,4.8,gm/dL,1990-12-03 18:46:48.483,Female,34:01.1,Unknown,Single,English,15.28
+4AB77A9A-7AD1-46AD-8FD1-51F03896E4C8,2,03:47.7,24:08.1,1.0,METABOLIC: ALBUMIN,4.8,gm/dL,1990-12-03 18:46:48.483,Female,34:01.1,Unknown,Single,English,15.28
+4AB77A9A-7AD1-46AD-8FD1-51F03896E4C8,3,29:17.7,00:43.7,1.0,METABOLIC: ALBUMIN,4.8,gm/dL,1990-12-03 18:46:48.483,Female,34:01.1,Unknown,Single,English,15.28
+4AB77A9A-7AD1-46AD-8FD1-51F03896E4C8,4,23:10.4,20:33.8,1.0,METABOLIC: ALBUMIN,4.8,gm/dL,1990-12-03 18:46:48.483,Female,34:01.1,Unknown,Single,English,15.28
+4AB77A9A-7AD1-46AD-8FD1-51F03896E4C8,5,57:35.2,55:18.2,1.0,METABOLIC: ALBUMIN,4.8,gm/dL,1990-12-03 18:46:48.483,Female,34:01.1,Unknown,Single,English,15.28

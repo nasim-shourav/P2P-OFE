@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+442CE2D5-C066-4843-9C91-26F86F133881,1,52:35.3,27:44.1,1.0,METABOLIC: BUN,28.9,mg/dL,2011-08-14 10:25:29.453,Male,17:14.0,Asian,Married,English,16.98

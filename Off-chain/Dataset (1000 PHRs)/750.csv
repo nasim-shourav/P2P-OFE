@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+C7B355A6-C565-49E6-AAFE-2B631B0FCE09,1,02:17.4,21:21.2,1.0,METABOLIC: AST/SGOT,16.5,U/L,1997-03-17 07:56:10.080,Female,22:31.3,African American,Divorced,English,11.14
+C7B355A6-C565-49E6-AAFE-2B631B0FCE09,2,59:28.2,34:44.2,1.0,METABOLIC: AST/SGOT,16.5,U/L,1997-03-17 07:56:10.080,Female,22:31.3,African American,Divorced,English,11.14

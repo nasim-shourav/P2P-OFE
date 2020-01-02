@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+A0423228-9026-4C39-A424-3DEF1CC4DF96,1,04:24.1,05:02.8,1.0,METABOLIC: GLUCOSE,106.1,mg/dL,1968-04-30 11:33:41.113,Male,30:41.4,White,Married,Spanish,11.28
+A0423228-9026-4C39-A424-3DEF1CC4DF96,2,12:36.5,37:21.4,1.0,METABOLIC: GLUCOSE,106.1,mg/dL,1968-04-30 11:33:41.113,Male,30:41.4,White,Married,Spanish,11.28
+A0423228-9026-4C39-A424-3DEF1CC4DF96,3,58:17.2,13:20.5,1.0,METABOLIC: GLUCOSE,106.1,mg/dL,1968-04-30 11:33:41.113,Male,30:41.4,White,Married,Spanish,11.28
+A0423228-9026-4C39-A424-3DEF1CC4DF96,4,07:40.2,01:46.7,1.0,METABOLIC: GLUCOSE,106.1,mg/dL,1968-04-30 11:33:41.113,Male,30:41.4,White,Married,Spanish,11.28

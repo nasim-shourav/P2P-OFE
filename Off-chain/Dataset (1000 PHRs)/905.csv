@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E8358A74-FFA2-48C8-AB18-F4680E55CC03,1,24:19.5,20:18.1,1.0,CBC: ABSOLUTE NEUTROPHILS,79.1,%,1960-01-14 06:00:55.560,Female,48:11.2,Unknown,Single,English,14.49
+E8358A74-FFA2-48C8-AB18-F4680E55CC03,2,02:56.6,48:37.6,1.0,CBC: ABSOLUTE NEUTROPHILS,79.1,%,1960-01-14 06:00:55.560,Female,48:11.2,Unknown,Single,English,14.49
+E8358A74-FFA2-48C8-AB18-F4680E55CC03,3,45:04.6,39:34.3,1.0,CBC: ABSOLUTE NEUTROPHILS,79.1,%,1960-01-14 06:00:55.560,Female,48:11.2,Unknown,Single,English,14.49

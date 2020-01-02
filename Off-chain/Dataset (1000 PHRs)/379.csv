@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+60564FCF-5E17-4AC7-8E53-72EB7B0A58A8,1,27:25.0,42:33.0,1.0,METABOLIC: BUN,25.2,mg/dL,2004-01-29 11:02:05.167,Female,39:47.8,Unknown,Married,English,16.32
+60564FCF-5E17-4AC7-8E53-72EB7B0A58A8,2,24:06.0,45:31.4,1.0,METABOLIC: BUN,25.2,mg/dL,2004-01-29 11:02:05.167,Female,39:47.8,Unknown,Married,English,16.32

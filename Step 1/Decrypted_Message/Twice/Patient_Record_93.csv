@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+18359EA8-D7D1-4746-BA5A-ACD95495718D,1,48:56.8,27:59.2,1.0,METABOLIC: SODIUM,140.1,mmol/L,2009-04-06 20:43:55.363,Male,57:17.1,African American,Divorced,English,13.61

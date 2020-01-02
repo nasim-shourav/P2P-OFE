@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+801AFB51-036F-40E3-BDFE-FED4844BE275,1,51:20.8,50:27.3,1.0,CBC: ABSOLUTE LYMPHOCYTES,35.0,%,1986-04-11 13:30:16.493,Male,15:43.0,White,Unknown,English,13.23
+801AFB51-036F-40E3-BDFE-FED4844BE275,2,45:23.7,51:04.3,1.0,CBC: ABSOLUTE LYMPHOCYTES,35.0,%,1986-04-11 13:30:16.493,Male,15:43.0,White,Unknown,English,13.23
+801AFB51-036F-40E3-BDFE-FED4844BE275,3,54:49.5,59:48.4,1.0,CBC: ABSOLUTE LYMPHOCYTES,35.0,%,1986-04-11 13:30:16.493,Male,15:43.0,White,Unknown,English,13.23

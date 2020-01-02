@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+ECA5CC78-578A-41A4-8B6E-29FF40D7047F,1,51:55.6,13:14.2,1.0,CBC: HEMOGLOBIN,16.5,gm/dl,1955-11-18 18:48:08.010,Female,38:52.8,White,Divorced,English,12.35
+ECA5CC78-578A-41A4-8B6E-29FF40D7047F,2,02:35.7,22:30.7,1.0,CBC: HEMOGLOBIN,16.5,gm/dl,1955-11-18 18:48:08.010,Female,38:52.8,White,Divorced,English,12.35
+ECA5CC78-578A-41A4-8B6E-29FF40D7047F,3,11:30.8,08:52.4,1.0,CBC: HEMOGLOBIN,16.5,gm/dl,1955-11-18 18:48:08.010,Female,38:52.8,White,Divorced,English,12.35

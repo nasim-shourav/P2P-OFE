@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E4468B4F-D2A6-4A0C-B586-BA2BD062160C,1,25:46.7,04:04.2,1.0,CBC: HEMOGLOBIN,18.0,gm/dl,1957-08-12 11:25:02.023,Female,00:05.8,Asian,Separated,English,11.38
+E4468B4F-D2A6-4A0C-B586-BA2BD062160C,2,46:08.9,30:39.7,1.0,CBC: HEMOGLOBIN,18.0,gm/dl,1957-08-12 11:25:02.023,Female,00:05.8,Asian,Separated,English,11.38
+E4468B4F-D2A6-4A0C-B586-BA2BD062160C,3,57:12.5,07:39.8,1.0,CBC: HEMOGLOBIN,18.0,gm/dl,1957-08-12 11:25:02.023,Female,00:05.8,Asian,Separated,English,11.38
+E4468B4F-D2A6-4A0C-B586-BA2BD062160C,4,00:00.8,32:57.3,1.0,CBC: HEMOGLOBIN,18.0,gm/dl,1957-08-12 11:25:02.023,Female,00:05.8,Asian,Separated,English,11.38
+E4468B4F-D2A6-4A0C-B586-BA2BD062160C,5,35:45.6,52:57.7,1.0,CBC: HEMOGLOBIN,18.0,gm/dl,1957-08-12 11:25:02.023,Female,00:05.8,Asian,Separated,English,11.38

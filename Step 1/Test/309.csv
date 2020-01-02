@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+4DAE9819-2E0F-4A73-AB03-E807936F064C,1,33:04.6,39:13.5,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1978-11-21 19:08:36.787,Female,46:22.8,African American,Unknown,English,2.78
+4DAE9819-2E0F-4A73-AB03-E807936F064C,2,03:04.2,16:06.6,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1978-11-21 19:08:36.787,Female,46:22.8,African American,Unknown,English,2.78
+4DAE9819-2E0F-4A73-AB03-E807936F064C,3,24:27.8,41:29.2,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1978-11-21 19:08:36.787,Female,46:22.8,African American,Unknown,English,2.78
+4DAE9819-2E0F-4A73-AB03-E807936F064C,4,07:01.7,26:52.7,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1978-11-21 19:08:36.787,Female,46:22.8,African American,Unknown,English,2.78
+4DAE9819-2E0F-4A73-AB03-E807936F064C,5,43:15.4,32:25.1,1.0,METABOLIC: BILI TOTAL,0.8,mg/dL,1978-11-21 19:08:36.787,Female,46:22.8,African American,Unknown,English,2.78

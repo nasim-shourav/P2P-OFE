@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+350915BD-04B7-4457-83FC-33BE8BEEBC90,1,34:04.1,36:19.8,1.0,METABOLIC: CARBON DIOXIDE,28.8,mmol/L,1989-08-12 03:10:30.217,Male,13:49.2,Asian,Single,English,11.47
+350915BD-04B7-4457-83FC-33BE8BEEBC90,2,29:24.3,07:24.1,1.0,METABOLIC: CARBON DIOXIDE,28.8,mmol/L,1989-08-12 03:10:30.217,Male,13:49.2,Asian,Single,English,11.47
+350915BD-04B7-4457-83FC-33BE8BEEBC90,3,47:31.6,29:04.1,1.0,METABOLIC: CARBON DIOXIDE,28.8,mmol/L,1989-08-12 03:10:30.217,Male,13:49.2,Asian,Single,English,11.47

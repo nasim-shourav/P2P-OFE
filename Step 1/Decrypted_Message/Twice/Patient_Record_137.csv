@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+22C84ADA-F327-4A0D-AD36-06A09A4C4DF5,1,32:35.1,32:34.7,1.0,URINALYSIS: WHITE BLOOD CELLS,2.6,wbc/hpf,2007-11-02 15:54:25.467,Male,33:44.3,Asian,Separated,Spanish,89.23
+22C84ADA-F327-4A0D-AD36-06A09A4C4DF5,2,50:48.1,58:09.9,1.0,URINALYSIS: WHITE BLOOD CELLS,2.6,wbc/hpf,2007-11-02 15:54:25.467,Male,33:44.3,Asian,Separated,Spanish,89.23

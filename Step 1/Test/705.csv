@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B8F6D7B8-51F1-4AE2-B143-5A624FEE4B28,1,59:19.7,42:43.6,1.0,CBC: RDW,16.3,%,2006-03-28 10:42:09.333,Female,57:48.8,White,Single,English,15.25
+B8F6D7B8-51F1-4AE2-B143-5A624FEE4B28,2,24:40.2,45:52.9,1.0,CBC: RDW,16.3,%,2006-03-28 10:42:09.333,Female,57:48.8,White,Single,English,15.25
+B8F6D7B8-51F1-4AE2-B143-5A624FEE4B28,3,41:11.8,22:22.6,1.0,CBC: RDW,16.3,%,2006-03-28 10:42:09.333,Female,57:48.8,White,Single,English,15.25
+B8F6D7B8-51F1-4AE2-B143-5A624FEE4B28,4,42:35.2,23:48.3,1.0,CBC: RDW,16.3,%,2006-03-28 10:42:09.333,Female,57:48.8,White,Single,English,15.25

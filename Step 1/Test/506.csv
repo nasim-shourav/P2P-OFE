@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+831967B3-6C0F-49E1-BA54-84B7F3077403,1,07:29.0,49:47.9,1.0,CBC: MEAN CORPUSCULAR VOLUME,75.5,fl,2014-04-28 21:48:51.730,Male,53:07.9,Asian,Married,English,2.12

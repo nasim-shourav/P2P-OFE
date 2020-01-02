@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8C4FE0E5-D80E-46D1-8958-48F0B0CC0EDF,1,03:35.1,14:01.8,1.0,METABOLIC: ALK PHOS,45.1,U/L,1989-11-26 20:31:59.460,Female,38:00.1,Asian,Married,English,11.72
+8C4FE0E5-D80E-46D1-8958-48F0B0CC0EDF,2,00:36.3,22:48.5,1.0,METABOLIC: ALK PHOS,45.1,U/L,1989-11-26 20:31:59.460,Female,38:00.1,Asian,Married,English,11.72
+8C4FE0E5-D80E-46D1-8958-48F0B0CC0EDF,3,06:53.5,47:43.5,1.0,METABOLIC: ALK PHOS,45.1,U/L,1989-11-26 20:31:59.460,Female,38:00.1,Asian,Married,English,11.72
+8C4FE0E5-D80E-46D1-8958-48F0B0CC0EDF,4,24:42.6,03:42.0,1.0,METABOLIC: ALK PHOS,45.1,U/L,1989-11-26 20:31:59.460,Female,38:00.1,Asian,Married,English,11.72

@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+48303B0B-3B32-40F9-8FE4-79CE1A8EE826,1,26:31.7,32:44.0,1.0,CBC: LYMPHOCYTES,3.4,k/cumm,2009-12-06 17:17:58.707,Male,43:09.2,White,Single,Icelandic,19.42

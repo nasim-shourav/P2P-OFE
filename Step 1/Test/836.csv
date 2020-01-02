@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D89109F9-58C2-43F3-A3C4-56F40087F858,1,01:39.3,35:37.8,1.0,CBC: HEMATOCRIT,40.8,%,1964-09-26 14:24:58.610,Female,27:02.4,Asian,Separated,Unknown,15.55
+D89109F9-58C2-43F3-A3C4-56F40087F858,2,18:55.9,10:53.5,1.0,CBC: HEMATOCRIT,40.8,%,1964-09-26 14:24:58.610,Female,27:02.4,Asian,Separated,Unknown,15.55
+D89109F9-58C2-43F3-A3C4-56F40087F858,3,53:44.5,52:15.6,1.0,CBC: HEMATOCRIT,40.8,%,1964-09-26 14:24:58.610,Female,27:02.4,Asian,Separated,Unknown,15.55
+D89109F9-58C2-43F3-A3C4-56F40087F858,4,47:03.5,05:55.4,1.0,CBC: HEMATOCRIT,40.8,%,1964-09-26 14:24:58.610,Female,27:02.4,Asian,Separated,Unknown,15.55

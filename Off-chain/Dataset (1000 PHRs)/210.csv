@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+334DA9C5-E5BC-4D1B-B5B4-10481B446F17,1,22:45.1,05:54.9,1.0,METABOLIC: ALK PHOS,137.1,U/L,2008-02-18 19:39:39.260,Female,53:23.6,African American,Divorced,English,92.67

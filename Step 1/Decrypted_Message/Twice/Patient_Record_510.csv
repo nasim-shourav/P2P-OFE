@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8445C8F6-BA6D-46F6-BC84-BD6BBE6C0808,1,10:58.3,48:53.0,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1989-09-29 03:03:32.993,Male,10:24.5,African American,Single,Unknown,82.05
+8445C8F6-BA6D-46F6-BC84-BD6BBE6C0808,2,31:39.1,40:04.6,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1989-09-29 03:03:32.993,Male,10:24.5,African American,Single,Unknown,82.05
+8445C8F6-BA6D-46F6-BC84-BD6BBE6C0808,3,18:20.4,14:20.6,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1989-09-29 03:03:32.993,Male,10:24.5,African American,Single,Unknown,82.05
+8445C8F6-BA6D-46F6-BC84-BD6BBE6C0808,4,00:24.2,13:49.2,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1989-09-29 03:03:32.993,Male,10:24.5,African American,Single,Unknown,82.05
+8445C8F6-BA6D-46F6-BC84-BD6BBE6C0808,5,47:52.8,26:59.2,1.0,METABOLIC: CARBON DIOXIDE,27.8,mmol/L,1989-09-29 03:03:32.993,Male,10:24.5,African American,Single,Unknown,82.05

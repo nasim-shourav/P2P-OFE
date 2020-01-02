@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+58BF1BD0-D88E-4B15-A0C8-CB85617636B6,1,11:07.2,09:25.1,1.0,CBC: RDW,10.6,%,2011-01-12 13:28:49.117,Male,48:46.9,White,Married,English,13.86

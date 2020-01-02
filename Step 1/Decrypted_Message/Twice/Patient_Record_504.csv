@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+82DA0344-A92A-466A-873E-AF5EB1DFE407,1,10:44.6,16:50.3,1.0,CBC: MEAN CORPUSCULAR VOLUME,94.1,fl,1976-06-07 20:07:50.913,Female,44:32.3,Asian,Divorced,Spanish,8.25
+82DA0344-A92A-466A-873E-AF5EB1DFE407,2,45:33.4,48:02.8,1.0,CBC: MEAN CORPUSCULAR VOLUME,94.1,fl,1976-06-07 20:07:50.913,Female,44:32.3,Asian,Divorced,Spanish,8.25
+82DA0344-A92A-466A-873E-AF5EB1DFE407,3,11:04.3,56:09.8,1.0,CBC: MEAN CORPUSCULAR VOLUME,94.1,fl,1976-06-07 20:07:50.913,Female,44:32.3,Asian,Divorced,Spanish,8.25

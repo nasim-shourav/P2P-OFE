@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+82302D3A-D763-4930-8DDD-98B84124E7FD,1,20:53.6,55:30.0,1.0,METABOLIC: ANION GAP,16.7,mmol/L,1987-03-05 15:18:42.240,Female,01:16.4,Unknown,Separated,English,14.38
+82302D3A-D763-4930-8DDD-98B84124E7FD,2,21:02.6,39:55.9,1.0,METABOLIC: ANION GAP,16.7,mmol/L,1987-03-05 15:18:42.240,Female,01:16.4,Unknown,Separated,English,14.38
+82302D3A-D763-4930-8DDD-98B84124E7FD,3,50:44.8,47:13.9,1.0,METABOLIC: ANION GAP,16.7,mmol/L,1987-03-05 15:18:42.240,Female,01:16.4,Unknown,Separated,English,14.38

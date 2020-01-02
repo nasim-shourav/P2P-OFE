@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D2122C86-4CAA-4E0E-9164-C0F10CAE8D79,1,47:28.9,59:59.8,1.0,CBC: MCH,39.1,pg,1992-06-10 06:30:09.100,Female,01:38.0,White,Married,English,14.08
+D2122C86-4CAA-4E0E-9164-C0F10CAE8D79,2,35:12.5,56:30.7,1.0,CBC: MCH,39.1,pg,1992-06-10 06:30:09.100,Female,01:38.0,White,Married,English,14.08
+D2122C86-4CAA-4E0E-9164-C0F10CAE8D79,3,24:43.2,41:11.0,1.0,CBC: MCH,39.1,pg,1992-06-10 06:30:09.100,Female,01:38.0,White,Married,English,14.08
+D2122C86-4CAA-4E0E-9164-C0F10CAE8D79,4,33:49.2,31:26.0,1.0,CBC: MCH,39.1,pg,1992-06-10 06:30:09.100,Female,01:38.0,White,Married,English,14.08
+D2122C86-4CAA-4E0E-9164-C0F10CAE8D79,5,55:50.5,07:15.4,1.0,CBC: MCH,39.1,pg,1992-06-10 06:30:09.100,Female,01:38.0,White,Married,English,14.08

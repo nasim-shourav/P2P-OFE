@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+59452882-98C9-478F-9662-D6F145D85254,1,27:13.6,54:16.5,1.0,CBC: BASOPHILS,0.0,k/cumm,2000-11-19 17:45:30.423,Female,00:41.6,White,Married,English,19.07
+59452882-98C9-478F-9662-D6F145D85254,2,10:54.8,22:52.6,1.0,CBC: BASOPHILS,0.0,k/cumm,2000-11-19 17:45:30.423,Female,00:41.6,White,Married,English,19.07
+59452882-98C9-478F-9662-D6F145D85254,3,28:08.2,22:56.4,1.0,CBC: BASOPHILS,0.0,k/cumm,2000-11-19 17:45:30.423,Female,00:41.6,White,Married,English,19.07

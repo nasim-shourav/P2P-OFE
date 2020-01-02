@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+54F2D70A-24E9-4A91-AD89-A59FE9EF6311,1,26:22.1,49:55.2,1.0,CBC: MCH,28.1,pg,2000-01-06 07:06:34.963,Male,10:23.2,White,Single,English,5.38
+54F2D70A-24E9-4A91-AD89-A59FE9EF6311,2,09:02.7,52:14.4,1.0,CBC: MCH,28.1,pg,2000-01-06 07:06:34.963,Male,10:23.2,White,Single,English,5.38
+54F2D70A-24E9-4A91-AD89-A59FE9EF6311,3,31:27.2,01:56.4,1.0,CBC: MCH,28.1,pg,2000-01-06 07:06:34.963,Male,10:23.2,White,Single,English,5.38
+54F2D70A-24E9-4A91-AD89-A59FE9EF6311,4,43:29.5,27:01.4,1.0,CBC: MCH,28.1,pg,2000-01-06 07:06:34.963,Male,10:23.2,White,Single,English,5.38

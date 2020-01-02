@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+60095878-5106-44DA-B88C-9C91FC16635A,1,14:45.0,57:36.7,1.0,CBC: LYMPHOCYTES,4.1,k/cumm,1962-01-04 22:08:52.040,Female,11:33.9,Asian,Married,Spanish,13.08
+60095878-5106-44DA-B88C-9C91FC16635A,2,49:03.6,01:31.2,1.0,CBC: LYMPHOCYTES,4.1,k/cumm,1962-01-04 22:08:52.040,Female,11:33.9,Asian,Married,Spanish,13.08
+60095878-5106-44DA-B88C-9C91FC16635A,3,44:33.9,08:08.2,1.0,CBC: LYMPHOCYTES,4.1,k/cumm,1962-01-04 22:08:52.040,Female,11:33.9,Asian,Married,Spanish,13.08

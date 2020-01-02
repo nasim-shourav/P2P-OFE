@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+F7DFF11F-CE91-4E6B-ADCA-D12E6890F95A,1,46:03.1,31:51.1,1.0,CBC: MONOCYTES,1.2,k/cumm,2012-06-01 04:57:55.527,Male,21:29.8,Asian,Married,English,19.24

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+810BEEE1-AD7C-4990-BEAB-77F02A835130,1,15:22.2,46:00.1,1.0,CBC: RDW,16.1,%,1960-08-06 16:18:16.307,Female,12:54.4,White,Married,Icelandic,85.3
+810BEEE1-AD7C-4990-BEAB-77F02A835130,2,10:26.0,56:58.6,1.0,CBC: RDW,16.1,%,1960-08-06 16:18:16.307,Female,12:54.4,White,Married,Icelandic,85.3
+810BEEE1-AD7C-4990-BEAB-77F02A835130,3,19:36.1,09:49.5,1.0,CBC: RDW,16.1,%,1960-08-06 16:18:16.307,Female,12:54.4,White,Married,Icelandic,85.3

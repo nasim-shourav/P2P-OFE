@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+15836AA4-E0AD-4671-87CE-48667AC3436D,1,32:14.2,36:33.6,1.0,METABOLIC: GLUCOSE,89.4,mg/dL,1971-09-15 13:03:12.093,Female,09:13.3,Unknown,Married,Spanish,15.87
+15836AA4-E0AD-4671-87CE-48667AC3436D,2,08:39.1,49:36.5,1.0,METABOLIC: GLUCOSE,89.4,mg/dL,1971-09-15 13:03:12.093,Female,09:13.3,Unknown,Married,Spanish,15.87
+15836AA4-E0AD-4671-87CE-48667AC3436D,3,24:59.8,32:52.4,1.0,METABOLIC: GLUCOSE,89.4,mg/dL,1971-09-15 13:03:12.093,Female,09:13.3,Unknown,Married,Spanish,15.87
+15836AA4-E0AD-4671-87CE-48667AC3436D,4,11:13.3,13:50.4,1.0,METABOLIC: GLUCOSE,89.4,mg/dL,1971-09-15 13:03:12.093,Female,09:13.3,Unknown,Married,Spanish,15.87

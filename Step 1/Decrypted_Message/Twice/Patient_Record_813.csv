@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D3C322D0-4B60-4A00-A851-4A8DFE7E93D1,1,47:40.6,24:09.3,1.0,METABOLIC: CALCIUM,9.8,mg/dL,2002-11-09 22:27:00.767,Male,29:07.0,White,Married,English,16.72
+D3C322D0-4B60-4A00-A851-4A8DFE7E93D1,2,12:42.2,43:08.8,1.0,METABOLIC: CALCIUM,9.8,mg/dL,2002-11-09 22:27:00.767,Male,29:07.0,White,Married,English,16.72
+D3C322D0-4B60-4A00-A851-4A8DFE7E93D1,3,21:22.8,51:29.6,1.0,METABOLIC: CALCIUM,9.8,mg/dL,2002-11-09 22:27:00.767,Male,29:07.0,White,Married,English,16.72

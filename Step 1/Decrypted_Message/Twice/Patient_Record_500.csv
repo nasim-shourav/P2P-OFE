@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+82065BE1-6E88-4CD0-AF3A-C251DE65B435,1,12:56.2,03:49.3,1.0,CBC: LYMPHOCYTES,3.0,k/cumm,2010-07-05 14:22:54.917,Female,47:20.3,Asian,Married,English,19.43

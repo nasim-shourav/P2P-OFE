@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+D91B72D8-B548-485F-B497-796075C5C09F,1,47:58.8,00:28.6,1.0,CBC: MCHC,30.3,g/dl,1995-10-29 13:12:49.867,Female,39:28.8,African American,Unknown,English,10.48
+D91B72D8-B548-485F-B497-796075C5C09F,2,45:49.2,00:12.5,1.0,CBC: MCHC,30.3,g/dl,1995-10-29 13:12:49.867,Female,39:28.8,African American,Unknown,English,10.48

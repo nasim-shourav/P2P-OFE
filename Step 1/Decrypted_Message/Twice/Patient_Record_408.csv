@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+65BC0698-1F17-4D87-9755-5F468331B351,1,20:54.1,11:19.3,1.0,METABOLIC: ALT/SGPT,22.3,U/L,1972-02-28 23:45:58.453,Male,40:38.2,White,Divorced,Spanish,84.55
+65BC0698-1F17-4D87-9755-5F468331B351,2,15:55.9,42:11.0,1.0,METABOLIC: ALT/SGPT,22.3,U/L,1972-02-28 23:45:58.453,Male,40:38.2,White,Divorced,Spanish,84.55
+65BC0698-1F17-4D87-9755-5F468331B351,3,23:59.6,32:01.5,1.0,METABOLIC: ALT/SGPT,22.3,U/L,1972-02-28 23:45:58.453,Male,40:38.2,White,Divorced,Spanish,84.55

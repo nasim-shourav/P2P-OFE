@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E25AB9BD-29AF-423A-B68B-646DB6EC8502,1,00:53.6,34:53.0,1.0,METABOLIC: ANION GAP,11.9,mmol/L,1952-04-08 17:24:29.163,Female,01:09.3,African American,Married,Icelandic,15.05
+E25AB9BD-29AF-423A-B68B-646DB6EC8502,2,43:27.0,48:38.3,1.0,METABOLIC: ANION GAP,11.9,mmol/L,1952-04-08 17:24:29.163,Female,01:09.3,African American,Married,Icelandic,15.05
+E25AB9BD-29AF-423A-B68B-646DB6EC8502,3,29:27.3,02:18.9,1.0,METABOLIC: ANION GAP,11.9,mmol/L,1952-04-08 17:24:29.163,Female,01:09.3,African American,Married,Icelandic,15.05
+E25AB9BD-29AF-423A-B68B-646DB6EC8502,4,17:54.1,47:43.0,1.0,METABOLIC: ANION GAP,11.9,mmol/L,1952-04-08 17:24:29.163,Female,01:09.3,African American,Married,Icelandic,15.05

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+204AAA65-331C-4C77-9C4D-535F215ABDDC,1,39:48.7,00:42.2,1.0,METABOLIC: POTASSIUM,4.2,mmol/L,1983-05-16 14:26:38.773,Male,32:13.6,African American,Married,Spanish,11.38
+204AAA65-331C-4C77-9C4D-535F215ABDDC,2,46:34.9,30:47.9,1.0,METABOLIC: POTASSIUM,4.2,mmol/L,1983-05-16 14:26:38.773,Male,32:13.6,African American,Married,Spanish,11.38
+204AAA65-331C-4C77-9C4D-535F215ABDDC,3,12:48.7,18:49.6,1.0,METABOLIC: POTASSIUM,4.2,mmol/L,1983-05-16 14:26:38.773,Male,32:13.6,African American,Married,Spanish,11.38

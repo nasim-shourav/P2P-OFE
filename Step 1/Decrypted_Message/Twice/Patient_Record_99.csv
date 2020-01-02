@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1A56CA37-002D-4AFC-9932-44452BFAB905,1,29:40.4,55:40.4,1.0,CBC: HEMOGLOBIN,10.4,gm/dl,1983-01-24 18:13:10.710,Female,37:54.6,African American,Single,Icelandic,14.88
+1A56CA37-002D-4AFC-9932-44452BFAB905,2,10:59.9,29:13.3,1.0,CBC: HEMOGLOBIN,10.4,gm/dl,1983-01-24 18:13:10.710,Female,37:54.6,African American,Single,Icelandic,14.88
+1A56CA37-002D-4AFC-9932-44452BFAB905,3,00:22.5,05:07.9,1.0,CBC: HEMOGLOBIN,10.4,gm/dl,1983-01-24 18:13:10.710,Female,37:54.6,African American,Single,Icelandic,14.88
+1A56CA37-002D-4AFC-9932-44452BFAB905,4,10:07.8,08:46.1,1.0,CBC: HEMOGLOBIN,10.4,gm/dl,1983-01-24 18:13:10.710,Female,37:54.6,African American,Single,Icelandic,14.88

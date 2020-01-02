@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1AE713B8-48BE-4173-A422-B7804B8DC39A,1,04:26.6,44:07.7,1.0,CBC: PLATELET COUNT,204.3,k/cumm,1965-04-19 10:02:50.490,Male,23:44.1,Unknown,Single,English,80.31
+1AE713B8-48BE-4173-A422-B7804B8DC39A,2,00:08.3,33:41.9,1.0,CBC: PLATELET COUNT,204.3,k/cumm,1965-04-19 10:02:50.490,Male,23:44.1,Unknown,Single,English,80.31

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+8B9400E5-067D-4751-BEAA-190C0592CD13,1,38:53.6,05:03.0,1.0,URINALYSIS: PH,5.3,no unit,1971-08-14 08:20:40.217,Female,12:19.3,White,Single,Spanish,15.07
+8B9400E5-067D-4751-BEAA-190C0592CD13,2,48:47.8,54:14.1,1.0,URINALYSIS: PH,5.3,no unit,1971-08-14 08:20:40.217,Female,12:19.3,White,Single,Spanish,15.07
+8B9400E5-067D-4751-BEAA-190C0592CD13,3,00:58.3,52:17.8,1.0,URINALYSIS: PH,5.3,no unit,1971-08-14 08:20:40.217,Female,12:19.3,White,Single,Spanish,15.07

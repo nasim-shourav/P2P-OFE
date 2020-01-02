@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+9922C457-8B13-48E7-8C8A-C423FEBAB865,1,04:40.6,06:16.8,1.0,CBC: MCH,26.8,pg,1994-09-23 15:20:20.727,Female,37:59.0,Asian,Single,English,19.36
+9922C457-8B13-48E7-8C8A-C423FEBAB865,2,57:20.9,42:41.0,1.0,CBC: MCH,26.8,pg,1994-09-23 15:20:20.727,Female,37:59.0,Asian,Single,English,19.36
+9922C457-8B13-48E7-8C8A-C423FEBAB865,3,08:21.0,10:16.8,1.0,CBC: MCH,26.8,pg,1994-09-23 15:20:20.727,Female,37:59.0,Asian,Single,English,19.36

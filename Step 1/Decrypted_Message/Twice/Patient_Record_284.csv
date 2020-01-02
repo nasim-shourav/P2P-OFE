@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+470BB01D-8B5E-4F13-AD68-4C570E1AB287,1,14:39.6,33:16.9,1.0,CBC: ABSOLUTE NEUTROPHILS,74.7,%,1989-02-19 10:03:19.673,Male,07:18.5,White,Married,Spanish,13.78
+470BB01D-8B5E-4F13-AD68-4C570E1AB287,2,38:00.8,09:13.2,1.0,CBC: ABSOLUTE NEUTROPHILS,74.7,%,1989-02-19 10:03:19.673,Male,07:18.5,White,Married,Spanish,13.78

@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B91C0F2A-827E-4457-8788-B2505BC65157,1,53:29.8,08:24.4,1.0,CBC: MCH,28.7,pg,1991-04-23 22:45:49.697,Male,30:45.3,White,Single,English,11.11
+B91C0F2A-827E-4457-8788-B2505BC65157,2,43:34.8,39:40.6,1.0,CBC: MCH,28.7,pg,1991-04-23 22:45:49.697,Male,30:45.3,White,Single,English,11.11
+B91C0F2A-827E-4457-8788-B2505BC65157,3,10:29.4,49:26.4,1.0,CBC: MCH,28.7,pg,1991-04-23 22:45:49.697,Male,30:45.3,White,Single,English,11.11

@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+0D54F59E-AA48-40BC-BC7F-42160616E300,1,08:46.4,15:52.2,1.0,CBC: MCHC,29.7,g/dl,2008-08-15 09:21:24.543,Male,18:50.8,White,Single,English,14.06

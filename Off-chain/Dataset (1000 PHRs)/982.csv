@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+FC2A6DD3-2D85-4335-AB62-E4E520D2ACA1,1,47:10.2,29:50.5,1.0,METABOLIC: CARBON DIOXIDE,24.1,mmol/L,2010-03-03 05:50:20.733,Female,02:50.9,White,Married,English,8.17

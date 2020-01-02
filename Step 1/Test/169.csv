@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+291CF891-6039-4DE9-9DE0-90BB40375B56,1,11:04.8,17:31.2,1.0,URINALYSIS: RED BLOOD CELLS,0.4,rbc/hpf,1944-09-21 10:00:38.803,Female,39:22.5,White,Married,English,12.81
+291CF891-6039-4DE9-9DE0-90BB40375B56,2,43:13.1,38:17.0,1.0,URINALYSIS: RED BLOOD CELLS,0.4,rbc/hpf,1944-09-21 10:00:38.803,Female,39:22.5,White,Married,English,12.81
+291CF891-6039-4DE9-9DE0-90BB40375B56,3,15:36.7,16:04.9,1.0,URINALYSIS: RED BLOOD CELLS,0.4,rbc/hpf,1944-09-21 10:00:38.803,Female,39:22.5,White,Married,English,12.81
+291CF891-6039-4DE9-9DE0-90BB40375B56,4,27:41.2,56:51.5,1.0,URINALYSIS: RED BLOOD CELLS,0.4,rbc/hpf,1944-09-21 10:00:38.803,Female,39:22.5,White,Married,English,12.81

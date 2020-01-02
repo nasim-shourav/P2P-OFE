@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+6586221F-8302-41D8-9E80-AE29F4B4A602,1,51:09.0,34:18.8,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1977-04-18 01:08:52.847,Female,56:57.5,White,Single,Icelandic,14.19
+6586221F-8302-41D8-9E80-AE29F4B4A602,2,23:34.7,07:10.1,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1977-04-18 01:08:52.847,Female,56:57.5,White,Single,Icelandic,14.19
+6586221F-8302-41D8-9E80-AE29F4B4A602,3,36:42.7,20:11.1,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1977-04-18 01:08:52.847,Female,56:57.5,White,Single,Icelandic,14.19
+6586221F-8302-41D8-9E80-AE29F4B4A602,4,45:15.8,59:44.9,1.0,CBC: EOSINOPHILS,0.4,k/cumm,1977-04-18 01:08:52.847,Female,56:57.5,White,Single,Icelandic,14.19

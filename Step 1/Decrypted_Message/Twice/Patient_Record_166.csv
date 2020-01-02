@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+28BC802E-18CA-4885-AEEE-73C1A7BC29B9,1,25:03.4,48:36.6,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1999-03-30 04:15:24.567,Female,13:26.0,White,Married,Spanish,16.83
+28BC802E-18CA-4885-AEEE-73C1A7BC29B9,2,29:49.2,20:18.5,1.0,METABOLIC: BILI TOTAL,0.4,mg/dL,1999-03-30 04:15:24.567,Female,13:26.0,White,Married,Spanish,16.83

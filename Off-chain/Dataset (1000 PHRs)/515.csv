@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+85A82C05-CF63-46D1-B008-965FCEFDC996,1,16:58.5,26:19.6,1.0,CBC: RDW,12.4,%,1973-03-12 07:36:43.463,Male,14:07.6,Asian,Unknown,Spanish,19.05
+85A82C05-CF63-46D1-B008-965FCEFDC996,2,46:27.1,06:14.4,1.0,CBC: RDW,12.4,%,1973-03-12 07:36:43.463,Male,14:07.6,Asian,Unknown,Spanish,19.05
+85A82C05-CF63-46D1-B008-965FCEFDC996,3,13:05.7,13:06.3,1.0,CBC: RDW,12.4,%,1973-03-12 07:36:43.463,Male,14:07.6,Asian,Unknown,Spanish,19.05
+85A82C05-CF63-46D1-B008-965FCEFDC996,4,31:36.1,26:47.0,1.0,CBC: RDW,12.4,%,1973-03-12 07:36:43.463,Male,14:07.6,Asian,Unknown,Spanish,19.05

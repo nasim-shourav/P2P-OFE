@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+1CBBA912-3A30-4718-9674-7BD765940972,1,36:55.9,01:05.0,1.0,CBC: WHITE BLOOD CELL COUNT,4.6,k/cumm,2001-10-01 21:25:57.267,Male,06:13.2,Asian,Divorced,English,16.33
+1CBBA912-3A30-4718-9674-7BD765940972,2,16:37.0,23:37.6,1.0,CBC: WHITE BLOOD CELL COUNT,4.6,k/cumm,2001-10-01 21:25:57.267,Male,06:13.2,Asian,Divorced,English,16.33
+1CBBA912-3A30-4718-9674-7BD765940972,3,13:49.5,56:15.1,1.0,CBC: WHITE BLOOD CELL COUNT,4.6,k/cumm,2001-10-01 21:25:57.267,Male,06:13.2,Asian,Divorced,English,16.33

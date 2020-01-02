@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+0479EEC8-221B-4119-8509-216C491017F8,1,39:35.2,09:40.4,1.0,METABOLIC: GLUCOSE,115.5,mg/dL,1982-11-24 14:04:06.660,Male,08:15.5,White,Divorced,English,13.98
+0479EEC8-221B-4119-8509-216C491017F8,2,23:42.0,37:18.0,1.0,METABOLIC: GLUCOSE,115.5,mg/dL,1982-11-24 14:04:06.660,Male,08:15.5,White,Divorced,English,13.98
+0479EEC8-221B-4119-8509-216C491017F8,3,42:26.5,56:39.8,1.0,METABOLIC: GLUCOSE,115.5,mg/dL,1982-11-24 14:04:06.660,Male,08:15.5,White,Divorced,English,13.98

@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+290C29CF-9AB6-40E0-BA4C-88EE28325C28,1,19:29.7,53:45.8,1.0,METABOLIC: CHLORIDE,93.8,mmol/L,1989-11-25 23:11:04.963,Male,42:45.0,White,Single,English,13.55
+290C29CF-9AB6-40E0-BA4C-88EE28325C28,2,41:42.7,17:47.2,1.0,METABOLIC: CHLORIDE,93.8,mmol/L,1989-11-25 23:11:04.963,Male,42:45.0,White,Single,English,13.55
+290C29CF-9AB6-40E0-BA4C-88EE28325C28,3,16:06.0,17:12.3,1.0,METABOLIC: CHLORIDE,93.8,mmol/L,1989-11-25 23:11:04.963,Male,42:45.0,White,Single,English,13.55
+290C29CF-9AB6-40E0-BA4C-88EE28325C28,4,15:41.1,02:48.8,1.0,METABOLIC: CHLORIDE,93.8,mmol/L,1989-11-25 23:11:04.963,Male,42:45.0,White,Single,English,13.55

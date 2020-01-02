@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+B6AD4296-6071-4DAB-81E0-B85EB559A527,1,22:03.6,10:34.3,1.0,METABOLIC: CALCIUM,8.6,mg/dL,2002-05-25 06:20:34.597,Male,03:45.6,Asian,Single,English,2.99
+B6AD4296-6071-4DAB-81E0-B85EB559A527,2,21:34.2,50:40.9,1.0,METABOLIC: CALCIUM,8.6,mg/dL,2002-05-25 06:20:34.597,Male,03:45.6,Asian,Single,English,2.99

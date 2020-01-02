@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+3DC5BEC2-806E-4DCB-8147-C88F1A5034FF,1,17:47.2,39:42.9,1.0,METABOLIC: GLUCOSE,68.0,mg/dL,2009-09-28 06:39:31.697,Female,40:19.5,Unknown,Single,English,14.88

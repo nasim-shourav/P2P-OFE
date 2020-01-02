@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+97B87C05-85CF-40E2-98AD-C4C46141BB38,1,33:21.2,33:27.5,1.0,URINALYSIS: PH,5.4,no unit,2008-12-20 01:47:06.870,Female,30:33.7,White,Married,Unknown,14.66

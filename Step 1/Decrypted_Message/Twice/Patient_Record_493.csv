@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+80EBC8DA-D36C-4458-9F53-CA9C0A124EE9,1,21:34.1,01:02.9,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1958-11-14 11:36:33.143,Male,01:24.5,African American,Single,Spanish,10.32
+80EBC8DA-D36C-4458-9F53-CA9C0A124EE9,2,25:57.1,59:49.0,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1958-11-14 11:36:33.143,Male,01:24.5,African American,Single,Spanish,10.32
+80EBC8DA-D36C-4458-9F53-CA9C0A124EE9,3,41:01.3,43:48.9,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1958-11-14 11:36:33.143,Male,01:24.5,African American,Single,Spanish,10.32
+80EBC8DA-D36C-4458-9F53-CA9C0A124EE9,4,16:16.1,06:14.6,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1958-11-14 11:36:33.143,Male,01:24.5,African American,Single,Spanish,10.32
+80EBC8DA-D36C-4458-9F53-CA9C0A124EE9,5,58:46.2,17:32.4,1.0,METABOLIC: ALBUMIN,4.6,gm/dL,1958-11-14 11:36:33.143,Male,01:24.5,African American,Single,Spanish,10.32

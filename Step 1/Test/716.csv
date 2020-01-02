@@ -1,0 +1,7 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+BB79EA85-76C6-4637-9301-9D13FE39720A,1,07:36.9,31:38.0,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09
+BB79EA85-76C6-4637-9301-9D13FE39720A,2,41:03.8,39:35.6,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09
+BB79EA85-76C6-4637-9301-9D13FE39720A,3,31:10.8,11:43.7,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09
+BB79EA85-76C6-4637-9301-9D13FE39720A,4,49:52.5,13:23.2,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09
+BB79EA85-76C6-4637-9301-9D13FE39720A,5,12:46.6,24:13.4,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09
+BB79EA85-76C6-4637-9301-9D13FE39720A,6,38:15.7,48:06.2,1.0,CBC: MCH,36.9,pg,1992-10-17 14:37:13.943,Male,37:52.0,White,Divorced,English,14.09

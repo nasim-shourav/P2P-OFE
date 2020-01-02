@@ -1,0 +1,6 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+68097A49-2E72-484F-818C-0CD9CCA2427D,1,04:47.4,11:51.8,1.0,URINALYSIS: RED BLOOD CELLS,3.0,rbc/hpf,1977-09-28 23:21:38.747,Male,32:14.7,African American,Married,Icelandic,3.02
+68097A49-2E72-484F-818C-0CD9CCA2427D,2,24:15.0,01:28.8,1.0,URINALYSIS: RED BLOOD CELLS,3.0,rbc/hpf,1977-09-28 23:21:38.747,Male,32:14.7,African American,Married,Icelandic,3.02
+68097A49-2E72-484F-818C-0CD9CCA2427D,3,19:22.0,13:46.2,1.0,URINALYSIS: RED BLOOD CELLS,3.0,rbc/hpf,1977-09-28 23:21:38.747,Male,32:14.7,African American,Married,Icelandic,3.02
+68097A49-2E72-484F-818C-0CD9CCA2427D,4,58:29.5,51:12.5,1.0,URINALYSIS: RED BLOOD CELLS,3.0,rbc/hpf,1977-09-28 23:21:38.747,Male,32:14.7,African American,Married,Icelandic,3.02
+68097A49-2E72-484F-818C-0CD9CCA2427D,5,17:53.1,41:37.1,1.0,URINALYSIS: RED BLOOD CELLS,3.0,rbc/hpf,1977-09-28 23:21:38.747,Male,32:14.7,African American,Married,Icelandic,3.02

@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+FE249BCA-472D-4291-B860-0248EDFFC5AA,1,29:10.0,04:51.8,1.0,CBC: LYMPHOCYTES,3.8,k/cumm,2009-03-05 08:27:14.270,Female,51:03.9,White,Married,English,87.77

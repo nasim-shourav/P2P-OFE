@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+254DF8B1-5EE9-474E-8CAC-05A03584A904,1,14:04.6,25:40.3,1.0,CBC: MCH,30.0,pg,2016-10-07 08:27:33.727,Female,13:48.5,Unknown,Single,English,12.78

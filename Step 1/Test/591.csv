@@ -1,0 +1,3 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+996D11DC-79A5-45A4-8DB8-AC68EF160C42,1,41:33.7,21:18.0,1.0,METABOLIC: CARBON DIOXIDE,32.3,mmol/L,1961-03-08 05:47:03.817,Female,44:18.2,White,Separated,English,89.63
+996D11DC-79A5-45A4-8DB8-AC68EF160C42,2,04:56.1,35:05.0,1.0,METABOLIC: CARBON DIOXIDE,32.3,mmol/L,1961-03-08 05:47:03.817,Female,44:18.2,White,Separated,English,89.63

@@ -1,0 +1,2 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+61822C9A-DC00-4867-B9BF-A9F8ED8E71F5,1,28:16.2,41:21.3,1.0,URINALYSIS: SPECIFIC GRAVITY,1.0,no unit,2010-08-19 09:22:42.247,Male,06:52.4,African American,Single,Icelandic,11.41

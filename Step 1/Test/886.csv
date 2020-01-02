@@ -1,0 +1,5 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E54B81CB-8399-4916-8BBC-D05E24D6580D,1,09:35.0,34:45.2,1.0,CBC: EOSINOPHILS,0.3,k/cumm,1961-09-21 10:56:51.990,Female,52:23.7,African American,Single,Spanish,12.17
+E54B81CB-8399-4916-8BBC-D05E24D6580D,2,52:44.2,58:28.9,1.0,CBC: EOSINOPHILS,0.3,k/cumm,1961-09-21 10:56:51.990,Female,52:23.7,African American,Single,Spanish,12.17
+E54B81CB-8399-4916-8BBC-D05E24D6580D,3,01:29.6,40:46.8,1.0,CBC: EOSINOPHILS,0.3,k/cumm,1961-09-21 10:56:51.990,Female,52:23.7,African American,Single,Spanish,12.17
+E54B81CB-8399-4916-8BBC-D05E24D6580D,4,38:25.3,13:55.8,1.0,CBC: EOSINOPHILS,0.3,k/cumm,1961-09-21 10:56:51.990,Female,52:23.7,African American,Single,Spanish,12.17

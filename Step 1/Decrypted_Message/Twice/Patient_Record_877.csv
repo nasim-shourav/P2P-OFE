@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+E44E94E5-0D4B-470B-B0B0-A5525E20265C,1,45:31.9,29:57.3,1.0,CBC: RDW,16.6,%,1988-08-01 22:03:42.633,Female,15:38.1,Unknown,Married,English,16.71
+E44E94E5-0D4B-470B-B0B0-A5525E20265C,2,28:01.0,53:04.8,1.0,CBC: RDW,16.6,%,1988-08-01 22:03:42.633,Female,15:38.1,Unknown,Married,English,16.71
+E44E94E5-0D4B-470B-B0B0-A5525E20265C,3,23:57.8,37:49.4,1.0,CBC: RDW,16.6,%,1988-08-01 22:03:42.633,Female,15:38.1,Unknown,Married,English,16.71

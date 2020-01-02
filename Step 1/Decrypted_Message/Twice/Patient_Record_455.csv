@@ -1,0 +1,4 @@
+PatientID,AdmissionID_x,AdmissionStartDate,AdmissionEndDate,AdmissionID_y,LabName,LabValue,LabUnits,LabDateTime,PatientGender,PatientDateOfBirth,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty
+767018FD-C235-473C-8129-604EC83DAAFB,1,43:22.4,32:34.6,1.0,METABOLIC: BILI TOTAL,0.9,mg/dL,2002-04-09 01:14:45.817,Male,37:40.0,White,Married,English,12.0
+767018FD-C235-473C-8129-604EC83DAAFB,2,01:37.2,27:52.6,1.0,METABOLIC: BILI TOTAL,0.9,mg/dL,2002-04-09 01:14:45.817,Male,37:40.0,White,Married,English,12.0
+767018FD-C235-473C-8129-604EC83DAAFB,3,06:35.2,40:45.9,1.0,METABOLIC: BILI TOTAL,0.9,mg/dL,2002-04-09 01:14:45.817,Male,37:40.0,White,Married,English,12.0
